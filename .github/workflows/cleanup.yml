@@ -2,32 +2,40 @@ name: Cleanup Branches
 
 on:
   workflow_dispatch:  # 手动触发
-  inputs:
-    keep_branch:
-      description: 'Branch to keep'
-      required: true
-      default: 'release_3.6.6'
+
+permissions:
+  contents: write
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     
-    - name: Delete other branches
+    - name: Setup Git
       run: |
-        # 设置要保留的分支
-        KEEP_BRANCH="${{ release_3.6.6 }}"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    
+    - name: Delete all branches except release_3.6.6
+      run: |
+        KEEP_BRANCH="release_3.6.6"
+        
+        echo "Keeping only branch: $KEEP_BRANCH"
         
         # 获取所有分支
         git fetch origin
         
-        # 循环删除除保留分支外的所有远程分支
-        for branch in $(git branch -r | grep -v "origin/HEAD" | sed 's/origin\///'); do
+        # 删除除 release_3.6.6 外的所有分支
+        for branch in $(git branch -r | grep -v "origin/HEAD" | sed 's/origin\///' | tr -d ' '); do
           if [ "$branch" != "$KEEP_BRANCH" ]; then
-            echo "Deleting branch: $branch"
+            echo "Attempting to delete: $branch"
             git push origin --delete "$branch" || true
           fi
         done
+        
+        echo "Cleanup completed!"
