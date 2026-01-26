@@ -2,7 +2,7 @@ This site hosts code for <a href="https://iterm2.com">iTerm2</a>.
 
 [![Build Status](https://travis-ci.org/gnachman/iTerm2.svg?branch=master)](https://travis-ci.org/gnachman/iTerm2)
 [![Coverage Status](https://coveralls.io/repos/github/gnachman/iTerm2/badge.svg?branch=master)](https://coveralls.io/github/gnachman/iTerm2?branch=master)
-
+<h3>iTerm 3.6.6完全汉化版</h3>
 <ul>
 <li><a href="https://iterm2.com/bugs">File a bug report here!</a></li>
 <li>Issues are on <a href="https://gitlab.com/gnachman/iterm2/issues">Gitlab</a> because Github barely supports issue attachments.</li>
