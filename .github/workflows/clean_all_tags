@@ -1,0 +1,43 @@
+name: Delete ALL Tags
+on:
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  delete-all-tags:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository with all tags
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0      # 获取所有历史
+        fetch-tags: true    # 获取所有标签
+        
+    - name: Delete ALL tags
+      run: |
+        echo "=== 开始删除所有标签 ==="
+        
+        # 1. 获取所有标签
+        ALL_TAGS=$(git tag -l)
+        
+        if [ -z "$ALL_TAGS" ]; then
+          echo "没有标签可删除"
+          exit 0
+        fi
+        
+        echo "找到 $(echo "$ALL_TAGS" | wc -l) 个标签"
+        echo "$ALL_TAGS"
+        echo ""
+        
+        # 2. 批量删除所有标签
+        echo "正在删除所有标签..."
+        for TAG in $ALL_TAGS; do
+          echo "删除: $TAG"
+          # 删除本地标签
+          git tag -d "$TAG" 2>/dev/null || true
+          # 删除远程标签
+          git push origin --delete "refs/tags/$TAG" 2>/dev/null || true
+        done
+        
+        echo ""
+        echo "✅ 所有标签已删除！"
