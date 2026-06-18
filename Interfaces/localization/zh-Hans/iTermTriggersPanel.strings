@@ -1,0 +1,24 @@
+﻿
+/* Class = "NSButtonCell"; title = "Use interpolated strings for parameters"; ObjectID = "88E-ST-PKZ"; */
+"88E-ST-PKZ.title" = "参数使用插值字符串";
+
+/* Class = "NSButtonCell"; title = "Copy to Profile"; ObjectID = "AEX-CI-4kN"; */
+"AEX-CI-4kN.title" = "拷贝到配置文件";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BxO-lA-ml2"; */
+"BxO-lA-ml2.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "c0p-Xj-FkC"; */
+"c0p-Xj-FkC.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "Triggers"; ObjectID = "gWO-i1-Pad"; */
+"gWO-i1-Pad.title" = "触发器";
+
+/* Class = "NSTableColumn"; headerCell.title = "Regular Expression"; ObjectID = "hKE-xP-l4d"; */
+"hKE-xP-l4d.headerCell.title" = "正则表达式";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "oHh-pq-MkT"; */
+"oHh-pq-MkT.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "No trigger selected"; ObjectID = "zb2-dV-MBm"; */
+"zb2-dV-MBm.title" = "未选择触发器";

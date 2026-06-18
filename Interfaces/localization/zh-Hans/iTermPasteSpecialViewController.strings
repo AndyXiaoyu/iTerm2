@@ -1,0 +1,114 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Requires Shell Integration for prompt detection"; ObjectID = "5Lu-I0-zTV"; */
+"5Lu-I0-zTV.title" = "需要 Shell 集成以检测提示符";
+
+/* Class = "NSButtonCell"; title = "Replace"; ObjectID = "65A-9c-omm"; */
+"65A-9c-omm.title" = "替换";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This is enabled when the running app has sent an escape code to turn on “bracketed paste mode.” The pasted string will be “bracketed” by escape codes indicating the text within is from a paste operation."; ObjectID = "6tG-RX-FWF"; */
+"6tG-RX-FWF.ibShadowedToolTip" = "当运行中的程序发送了开启“括号粘贴模式”的转义码时,此项启用。粘贴的字符串将被转义码“括起”,以表明其中的文本来自粘贴操作。";
+
+/* Class = "NSButtonCell"; title = "Escape tabs with ^V"; ObjectID = "8UF-96-NRu"; */
+"8UF-96-NRu.title" = "用 ^V 转义制表符";
+
+/* Class = "NSButtonCell"; title = "Paste with tabs"; ObjectID = "9FR-lE-vZJ"; */
+"9FR-lE-vZJ.title" = "带制表符粘贴";
+
+/* Class = "NSTextFieldCell"; title = "1 ms"; ObjectID = "Ba7-4w-YL4"; */
+"Ba7-4w-YL4.title" = "1 毫秒";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Converts various forms of quotation marks and dashes to their ASCII equivalents."; ObjectID = "C2O-DY-y76"; */
+"C2O-DY-y76.ibShadowedToolTip" = "将各种形式的引号和破折号转换为等价的 ASCII 字符。";
+
+/* Class = "NSButtonCell"; title = "Convert tabs to spaces:"; ObjectID = "EeN-We-9AA"; */
+"EeN-We-9AA.title" = "将制表符转换为空格:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Both DOS and UNIX newlines are generally not used as input. CR is standard."; ObjectID = "FKu-pE-gGN"; */
+"FKu-pE-gGN.ibShadowedToolTip" = "DOS 和 UNIX 换行符通常都不作为输入。CR 才是标准。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Both DOS and UNIX newlines are generally not used as input. CR is standard."; ObjectID = "I7q-KH-dfd"; */
+"I7q-KH-dfd.ibShadowedToolTip" = "DOS 和 UNIX 换行符通常都不作为输入。CR 才是标准。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Tab, line feed, form feed, and carriage return are the only “safe” control codes."; ObjectID = "ILq-w8-PQn"; */
+"ILq-w8-PQn.ibShadowedToolTip" = "制表符、换行、换页和回车是仅有的“安全”控制码。";
+
+/* Class = "NSTextFieldCell"; title = "Transforms"; ObjectID = "IOU-ld-y0b"; */
+"IOU-ld-y0b.title" = "转换";
+
+/* Class = "NSTextFieldCell"; title = "ICU regular expression syntax"; ObjectID = "Iuq-a0-6jh"; */
+"Iuq-a0-6jh.title" = "ICU 正则表达式语法";
+
+/* Class = "NSTextFieldCell"; title = "100 ms"; ObjectID = "J7i-FI-poE"; */
+"J7i-FI-poE.title" = "100 毫秒";
+
+/* Class = "NSTextFieldCell"; title = "with"; ObjectID = "M1n-rk-o3M"; */
+"M1n-rk-o3M.title" = "替换为";
+
+/* Class = "NSButtonCell"; title = "Remove unsafe control codes"; ObjectID = "Nc9-bk-vWI"; */
+"Nc9-bk-vWI.title" = "移除不安全的控制码";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Regular Expression"; ObjectID = "Qmg-L3-fKu"; */
+"Qmg-L3-fKu.placeholderString" = "正则表达式";
+
+/* Class = "NSTextFieldCell"; title = "1.2 kB"; ObjectID = "RNM-1C-IVn"; */
+"RNM-1C-IVn.title" = "1.2 kB";
+
+/* Class = "NSTextFieldCell"; title = "150 ms"; ObjectID = "Rzy-TP-eag"; */
+"Rzy-TP-eag.title" = "150 毫秒";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "T6S-me-J0t"; */
+"T6S-me-J0t.title" = "单选按钮";
+
+/* Class = "NSButtonCell"; title = "Remove newlines"; ObjectID = "TcS-Fq-kZn"; */
+"TcS-Fq-kZn.title" = "移除换行符";
+
+/* Class = "NSTextFieldCell"; title = "1 MB"; ObjectID = "WDY-mt-Qhp"; */
+"WDY-mt-Qhp.title" = "1 MB";
+
+/* Class = "NSButtonCell"; title = "Convert CRLF and LF to CR"; ObjectID = "YGo-el-jcx"; */
+"YGo-el-jcx.title" = "将 CRLF 和 LF 转换为 CR";
+
+/* Class = "NSButtonCell"; title = "Base-64 encode"; ObjectID = "YXc-NP-geE"; */
+"YXc-NP-geE.title" = "Base-64 编码";
+
+/* Class = "NSButtonCell"; title = "Convert Unicode punctuation"; ObjectID = "a6z-Q5-O3y"; */
+"a6z-Q5-O3y.title" = "转换 Unicode 标点";
+
+/* Class = "NSTextFieldCell"; title = "Respects vim escape sequences"; ObjectID = "a9K-ff-GBV"; */
+"a9K-ff-GBV.title" = "遵循 vim 转义序列";
+
+/* Class = "NSButtonCell"; title = "Escape shell characters with \\"; ObjectID = "geX-hg-c5A"; */
+"geX-hg-c5A.title" = "用 \\ 转义 shell 字符";
+
+/* Class = "NSTextFieldCell"; title = "Chunk Size:"; ObjectID = "gmQ-6D-hd3"; */
+"gmQ-6D-hd3.title" = "块大小:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Substitution"; ObjectID = "hpt-tW-eP7"; */
+"hpt-tW-eP7.placeholderString" = "替换";
+
+/* Class = "NSTextFieldCell"; title = "1 kB"; ObjectID = "lBa-zz-w0b"; */
+"lBa-zz-w0b.title" = "1 kB";
+
+/* Class = "NSTextFieldCell"; title = "Speed"; ObjectID = "mzg-ua-zxf"; */
+"mzg-ua-zxf.title" = "速度";
+
+/* Class = "NSButtonCell"; title = "Wait for shell prompt before pasting each line"; ObjectID = "nQ4-xf-lMs"; */
+"nQ4-xf-lMs.title" = "粘贴每行前等待 shell 提示符";
+
+/* Class = "NSTextFieldCell"; title = "Interchunk Delay:"; ObjectID = "oIL-MU-4nf"; */
+"oIL-MU-4nf.title" = "块间延迟:";
+
+/* Class = "NSTextFieldCell"; title = "1 byte"; ObjectID = "q05-F1-Nx6"; */
+"q05-F1-Nx6.title" = "1 字节";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "sRn-9b-46B"; */
+"sRn-9b-46B.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "Use $1, $2, etc. for capture groups"; ObjectID = "tpG-Jk-bWC"; */
+"tpG-Jk-bWC.title" = "用 $1、$2 等表示捕获组";
+
+/* Class = "NSButtonCell"; title = "Bracketed paste mode"; ObjectID = "vTr-f3-LoJ"; */
+"vTr-f3-LoJ.title" = "括号粘贴模式";
+
+/* Class = "NSTextFieldCell"; title = "10 sec"; ObjectID = "zMi-ws-xdZ"; */
+"zMi-ws-xdZ.title" = "10 秒";

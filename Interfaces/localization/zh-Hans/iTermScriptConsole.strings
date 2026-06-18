@@ -1,0 +1,48 @@
+﻿
+/* Class = "NSSegmentedCell"; 0bO-7H-4vq.ibShadowedLabels[0] = "All"; ObjectID = "0bO-7H-4vq"; */
+"0bO-7H-4vq.ibShadowedLabels[0]" = "全部";
+
+/* Class = "NSSegmentedCell"; 0bO-7H-4vq.ibShadowedLabels[1] = "Running"; ObjectID = "0bO-7H-4vq"; */
+"0bO-7H-4vq.ibShadowedLabels[1]" = "运行中";
+
+/* Class = "NSButtonCell"; title = "Inspector"; ObjectID = "4ZP-ZI-BFG"; */
+"4ZP-ZI-BFG.title" = "检查器";
+
+/* Class = "NSButtonCell"; title = "Scroll to bottom on update"; ObjectID = "Dad-6X-vZQ"; */
+"Dad-6X-vZQ.title" = "更新时滚动到底部";
+
+/* Class = "NSWindow"; title = "Script Console"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "脚本控制台";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Lob-ih-Cut"; */
+"Lob-ih-Cut.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Terminate"; ObjectID = "OSV-Yd-P1d"; */
+"OSV-Yd-P1d.title" = "终止";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cWH-Mo-7cn"; */
+"cWH-Mo-7cn.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Started"; ObjectID = "cfh-qe-s6c"; */
+"cfh-qe-s6c.headerCell.title" = "已启动";
+
+/* Class = "NSTabViewItem"; label = "Calls"; ObjectID = "eTW-VX-hX3"; */
+"eTW-VX-hX3.label" = "调用";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fkE-fZ-wke"; */
+"fkE-fZ-wke.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Restart"; ObjectID = "gCN-kS-Kv7"; */
+"gCN-kS-Kv7.title" = "重新启动";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Filter"; ObjectID = "hqr-c6-ohx"; */
+"hqr-c6-ohx.placeholderString" = "过滤";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "lw1-Nm-bBu"; */
+"lw1-Nm-bBu.headerCell.title" = "名称";
+
+/* Class = "NSTabViewItem"; label = "Logs"; ObjectID = "r7v-l8-Wnw"; */
+"r7v-l8-Wnw.label" = "日志";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "tvB-kZ-zn0"; */
+"tvB-kZ-zn0.title" = "文本单元格";

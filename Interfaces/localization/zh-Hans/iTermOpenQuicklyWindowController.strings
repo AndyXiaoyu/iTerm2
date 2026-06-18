@@ -1,0 +1,15 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2dW-g3-Ja6"; */
+"2dW-g3-Ja6.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Open Quickly"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "快速打开";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "LTe-QL-Nlc"; */
+"LTe-QL-Nlc.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Detail"; ObjectID = "NGu-Jc-J4f"; */
+"NGu-Jc-J4f.title" = "详细信息";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Search for sessions, profiles, or arrangements"; ObjectID = "ulN-O0-L4B"; */
+"ulN-O0-L4B.placeholderString" = "搜索会话、配置文件或排列";

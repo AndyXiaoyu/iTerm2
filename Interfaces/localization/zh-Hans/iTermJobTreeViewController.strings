@@ -1,0 +1,27 @@
+﻿
+/* Class = "NSTableColumn"; headerCell.title = "pid"; ObjectID = "5A5-qS-a5c"; */
+"5A5-qS-a5c.headerCell.title" = "pid";
+
+/* Class = "NSTableColumn"; headerCell.title = "Job"; ObjectID = "5d6-Bf-wD7"; */
+"5d6-Bf-wD7.headerCell.title" = "任务";
+
+/* Class = "NSMenuItem"; title = "Copy Process ID"; ObjectID = "KdW-Ay-P6t"; */
+"KdW-Ay-P6t.title" = "拷贝进程 ID";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Sz1-9v-Gzl"; */
+"Sz1-9v-Gzl.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "YHH-QV-B0h"; */
+"YHH-QV-B0h.title" = "文本单元格";
+
+/* Class = "NSComboBoxCell"; lef-nJ-tqb.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "lef-nJ-tqb"; */
+"lef-nJ-tqb.ibShadowedObjectValues[0]" = "项目 1";
+
+/* Class = "NSComboBoxCell"; lef-nJ-tqb.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "lef-nJ-tqb"; */
+"lef-nJ-tqb.ibShadowedObjectValues[1]" = "项目 2";
+
+/* Class = "NSComboBoxCell"; lef-nJ-tqb.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "lef-nJ-tqb"; */
+"lef-nJ-tqb.ibShadowedObjectValues[2]" = "项目 3";
+
+/* Class = "NSMenuItem"; title = "Copy Command"; ObjectID = "pEI-G1-GB6"; */
+"pEI-G1-GB6.title" = "拷贝命令";

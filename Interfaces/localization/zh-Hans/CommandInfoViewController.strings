@@ -1,0 +1,66 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "12 bytes"; ObjectID = "08U-bp-m38"; */
+"08U-bp-m38.title" = "12 字节";
+
+/* Class = "NSTextFieldCell"; title = "/directory"; ObjectID = "0w1-N3-vpN"; */
+"0w1-N3-vpN.title" = "/directory";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy directory"; ObjectID = "2qj-sU-AUO"; */
+"2qj-sU-AUO.ibShadowedToolTip" = "拷贝目录";
+
+/* Class = "NSTextFieldCell"; title = "Started at %@"; ObjectID = "KCF-7e-H8C"; */
+"KCF-7e-H8C.title" = "开始于 %@";
+
+/* Class = "NSTextFieldCell"; title = "command"; ObjectID = "MHQ-ga-Xvf"; */
+"MHQ-ga-Xvf.title" = "命令";
+
+/* Class = "NSTextFieldCell"; title = "Directory:"; ObjectID = "OEf-DH-Kf3"; */
+"OEf-DH-Kf3.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Return Code:"; ObjectID = "Oj2-Xr-SWy"; */
+"Oj2-Xr-SWy.title" = "返回码:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Write directory to terminal"; ObjectID = "Plm-e7-RFK"; */
+"Plm-e7-RFK.ibShadowedToolTip" = "将目录写入终端";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Share command…"; ObjectID = "WLQ-uR-fm0"; */
+"WLQ-uR-fm0.ibShadowedToolTip" = "共享命令…";
+
+/* Class = "NSTextFieldCell"; title = "Command:"; ObjectID = "Xwa-Sy-XcB"; */
+"Xwa-Sy-XcB.title" = "命令:";
+
+/* Class = "NSTextFieldCell"; title = "127"; ObjectID = "YLQ-rO-0Mh"; */
+"YLQ-rO-0Mh.title" = "127";
+
+/* Class = "NSButtonCell"; title = "Disable showing offscreen command"; ObjectID = "YSm-Mh-1SD"; */
+"YSm-Mh-1SD.title" = "停用显示屏幕外命令";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Select command’s output"; ObjectID = "ais-yY-bgC"; */
+"ais-yY-bgC.ibShadowedToolTip" = "选择命令的输出";
+
+/* Class = "NSTextFieldCell"; title = "1h 35m"; ObjectID = "b7D-W4-4dx"; */
+"b7D-W4-4dx.title" = "1 小时 35 分";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "cYx-Tz-ls5"; */
+"cYx-Tz-ls5.title" = "输出:";
+
+/* Class = "NSTextFieldCell"; title = "Copied"; ObjectID = "eS6-Vw-gbd"; */
+"eS6-Vw-gbd.title" = "已拷贝";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy command to clipboard"; ObjectID = "gaG-d9-QES"; */
+"gaG-d9-QES.ibShadowedToolTip" = "将命令拷贝到剪贴板";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Open command in Composer"; ObjectID = "lEf-yQ-9GU"; */
+"lEf-yQ-9GU.ibShadowedToolTip" = "在编辑器中打开命令";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "Draggable Folder"; ObjectID = "lO8-vd-LCm"; */
+"lO8-vd-LCm.ibShadowedToolTip" = "可拖移的文件夹";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Write command to terminal"; ObjectID = "nN8-GS-lBf"; */
+"nN8-GS-lBf.ibShadowedToolTip" = "将命令写入终端";
+
+/* Class = "NSTextFieldCell"; title = "Running Time:"; ObjectID = "ueU-pI-V9e"; */
+"ueU-pI-V9e.title" = "运行时间:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Copy command’s output"; ObjectID = "w1e-QE-s74"; */
+"w1e-QE-s74.ibShadowedToolTip" = "拷贝命令的输出";

@@ -1,0 +1,21 @@
+﻿
+/* Class = "NSMenuItem"; title = "Erase Search History"; ObjectID = "4me-Ls-hxI"; */
+"4me-Ls-hxI.title" = "清除搜索历史";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Substring"; ObjectID = "6Ko-6b-aFL"; */
+"6Ko-6b-aFL.title" = "区分大小写子串";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Regex"; ObjectID = "EuT-0X-vc4"; */
+"EuT-0X-vc4.title" = "区分大小写正则";
+
+/* Class = "NSMenuItem"; title = "Smart Case Substring"; ObjectID = "Q6W-kJ-cqr"; */
+"Q6W-kJ-cqr.title" = "智能大小写子串";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Regex"; ObjectID = "Rw9-Gj-Jr9"; */
+"Rw9-Gj-Jr9.title" = "不区分大小写正则";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Substring"; ObjectID = "adQ-N9-EnU"; */
+"adQ-N9-EnU.title" = "不区分大小写子串";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "dfd-7C-O0k"; */
+"dfd-7C-O0k.placeholderString" = "搜索";

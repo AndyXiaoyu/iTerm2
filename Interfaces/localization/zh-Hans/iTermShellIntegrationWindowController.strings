@@ -1,0 +1,93 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Downloads the latest version. Runs curl | bash"; ObjectID = "3ik-Ec-g95"; */
+"3ik-Ec-g95.title" = "下载最新版本。运行 curl | bash";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "A3D-QU-2Cx"; */
+"A3D-QU-2Cx.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "BbS-EU-hMu"; */
+"BbS-EU-hMu.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "E0t-ip-Qv2"; */
+"E0t-ip-Qv2.title" = "继续";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "GW7-My-Ydm"; */
+"GW7-My-Ydm.title" = "跳过";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ghw-SZ-fwQ"; */
+"Ghw-SZ-fwQ.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "H9m-Oh-rVp"; */
+"H9m-Oh-rVp.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Preview Command"; ObjectID = "K0a-WG-CVu"; */
+"K0a-WG-CVu.title" = "预览命令";
+
+/* Class = "NSButtonCell"; title = "Preview Command"; ObjectID = "OOc-Is-r4d"; */
+"OOc-Is-r4d.title" = "预览命令";
+
+/* Class = "NSTextFieldCell"; title = "How would you like to install Shell Integration?\n\nIn this process, your shell’s startup scripts will be modified. This installer will enter commands in the terminal window for you."; ObjectID = "UYA-J9-ck1"; */
+"UYA-J9-ck1.title" = "你想如何安装 Shell 集成?\n\n在此过程中,你的 shell 启动脚本将被修改。此安装程序会在终端窗口中为你输入命令。";
+
+/* Class = "NSTextFieldCell"; title = "Create a new tab to try it out.\n\nFor best results, install shell integration on all hosts you ssh in to."; ObjectID = "WeK-Fh-3OJ"; */
+"WeK-Fh-3OJ.title" = "新建一个标签页来试用。\n\n为获得最佳效果,请在所有你 ssh 登录的主机上安装 shell 集成。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Zbw-qG-h4I"; */
+"Zbw-qG-h4I.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "b2l-Qa-QNL"; */
+"b2l-Qa-QNL.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "1. Discover which shell you use.\n2. Add script files under your home directory.\n3. Install utility scripts.\n4. Modify your shell’s startup scripts."; ObjectID = "bFR-qd-VRH"; */
+"bFR-qd-VRH.title" = "1. 检测你使用的 shell。\n2. 在个人目录下添加脚本文件。\n3. 安装实用脚本。\n4. 修改你的 shell 启动脚本。";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "cmu-UF-19Z"; */
+"cmu-UF-19Z.title" = "返回";
+
+/* Class = "NSTextFieldCell"; title = "Utilities include scripts to download files, display images inline, and more. "; ObjectID = "cyF-wg-XYY"; */
+"cyF-wg-XYY.title" = "实用工具包含用于下载文件、内联显示图像等的脚本。";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "dEn-49-J38"; */
+"dEn-49-J38.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Internet-Free Install"; ObjectID = "naS-Ve-VEB"; */
+"naS-Ve-VEB.title" = "离线安装";
+
+/* Class = "NSButtonCell"; title = "Download and Run Installer"; ObjectID = "ncg-Is-RuU"; */
+"ncg-Is-RuU.title" = "下载并运行安装程序";
+
+/* Class = "NSButtonCell"; title = "Also install iTerm2 Utilities"; ObjectID = "ntQ-Ku-Hh9"; */
+"ntQ-Ku-Hh9.title" = "同时安装 iTerm2 实用工具";
+
+/* Class = "NSTextFieldCell"; title = "Guided manual installation. No download required."; ObjectID = "oFz-OK-xmV"; */
+"oFz-OK-xmV.title" = "引导式手动安装。无需下载。";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "pUe-5J-qNa"; */
+"pUe-5J-qNa.title" = "继续";
+
+/* Class = "NSTextFieldCell"; title = "🎉"; ObjectID = "ra4-BC-EG1"; */
+"ra4-BC-EG1.title" = "🎉";
+
+/* Class = "NSButtonCell"; title = "Preview Command"; ObjectID = "srv-Ew-0Pt"; */
+"srv-Ew-0Pt.title" = "预览命令";
+
+/* Class = "NSButtonCell"; title = "Go Back"; ObjectID = "u02-01-Bxc"; */
+"u02-01-Bxc.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Preview Command"; ObjectID = "vFx-5X-71f"; */
+"vFx-5X-71f.title" = "预览命令";
+
+/* Class = "NSTextFieldCell"; title = "Installation complete!"; ObjectID = "vT8-og-7pl"; */
+"vT8-og-7pl.title" = "安装完成!";
+
+/* Class = "NSTextFieldCell"; title = "This will run the following command:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash"; ObjectID = "w9k-Lv-5eU"; */
+"w9k-Lv-5eU.title" = "这将运行以下命令:\n\ncurl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash";
+
+/* Class = "NSTextFieldCell"; title = "Shell Integration consists of scripts that help your shell communicate with iTerm2 so it can track the commands you’re running, your current directory, and other state. "; ObjectID = "wl0-hO-Vi5"; */
+"wl0-hO-Vi5.title" = "Shell 集成由一组脚本组成,帮助你的 shell 与 iTerm2 通信,从而追踪你正在运行的命令、当前目录及其他状态。";
+
+/* Class = "NSTextFieldCell"; title = "Install Shell Integration"; ObjectID = "ypn-Vl-A1e"; */
+"ypn-Vl-A1e.title" = "安装 Shell 集成";

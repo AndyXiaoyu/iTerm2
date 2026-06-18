@@ -1,0 +1,78 @@
+﻿
+/* Class = "NSMenuItem"; title = "Reveal"; ObjectID = "28l-AU-yFl"; */
+"28l-AU-yFl.title" = "显示";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4kZ-xL-XWK"; */
+"4kZ-xL-XWK.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "7cU-N4-WkN"; */
+"7cU-N4-WkN.headerCell.title" = "路径";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Chg-vY-InI"; */
+"Chg-vY-InI.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Scripting Inspector"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "脚本检查器";
+
+/* Class = "NSTextFieldCell"; title = "Variables"; ObjectID = "JtV-c8-grt"; */
+"JtV-c8-grt.title" = "变量";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ky4-re-4k0"; */
+"Ky4-re-4k0.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Copy Path"; ObjectID = "MJL-Ks-9nr"; */
+"MJL-Ks-9nr.title" = "拷贝路径";
+
+/* Class = "NSTextFieldCell"; title = "Registered Functions"; ObjectID = "MVx-5l-zL2"; */
+"MVx-5l-zL2.title" = "已注册函数";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Npb-X7-GRK"; */
+"Npb-X7-GRK.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Object Name (ID)"; ObjectID = "QWy-lN-Bvo"; */
+"QWy-lN-Bvo.headerCell.title" = "对象名称 (ID)";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TE5-Lb-pFb"; */
+"TE5-Lb-pFb.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "⨁"; ObjectID = "UR4-22-8xy"; */
+"UR4-22-8xy.title" = "⨁";
+
+/* Class = "NSTableColumn"; headerCell.title = "Script"; ObjectID = "UYv-fx-BVO"; */
+"UYv-fx-BVO.headerCell.title" = "脚本";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "XSZ-1k-tzU"; */
+"XSZ-1k-tzU.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "YVQ-Gm-rQT"; */
+"YVQ-Gm-rQT.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Signature"; ObjectID = "dey-iS-DiC"; */
+"dey-iS-DiC.headerCell.title" = "签名";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "e4w-Qo-WSh"; */
+"e4w-Qo-WSh.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eP2-4q-ZDd"; */
+"eP2-4q-ZDd.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Sessions, Tabs, and Windows"; ObjectID = "iOp-Uy-0Oi"; */
+"iOp-Uy-0Oi.title" = "会话、标签页和窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Role"; ObjectID = "l5i-1A-HmI"; */
+"l5i-1A-HmI.headerCell.title" = "角色";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "oVR-Kb-byH"; */
+"oVR-Kb-byH.headerCell.title" = "值";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "pXH-vy-Cey"; */
+"pXH-vy-Cey.title" = "表格视图单元格";
+
+/* Class = "NSMenuItem"; title = "Copy ID"; ObjectID = "qAy-Iv-DBZ"; */
+"qAy-Iv-DBZ.title" = "拷贝 ID";
+
+/* Class = "NSMenuItem"; title = "Copy Value"; ObjectID = "vbZ-sk-erj"; */
+"vbZ-sk-erj.title" = "拷贝值";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "zzD-i1-39n"; */
+"zzD-i1-39n.title" = "表格视图单元格";

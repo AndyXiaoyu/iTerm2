@@ -35,6 +35,85 @@
 #import "URLAction.h"
 #import "WindowControllerInterface.h"
 
+// 右键菜单中文本地化映射表（汉化补丁）。
+// iTerm2 右键菜单的菜单项标题大量硬编码在源码中，未走 NSLocalizedString，
+// 因此通过此函数在设置标题时统一翻译。命中则返回中文，未命中原样返回。
+static NSString *iTermZHContextMenuTitle(NSString *title) {
+    if (title == nil) {
+        return title;
+    }
+    static NSDictionary<NSString *, NSString *> *map = nil;
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        map = @{
+            @"Contextual Menu": @"上下文菜单",
+            @"Set Baseline for Relative Timestamps": @"设定相对时间戳基准",
+            @"Disable Relative Timestamps": @"停用相对时间戳",
+            @"Remove Named Mark": @"移除命名标记",
+            @"Command Info": @"命令信息",
+            @"Unfold": @"展开",
+            @"Fold": @"折叠",
+            @"Move Session to Tab": @"将会话移至标签页",
+            @"Move Session to Window": @"将会话移至窗口",
+            @"Move Session to Split Pane": @"将会话移至分隔窗格",
+            @"Copy Link Address": @"拷贝链接地址",
+            @"Terminal State": @"终端状态",
+            @"Main Menu": @"主菜单",
+            @"Re-run Command": @"重新运行命令",
+            @"Select Command Output": @"选择命令输出",
+            @"Open Selection as URL": @"将所选内容作为网址打开",
+            @"Open URL in Vertical Split Pane": @"在垂直分隔窗格中打开网址",
+            @"Open URL in Horizontal Split Pane": @"在水平分隔窗格中打开网址",
+            @"Annotate Selection": @"为所选内容添加注释",
+            @"Reveal Annotation": @"显示注释",
+            @"Save Selection as Snippet": @"将所选内容存储为片段",
+            @"Search the Web for Selection": @"在网页中搜索所选内容",
+            @"Send Email to Selected Address": @"向所选地址发送邮件",
+            @"Send Selection": @"发送所选内容",
+            @"Quick Look Link": @"快速查看链接",
+            @"Add Trigger…": @"添加触发器…",
+            @"Edit Session...": @"编辑会话…",
+            @"Swap With Session…": @"与会话交换…",
+            @"Split Pane Horizontally": @"水平分隔窗格",
+            @"Split Pane Vertically": @"垂直分隔窗格",
+            @"Clear Buffer": @"清空缓冲区",
+            @"Close": @"关闭",
+            @"Restart": @"重新启动",
+            @"Bury": @"隐藏",
+            @"Stop Coprocess": @"停止协处理程序",
+            @"Toggle Broadcasting Input": @"切换广播输入",
+            @"Alternate Screen": @"备用屏幕",
+            @"Focus Reporting": @"焦点报告",
+            @"Mouse Reporting": @"鼠标报告",
+            @"Paste Bracketing": @"括号粘贴",
+            @"Application Cursor": @"应用程序光标",
+            @"Application Keypad": @"应用程序小键盘",
+            @"Standard Key Reporting Mode": @"标准按键报告模式",
+            @"CSI u Mode": @"CSI u 模式",
+            @"Raw Key Reporting Mode": @"原始按键报告模式",
+            @"Disambiguate Escape": @"消除转义歧义",
+            @"Report All Event Types": @"报告所有事件类型",
+            @"Report Alternate Keys": @"报告备用按键",
+            @"Report All Keys as Escape Codes": @"将所有按键报告为转义码",
+            @"Report Associated Text": @"报告关联文本",
+            @"Literal Controls": @"字面控制码",
+            @"Emulation Level": @"仿真级别",
+            @"Copy File": @"拷贝文件",
+            @"Copy Image": @"拷贝图像",
+            @"Open File": @"打开文件",
+            @"Open Image": @"打开图像",
+            @"Inspect": @"检查",
+            @"Save File As…": @"文件存储为…",
+            @"Save Image As…": @"图像存储为…",
+            @"Resume Animating": @"恢复动画",
+            @"Stop Animating": @"停止动画",
+            @"PLACEHOLDER_MAP1": @"占位",
+        };
+    });
+    NSString *zh = map[title];
+    return zh ?: title;
+}
+
 const int kMaxSelectedTextLengthForCustomActions = 400;
 
 @interface iTermTextViewContextMenuHelper()<NSMenuItemValidation>
@@ -121,10 +200,10 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
 - (NSMenu *)timestampContextMenuWithEvent:(NSEvent *)event
                                  baseline:(NSTimeInterval)baseline
                               clickedTime:(NSTimeInterval)clickedTime {
-    NSMenu *menu = [[NSMenu alloc] initWithTitle:@"Contextual Menu"];
+    NSMenu *menu = [[NSMenu alloc] initWithTitle:iTermZHContextMenuTitle(@"Contextual Menu")];
 
     if (baseline != clickedTime) {
-        NSMenuItem *item = [[NSMenuItem alloc] initWithTitle:@"Set Baseline for Relative Timestamps"
+        NSMenuItem *item = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Set Baseline for Relative Timestamps")
                                                       action:@selector(setTimestampBaseline:)
                                                keyEquivalent:@""];
         item.target = self;
@@ -132,7 +211,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         [menu addItem:item];
     }
     if (baseline != 0) {
-        NSMenuItem *item = [[NSMenuItem alloc] initWithTitle:@"Disable Relative Timestamps"
+        NSMenuItem *item = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Disable Relative Timestamps")
                                                       action:@selector(setTimestampBaseline:)
                                                keyEquivalent:@""];
         item.target = self;
@@ -196,7 +275,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     if (mark.name) {
         NSMenuItem *nameItem = [[NSMenuItem alloc] initWithTitle:mark.name action:nil keyEquivalent:@""];
 
-        NSMenuItem *removeItem = [[NSMenuItem alloc] initWithTitle:@"Remove Named Mark" action:@selector(removeNamedMark:) keyEquivalent:@""];
+        NSMenuItem *removeItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Remove Named Mark") action:@selector(removeNamedMark:) keyEquivalent:@""];
         removeItem.target = self;
         removeItem.representedObject = mark;
 
@@ -205,7 +284,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         [contextMenu insertItem:[NSMenuItem separatorItem] atIndex:2];
     }
     if (mark && mark.command.length) {
-        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:@"Command Info"
+        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Command Info")
                                                           action:@selector(revealCommandInfo:)
                                                    keyEquivalent:@""];
         markItem.target = self;
@@ -221,7 +300,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     id<VT100ScreenMarkReading> mark = [self.delegate contextMenuCommandWithOutputAtLine:y];
 
     if (foldMark) {
-        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:@"Unfold"
+        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Unfold")
                                                           action:@selector(unfoldMark:)
                                                    keyEquivalent:@""];
         markItem.target = self;
@@ -229,7 +308,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         [contextMenu insertItem:markItem atIndex:0];
         [contextMenu insertItem:[NSMenuItem separatorItem] atIndex:1];
     } else if (mark && mark.command.length && [self.delegate contextMenu:self markShouldBeFoldable:mark]) {
-        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:@"Fold"
+        NSMenuItem *markItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Fold")
                                                           action:@selector(foldCommandMark:)
                                                    keyEquivalent:@""];
         markItem.target = self;
@@ -338,7 +417,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     NSMenu *theMenu;
 
     // Allocate a menu
-    theMenu = [[NSMenu alloc] initWithTitle:@"Contextual Menu"];
+    theMenu = [[NSMenu alloc] initWithTitle:iTermZHContextMenuTitle(@"Contextual Menu")];
     id<iTermImageInfoReading> imageInfo = [self.delegate contextMenu:self imageInfoAtCoord:coord];
     if (imageInfo) {
         // Show context menu for an image.
@@ -377,7 +456,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         for (NSDictionary *entryDict in entryDicts) {
             NSMenuItem *item;
 
-            item = [[NSMenuItem alloc] initWithTitle:entryDict[@"title"]
+            item = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(entryDict[@"title"])
                                               action:NSSelectorFromString(entryDict[@"selector"])
                                        keyEquivalent:@""];
             [item setRepresentedObject:imageInfo];
@@ -439,17 +518,17 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
 
                 switch (replacement.kind) {
                     case iTermSelectionReplacementKindJson:
-                        item.title = @"Replace with Pretty-Printed JSON";
+                        item.title = @"替换为格式化的 JSON";
                         item.action = @selector(replaceWithPrettyJSON:);
                         break;
 
                     case iTermSelectionReplacementKindBase64Decode:
-                        item.title = @"Replace with Base64-Decoded Value";
+                        item.title = @"替换为 Base64 解码值";
                         item.action = @selector(replaceWithBase64Decoded:);
                         break;
 
                     case iTermSelectionReplacementKindBase64Encode:
-                        item.title = @"Replace with Base64-Encoded Value";
+                        item.title = @"替换为 Base64 编码值";
                         item.action = @selector(replaceWithBase64Encoded:);
                         break;
                 }
@@ -494,7 +573,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     }
 
     void (^add)(NSString *, SEL) = ^(NSString *title, SEL selector) {
-        [theMenu addItemWithTitle:title
+        [theMenu addItemWithTitle:iTermZHContextMenuTitle(title)
                          action:selector
                     keyEquivalent:@""];
         [[theMenu itemAtIndex:[theMenu numberOfItems] - 1] setTarget:self];
@@ -542,12 +621,12 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
 
     add(@"Move Session to Split Pane", @selector(movePane:));
     if ([self.delegate contextMenuCurrentTabHasMultipleSessions:self]) {
-        NSMenuItem *item = [theMenu addItemWithTitle:@"Move Session to Tab"
+        NSMenuItem *item = [theMenu addItemWithTitle:iTermZHContextMenuTitle(@"Move Session to Tab")
                                               action:@selector(moveSessionToTab:)
                                        keyEquivalent:@""];
         item.representedObject = [self.delegate contextMenuSessionScope:self].ID;
     }
-    [theMenu addItemWithTitle:@"Move Session to Window"
+    [theMenu addItemWithTitle:iTermZHContextMenuTitle(@"Move Session to Window")
                      action:@selector(moveSessionToWindow:)
                 keyEquivalent:@""];
     add(@"Swap With Session…", @selector(swapSessions:));
@@ -568,7 +647,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         NSString *urlID;
         NSURL *url = [extractor urlOfHypertextLinkAt:coord urlId:&urlID target:nil];
         if (url) {
-            NSMenuItem *item = [theMenu addItemWithTitle:@"Copy Link Address" action:@selector(copyLinkAddress:) keyEquivalent:@""];
+            NSMenuItem *item = [theMenu addItemWithTitle:iTermZHContextMenuTitle(@"Copy Link Address") action:@selector(copyLinkAddress:) keyEquivalent:@""];
             item.target = self;
             item.representedObject = url;
         }
@@ -636,8 +715,8 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
 
     // Terminal State
     [theMenu addItem:[NSMenuItem separatorItem]];
-    NSMenuItem *terminalState = [[NSMenuItem alloc] initWithTitle:@"Terminal State" action:nil keyEquivalent:@""];
-    terminalState.submenu = [[NSMenu alloc] initWithTitle:@"Terminal State"];
+    NSMenuItem *terminalState = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Terminal State") action:nil keyEquivalent:@""];
+    terminalState.submenu = [[NSMenu alloc] initWithTitle:iTermZHContextMenuTitle(@"Terminal State")];
 
     struct {
         NSString *title;
@@ -674,7 +753,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
             [terminalState.submenu addItem:[NSMenuItem separatorItem]];
             continue;
         }
-        NSMenuItem *item = [terminalState.submenu addItemWithTitle:terminalStateDecls[i].title
+        NSMenuItem *item = [terminalState.submenu addItemWithTitle:iTermZHContextMenuTitle(terminalStateDecls[i].title)
                                                             action:terminalStateDecls[i].action
                                                      keyEquivalent:@""];
         item.tag = j;
@@ -702,7 +781,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
             [levelMenu addItem:[NSMenuItem separatorItem]];
             continue;
         }
-        NSMenuItem *item = [levelMenu addItemWithTitle:emulationLevelDecls[i].title
+        NSMenuItem *item = [levelMenu addItemWithTitle:iTermZHContextMenuTitle(emulationLevelDecls[i].title)
                                                 action:emulationLevelDecls[i].action
                                          keyEquivalent:@""];
         item.tag = j;
@@ -723,7 +802,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     if (![[iTermApplication sharedApplication] isUIElement]) {
         return;
     }
-    NSMenuItem *mainMenuItem = [[NSMenuItem alloc] initWithTitle:@"Main Menu" action:nil keyEquivalent:@""];
+    NSMenuItem *mainMenuItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Main Menu") action:nil keyEquivalent:@""];
     NSMenu *copyOfMainMenu = [[NSMenu alloc] init];
     for (NSMenuItem *mainMenuItem in NSApp.mainMenu.itemArray) {
         [self addCopyOfItem:mainMenuItem to:copyOfMainMenu];
@@ -819,20 +898,20 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
     NSMenu *theMenu;
 
     // Allocate a menu
-    theMenu = [[NSMenu alloc] initWithTitle:@"Contextual Menu"];
+    theMenu = [[NSMenu alloc] initWithTitle:iTermZHContextMenuTitle(@"Contextual Menu")];
 
     NSMenuItem *theItem = [[NSMenuItem alloc] init];
-    theItem.title = [NSString stringWithFormat:@"Command: %@", mark.command];
+    theItem.title = [NSString stringWithFormat:@"命令: %@", mark.command];
     [theMenu addItem:theItem];
 
     if (directory) {
         theItem = [[NSMenuItem alloc] init];
-        theItem.title = [NSString stringWithFormat:@"Directory: %@", directory];
+        theItem.title = [NSString stringWithFormat:@"目录: %@", directory];
         [theMenu addItem:theItem];
     }
 
     theItem = [[NSMenuItem alloc] init];
-    theItem.title = [NSString stringWithFormat:@"Return code: %d", mark.code];
+    theItem.title = [NSString stringWithFormat:@"返回码: %d", mark.code];
     [theMenu addItem:theItem];
 
     if (mark.startDate) {
@@ -848,7 +927,7 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
         int seconds = (int)runningTime % 60;
         int millis = (int) ((runningTime - floor(runningTime)) * 1000);
         if (hours > 0) {
-            theItem.title = [NSString stringWithFormat:@"Running time: %d:%02d:%02d",
+            theItem.title = [NSString stringWithFormat:@"运行时间: %d:%02d:%02d",
                              hours, minutes, seconds];
         } else {
             theItem.title = [NSString stringWithFormat:@"Running time: %d:%02d.%03d",
@@ -859,14 +938,14 @@ const int kMaxSelectedTextLengthForCustomActions = 400;
 
     [theMenu addItem:[NSMenuItem separatorItem]];
 
-    theItem = [[NSMenuItem alloc] initWithTitle:@"Re-run Command"
+    theItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Re-run Command")
                                          action:@selector(reRunCommand:)
                                   keyEquivalent:@""];
     theItem.target = self;
     [theItem setRepresentedObject:mark.command];
     [theMenu addItem:theItem];
 
-    theItem = [[NSMenuItem alloc] initWithTitle:@"Select Command Output"
+    theItem = [[NSMenuItem alloc] initWithTitle:iTermZHContextMenuTitle(@"Select Command Output")
                                          action:@selector(selectCommandOutput:)
                                   keyEquivalent:@""];
     theItem.target = self;

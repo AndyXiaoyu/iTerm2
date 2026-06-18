@@ -1,0 +1,63 @@
+﻿
+/* Class = "NSTextFieldCell"; placeholderString = "U+xxx"; ObjectID = "19O-2l-lvt"; */
+"19O-2l-lvt.placeholderString" = "U+xxx";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4Hg-ra-GQd"; */
+"4Hg-ra-GQd.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Special Exceptions specify fonts to use for particular characters."; ObjectID = "50c-TU-qXa"; */
+"50c-TU-qXa.title" = "特殊例外用于为特定字符指定字体。";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7FX-3Z-vzN"; */
+"7FX-3Z-vzN.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Install Nerd Font Bundle…"; ObjectID = "7bA-9Z-zK3"; */
+"7bA-9Z-zK3.title" = "安装 Nerd Font 字体包…";
+
+/* Class = "NSWindow"; title = "Edit Special Exception"; ObjectID = "7pL-Nx-6Zr"; */
+"7pL-Nx-6Zr.title" = "编辑特殊例外";
+
+/* Class = "NSTextFieldCell"; placeholderString = "U+xxx"; ObjectID = "Eaw-6f-gXv"; */
+"Eaw-6f-gXv.placeholderString" = "U+xxx";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "GFP-YT-OoG"; */
+"GFP-YT-OoG.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "Of Font:"; ObjectID = "Hpa-f0-bgv"; */
+"Hpa-f0-bgv.title" = "字体:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Nme-0p-Ecj"; */
+"Nme-0p-Ecj.title" = "取消";
+
+/* Class = "NSWindow"; title = "Manage Special Exceptions"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "管理特殊例外";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "TCb-v5-35O"; */
+"TCb-v5-35O.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; placeholderString = "U+xxx"; ObjectID = "YOm-En-lgT"; */
+"YOm-En-lgT.placeholderString" = "U+xxx";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gmK-HJ-jjQ"; */
+"gmK-HJ-jjQ.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "hwU-9V-qXY"; */
+"hwU-9V-qXY.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "For characters starting at"; ObjectID = "jbS-ge-dwV"; */
+"jbS-ge-dwV.title" = "起始字符为";
+
+/* Class = "NSTextFieldCell"; title = "to"; ObjectID = "nyP-1o-ltH"; */
+"nyP-1o-ltH.title" = "至";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "pWK-8b-trh"; */
+"pWK-8b-trh.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "raH-fi-CM2"; */
+"raH-fi-CM2.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "Use Code Points"; ObjectID = "w1n-Lp-vNo"; */
+"w1n-Lp-vNo.title" = "使用码点";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "xs7-DG-LSZ"; */
+"xs7-DG-LSZ.title" = "取消";

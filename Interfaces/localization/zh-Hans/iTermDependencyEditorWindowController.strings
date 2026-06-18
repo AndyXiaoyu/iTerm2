@@ -1,0 +1,57 @@
+﻿
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "4vz-Hi-I7e"; */
+"4vz-Hi-I7e.title" = "项目 2";
+
+/* Class = "NSTextFieldCell"; title = "This script must be upgraded to a “full environment“ to add dependencies. Doing so makes a copy of the Python runtime but will not use any additional disk space."; ObjectID = "5dO-zM-mKW"; */
+"5dO-zM-mKW.title" = "此脚本必须升级为“完整环境”才能添加依赖。这样做会拷贝一份 Python 运行时,但不会占用额外磁盘空间。";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "Bbw-oV-sqL"; */
+"Bbw-oV-sqL.title" = "移除";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "C7L-Fa-1P1"; */
+"C7L-Fa-1P1.title" = "项目 3";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "E35-gf-neG"; */
+"E35-gf-neG.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Script Dependency Editor"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "脚本依赖编辑器";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "KFo-Ti-RPi"; */
+"KFo-Ti-RPi.title" = "项目 1";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MM0-kC-jit"; */
+"MM0-kC-jit.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "MOF-xv-VwK"; */
+"MOF-xv-VwK.title" = "项目 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "MaW-HJ-CZN"; */
+"MaW-HJ-CZN.title" = "项目 2";
+
+/* Class = "NSButtonCell"; title = "Check for Update"; ObjectID = "N2q-ka-O6q"; */
+"N2q-ka-O6q.title" = "检查更新";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Q0o-Bt-Ls8"; */
+"Q0o-Bt-Ls8.title" = "项目 1";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Sum-p6-dXV"; */
+"Sum-p6-dXV.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "Python Version:"; ObjectID = "aZ5-bL-q1Z"; */
+"aZ5-bL-q1Z.title" = "Python 版本:";
+
+/* Class = "NSButtonCell"; title = "Upgrade"; ObjectID = "cqu-zb-kcO"; */
+"cqu-zb-kcO.title" = "升级";
+
+/* Class = "NSTextFieldCell"; title = "Script:"; ObjectID = "dO8-q4-9ap"; */
+"dO8-q4-9ap.title" = "脚本:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Package Name"; ObjectID = "l3B-Fs-Mb7"; */
+"l3B-Fs-Mb7.headerCell.title" = "包名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Installed Version"; ObjectID = "oTM-1A-6Cy"; */
+"oTM-1A-6Cy.headerCell.title" = "已安装版本";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "wIu-4M-jHf"; */
+"wIu-4M-jHf.title" = "添加";

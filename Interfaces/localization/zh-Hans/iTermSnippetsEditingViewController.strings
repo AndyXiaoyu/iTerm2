@@ -1,0 +1,21 @@
+﻿
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "0Np-Qf-kVH"; */
+"0Np-Qf-kVH.title" = "编辑";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "6pA-fv-f64"; */
+"6pA-fv-f64.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "LNz-uY-GTV"; */
+"LNz-uY-GTV.headerCell.title" = "标题";
+
+/* Class = "NSTableColumn"; headerCell.title = "Text"; ObjectID = "olW-AG-GO6"; */
+"olW-AG-GO6.headerCell.title" = "文本";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sV2-W1-Fsm"; */
+"sV2-W1-Fsm.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uai-V2-7c2"; */
+"uai-V2-7c2.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "vsF-qn-e2J"; */
+"vsF-qn-e2J.title" = "表格视图单元格";

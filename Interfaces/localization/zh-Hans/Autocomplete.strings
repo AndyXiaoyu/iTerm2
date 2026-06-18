@@ -1,0 +1,9 @@
+﻿
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Autocomplete"; ObjectID = "9"; */
+"9.headerCell.title" = "自动补全";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "文本单元格";

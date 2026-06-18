@@ -1,0 +1,42 @@
+﻿
+/* Class = "NSMenuItem"; title = "Smart Case Substring"; ObjectID = "16"; */
+"16.title" = "智能大小写子串";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter"; ObjectID = "3rb-hW-qnO"; */
+"3rb-hW-qnO.placeholderString" = "过滤";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Substring"; ObjectID = "6Px-6a-JTm"; */
+"6Px-6a-JTm.title" = "不区分大小写子串";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Regex"; ObjectID = "C2V-dA-zRG"; */
+"C2V-dA-zRG.title" = "不区分大小写正则";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Regex"; ObjectID = "G2m-Ta-5TL"; */
+"G2m-Ta-5TL.title" = "不区分大小写正则";
+
+/* Class = "NSMenuItem"; title = "Filter"; ObjectID = "GvQ-WH-LQw"; */
+"GvQ-WH-LQw.title" = "过滤";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Substring"; ObjectID = "IJN-DB-LJ2"; */
+"IJN-DB-LJ2.title" = "区分大小写子串";
+
+/* Class = "NSMenuItem"; title = "Smart Case Substring"; ObjectID = "SN7-Sj-4U1"; */
+"SN7-Sj-4U1.title" = "智能大小写子串";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Substring"; ObjectID = "Vbn-Kf-BFO"; */
+"Vbn-Kf-BFO.title" = "不区分大小写子串";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Regex"; ObjectID = "Z0l-BY-eOm"; */
+"Z0l-BY-eOm.title" = "区分大小写正则";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Substring"; ObjectID = "bNJ-IZ-LLw"; */
+"bNJ-IZ-LLw.title" = "区分大小写子串";
+
+/* Class = "NSMenuItem"; title = "Erase Search History"; ObjectID = "cGh-hQ-V9H"; */
+"cGh-hQ-V9H.title" = "清除搜索历史";
+
+/* Class = "NSTextFieldCell"; title = "Searching only selected command"; ObjectID = "cHp-uK-OtV"; */
+"cHp-uK-OtV.title" = "仅搜索所选命令";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Regex"; ObjectID = "s1o-x7-jkk"; */
+"s1o-x7-jkk.title" = "区分大小写正则";

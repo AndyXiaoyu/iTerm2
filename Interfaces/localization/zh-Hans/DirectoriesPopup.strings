@@ -1,0 +1,15 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "9fx-aq-76u"; */
+"9fx-aq-76u.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Cui-Xs-cZu"; */
+"Cui-Xs-cZu.title" = "窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Directory"; ObjectID = "U7W-FQ-kpa"; */
+"U7W-FQ-kpa.headerCell.title" = "目录";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last Used"; ObjectID = "Ulb-ua-5qo"; */
+"Ulb-ua-5qo.headerCell.title" = "上次使用";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UzX-oW-b24"; */
+"UzX-oW-b24.title" = "文本单元格";

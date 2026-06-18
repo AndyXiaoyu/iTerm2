@@ -1,0 +1,9 @@
+﻿
+/* Class = "NSWindow"; title = "Python Runtime Installer"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Python 运行时安装程序";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gzI-bv-tHD"; */
+"gzI-bv-tHD.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Downloading optional components…"; ObjectID = "zkn-hg-CCD"; */
+"zkn-hg-CCD.title" = "正在下载可选组件…";

@@ -1,0 +1,21 @@
+﻿
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "3U6-gV-9Ii"; */
+"3U6-gV-9Ii.headerCell.title" = "动作";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "CcW-2M-p2J"; */
+"CcW-2M-p2J.title" = "编辑";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "DOy-4R-s2i"; */
+"DOy-4R-s2i.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "SAm-L0-yhB"; */
+"SAm-L0-yhB.headerCell.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gE9-nI-b7i"; */
+"gE9-nI-b7i.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gLY-zz-zNF"; */
+"gLY-zz-zNF.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qPD-aQ-3TC"; */
+"qPD-aQ-3TC.title" = "文本单元格";
