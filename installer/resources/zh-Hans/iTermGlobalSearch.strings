@@ -1,0 +1,30 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "HEADER CELL"; ObjectID = "BPF-Ns-hhl"; */
+"BPF-Ns-hhl.title" = "标题单元格";
+
+/* Class = "NSWindow"; title = "Find Globally"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "全局查找";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "IUo-u2-OSE"; */
+"IUo-u2-OSE.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Regex — Case Insensitive"; ObjectID = "PDj-il-aje"; */
+"PDj-il-aje.title" = "正则表达式 — 不区分大小写";
+
+/* Class = "NSTextFieldCell"; title = "Find"; ObjectID = "QAS-VR-5CF"; */
+"QAS-VR-5CF.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Substring — Case Insensitive"; ObjectID = "WUN-bs-wb8"; */
+"WUN-bs-wb8.title" = "子字符串 — 不区分大小写";
+
+/* Class = "NSMenuItem"; title = "Substring — Case Sensitive"; ObjectID = "lB6-jU-NcS"; */
+"lB6-jU-NcS.title" = "子字符串 — 区分大小写";
+
+/* Class = "NSMenuItem"; title = "Substring — Automatic"; ObjectID = "oQV-ia-c2e"; */
+"oQV-ia-c2e.title" = "子字符串 — 自动";
+
+/* Class = "NSMenuItem"; title = "Regex — Case Sensitive"; ObjectID = "rAb-YJ-OeS"; */
+"rAb-YJ-OeS.title" = "正则表达式 — 区分大小写";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "wfz-nT-tKQ"; */
+"wfz-nT-tKQ.title" = "表格视图单元格";

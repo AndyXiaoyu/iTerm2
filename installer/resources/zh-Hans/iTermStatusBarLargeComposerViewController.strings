@@ -1,0 +1,12 @@
+﻿
+/* Class = "NSButton"; ibShadowedToolTip = "Describes how to use the composer."; ObjectID = "Due-Dn-30r"; */
+"Due-Dn-30r.ibShadowedToolTip" = "说明如何使用编辑器。";
+
+/* Class = "NSTextFieldCell"; title = "AI completion enabled: all text sent to AI"; ObjectID = "d6h-kf-O57"; */
+"d6h-kf-O57.title" = "已启用 AI 补全:所有文本将发送给 AI";
+
+/* Class = "NSTextFieldCell"; title = "Press ⇧↩ to send."; ObjectID = "mjF-rO-FZ2"; */
+"mjF-rO-FZ2.title" = "按 ⇧↩ 发送。";
+
+/* Class = "NSButtonCell"; title = "AI"; ObjectID = "zb3-gB-4Zi"; */
+"zb3-gB-4Zi.title" = "AI";

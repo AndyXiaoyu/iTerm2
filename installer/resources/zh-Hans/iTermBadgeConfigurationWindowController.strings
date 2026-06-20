@@ -1,0 +1,39 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "4yt-Mn-eE0"; */
+"4yt-Mn-eE0.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "pt"; ObjectID = "9YR-jP-bZp"; */
+"9YR-jP-bZp.title" = "pt";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Top Margin:"; ObjectID = "IRy-Vu-Amx"; */
+"IRy-Vu-Amx.title" = "上边距:";
+
+/* Class = "NSTextFieldCell"; title = "Right Margin:"; ObjectID = "Lmx-Ar-Wkl"; */
+"Lmx-Ar-Wkl.title" = "右边距:";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "Mxx-AB-QVI"; */
+"Mxx-AB-QVI.title" = "%";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "NmK-ja-Adb"; */
+"NmK-ja-Adb.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "pt"; ObjectID = "R48-OO-NHL"; */
+"R48-OO-NHL.title" = "pt";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Height:"; ObjectID = "VHg-jD-PO9"; */
+"VHg-jD-PO9.title" = "最大高度:";
+
+/* Class = "NSTextFieldCell"; title = "Maximum Width:"; ObjectID = "aOH-8A-NdL"; */
+"aOH-8A-NdL.title" = "最大宽度:";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bkD-NC-Lgo"; */
+"bkD-NC-Lgo.title" = "方框";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qav-US-B5y"; */
+"qav-US-B5y.title" = "方框";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "yzX-Y9-9IP"; */
+"yzX-Y9-9IP.title" = "取消";

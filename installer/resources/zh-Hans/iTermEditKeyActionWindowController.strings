@@ -1,0 +1,66 @@
+﻿
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "8e1-tH-zIt"; */
+"8e1-tH-zIt.title" = "其他视图";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BTa-vf-cI2"; */
+"BTa-vf-cI2.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Set Keyboard Shortcut"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "设置键盘快捷键";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Fhv-Fo-bzd"; */
+"Fhv-Fo-bzd.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "GiU-A2-oLi"; */
+"GiU-A2-oLi.title" = "动作:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "KO8-U0-ca5"; */
+"KO8-U0-ca5.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; placeholderString = "ex: 0x7f"; ObjectID = "QTL-FQ-Diu"; */
+"QTL-FQ-Diu.placeholderString" = "例如: 0x7f";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "S7J-2N-AsL"; */
+"S7J-2N-AsL.title" = "其他视图";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "T00-UT-45K"; */
+"T00-UT-45K.title" = "配置文件:";
+
+/* Class = "NSMenuItem"; title = "Move by Word"; ObjectID = "Ujq-Yh-FZ2"; */
+"Ujq-Yh-FZ2.title" = "按词移动";
+
+/* Class = "NSTextFieldCell"; title = "Esc+"; ObjectID = "WbG-ev-YAV"; */
+"WbG-ev-YAV.title" = "Esc+";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Xfc-fg-vql"; */
+"Xfc-fg-vql.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Move by Line"; ObjectID = "Ysw-TJ-E0w"; */
+"Ysw-TJ-E0w.title" = "按行移动";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ZT2-C7-qf5"; */
+"ZT2-C7-qf5.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Move by Mark"; ObjectID = "cCu-Aq-YHj"; */
+"cCu-Aq-YHj.title" = "按标记移动";
+
+/* Class = "NSTextFieldCell"; title = "Color Preset:"; ObjectID = "gdc-og-Wst"; */
+"gdc-og-Wst.title" = "颜色预设:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Label to show in Touch Bar"; ObjectID = "mYT-YJ-w7Z"; */
+"mYT-YJ-w7Z.placeholderString" = "在触控栏中显示的标签";
+
+/* Class = "NSMenuItem"; title = "Move by Character"; ObjectID = "nyw-Fu-OuP"; */
+"nyw-Fu-OuP.title" = "按字符移动";
+
+/* Class = "NSTextFieldCell"; title = "Error message goes here"; ObjectID = "v6X-rc-pu8"; */
+"v6X-rc-pu8.title" = "错误信息显示在此处";
+
+/* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "vSP-yA-XuW"; */
+"vSP-yA-XuW.title" = "动作:";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Shortcut:"; ObjectID = "yKb-4m-EJs"; */
+"yKb-4m-EJs.title" = "键盘快捷键:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zMC-Yr-nMr"; */
+"zMC-Yr-nMr.title" = "好";

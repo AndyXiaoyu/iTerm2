@@ -1,0 +1,51 @@
+﻿
+/* Class = "NSButtonCell"; title = "Reuse previous session's directory"; ObjectID = "5JZ-fv-M9U"; */
+"5JZ-fv-M9U.title" = "重用上一会话的目录";
+
+/* Class = "NSButtonCell"; title = "Home directory"; ObjectID = "6mB-LP-747"; */
+"6mB-LP-747.title" = "个人目录";
+
+/* Class = "NSTextFieldCell"; title = "Working Directory for New Tabs"; ObjectID = "8Os-WL-DkE"; */
+"8Os-WL-DkE.title" = "新标签页的工作目录";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "BSH-xK-ICw"; */
+"BSH-xK-ICw.title" = "单选按钮";
+
+/* Class = "NSButtonCell"; title = "Directory:"; ObjectID = "Ieo-mE-vpq"; */
+"Ieo-mE-vpq.title" = "目录:";
+
+/* Class = "NSTextFieldCell"; title = "Working Directory for New Split Panes"; ObjectID = "MWK-km-GHQ"; */
+"MWK-km-GHQ.title" = "新分隔窗格的工作目录";
+
+/* Class = "NSButtonCell"; title = "Directory:"; ObjectID = "SD9-ei-Zdb"; */
+"SD9-ei-Zdb.title" = "目录:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "VBx-Lu-ahF"; */
+"VBx-Lu-ahF.title" = "单选按钮";
+
+/* Class = "NSButtonCell"; title = "Home directory"; ObjectID = "Ziq-3t-wcN"; */
+"Ziq-3t-wcN.title" = "个人目录";
+
+/* Class = "NSTextFieldCell"; title = "Working Directory for New Windows"; ObjectID = "buH-xK-CVR"; */
+"buH-xK-CVR.title" = "新窗口的工作目录";
+
+/* Class = "NSButtonCell"; title = "Reuse previous session's directory"; ObjectID = "dfK-M9-Uwn"; */
+"dfK-M9-Uwn.title" = "重用上一会话的目录";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "fDX-Cg-ad9"; */
+"fDX-Cg-ad9.title" = "单选按钮";
+
+/* Class = "NSButtonCell"; title = "Reuse previous session's directory"; ObjectID = "ffv-Al-noL"; */
+"ffv-Al-noL.title" = "重用上一会话的目录";
+
+/* Class = "NSWindow"; title = "Advanced Working Directory Settings"; ObjectID = "nKk-F6-OG0"; */
+"nKk-F6-OG0.title" = "高级工作目录设置";
+
+/* Class = "NSButtonCell"; title = "Directory:"; ObjectID = "nUw-Py-iKc"; */
+"nUw-Py-iKc.title" = "目录:";
+
+/* Class = "NSButtonCell"; title = "Home directory"; ObjectID = "yO6-Oa-WJ3"; */
+"yO6-Oa-WJ3.title" = "个人目录";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "zkM-uf-Mpi"; */
+"zkM-uf-Mpi.title" = "好";

@@ -1,0 +1,18 @@
+﻿
+/* Class = "NSButtonCell"; title = "Export…"; ObjectID = "AWP-wp-FTJ"; */
+"AWP-wp-FTJ.title" = "导出…";
+
+/* Class = "NSTextFieldCell"; title = "Now"; ObjectID = "Hau-2E-Qk8"; */
+"Hau-2E-Qk8.title" = "现在";
+
+/* Class = "NSWindow"; title = "Instant Replay Control"; ObjectID = "UYp-FA-gZP"; */
+"UYp-FA-gZP.title" = "即时回放控制";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Wj9-c2-bSB"; */
+"Wj9-c2-bSB.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Live View"; ObjectID = "gh2-Nt-9U7"; */
+"gh2-Nt-9U7.title" = "实时视图";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "vJo-pj-XsO"; */
+"vJo-pj-XsO.title" = "时间";

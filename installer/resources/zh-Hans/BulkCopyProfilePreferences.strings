@@ -1,0 +1,39 @@
+﻿
+/* Class = "NSButtonCell"; title = "Colors"; ObjectID = "0jx-Mi-J2i"; */
+"0jx-Mi-J2i.title" = "颜色";
+
+/* Class = "NSButtonCell"; title = "Text"; ObjectID = "70l-W7-ZJS"; */
+"70l-W7-ZJS.title" = "文本";
+
+/* Class = "NSButtonCell"; title = "Web"; ObjectID = "DnD-Zx-Die"; */
+"DnD-Zx-Die.title" = "Web";
+
+/* Class = "NSButtonCell"; title = "Session"; ObjectID = "F3M-Vq-JAY"; */
+"F3M-Vq-JAY.title" = "会话";
+
+/* Class = "NSTextFieldCell"; title = "xxx"; ObjectID = "I4v-0V-7xw"; */
+"I4v-0V-7xw.title" = "xxx";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "NM7-uB-FSU"; */
+"NM7-uB-FSU.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Keys"; ObjectID = "WPj-v2-zIZ"; */
+"WPj-v2-zIZ.title" = "按键";
+
+/* Class = "NSButtonCell"; title = "Advanced"; ObjectID = "fuM-ok-LHm"; */
+"fuM-ok-LHm.title" = "高级";
+
+/* Class = "NSButtonCell"; title = "Window"; ObjectID = "htO-se-n4C"; */
+"htO-se-n4C.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Terminal"; ObjectID = "lCp-6g-h7e"; */
+"lCp-6g-h7e.title" = "终端";
+
+/* Class = "NSTextFieldCell"; title = "To these profiles:"; ObjectID = "nfi-Fs-Fpa"; */
+"nfi-Fs-Fpa.title" = "至这些配置文件:";
+
+/* Class = "NSWindow"; title = "Copy Bookmark Settings"; ObjectID = "viC-2q-HiR"; */
+"viC-2q-HiR.title" = "拷贝书签设置";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "zoP-e3-jDv"; */
+"zoP-e3-jDv.title" = "拷贝";

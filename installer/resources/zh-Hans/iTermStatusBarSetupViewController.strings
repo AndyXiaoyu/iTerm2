@@ -1,0 +1,72 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Drag a component from the menu to Active Components to add it to your status bar."; ObjectID = "0yl-ll-bce"; */
+"0yl-ll-bce.title" = "将组件从菜单拖到“活动组件”即可添加到状态栏。";
+
+/* Class = "NSButtonCell"; title = "Prefer tight packing to stable positioning"; ObjectID = "5a8-iM-Enf"; */
+"5a8-iM-Enf.title" = "紧凑排列优先于稳定定位";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "AKH-fX-DaK"; */
+"AKH-fX-DaK.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "Active Components"; ObjectID = "CB2-6V-rAj"; */
+"CB2-6V-rAj.title" = "活动组件";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "E9x-dQ-Z2f"; */
+"E9x-dQ-Z2f.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "Fy4-yN-EYh"; */
+"Fy4-yN-EYh.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "Status Bar Component Menu"; ObjectID = "Gvg-gH-qBh"; */
+"Gvg-gH-qBh.title" = "状态栏组件菜单";
+
+/* Class = "NSTextFieldCell"; title = "🌈 Auto-Rainbow:"; ObjectID = "HTz-sS-eZA"; */
+"HTz-sS-eZA.title" = "🌈 自动彩虹:";
+
+/* Class = "NSButtonCell"; title = "Configure Component"; ObjectID = "KIr-xD-7ke"; */
+"KIr-xD-7ke.title" = "配置组件";
+
+/* Class = "NSTextFieldCell"; title = "Separator Color:"; ObjectID = "M3o-TT-tkC"; */
+"M3o-TT-tkC.title" = "分隔符颜色:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Mzu-7J-rGb"; */
+"Mzu-7J-rGb.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "Rgf-Sg-NLL"; */
+"Rgf-Sg-NLL.title" = "字体:";
+
+/* Class = "NSTextFieldCell"; title = "Background Color:"; ObjectID = "UMd-lv-UJj"; */
+"UMd-lv-UJj.title" = "背景颜色:";
+
+/* Class = "NSMenuItem"; title = "Disabled"; ObjectID = "dl4-IN-dSo"; */
+"dl4-IN-dSo.title" = "已停用";
+
+/* Class = "NSButtonCell"; title = "Remove components with empty values"; ObjectID = "eaY-DS-MPQ"; */
+"eaY-DS-MPQ.title" = "移除值为空的组件";
+
+/* Class = "NSButtonCell"; title = "Advanced…"; ObjectID = "gwQ-ex-Mu1"; */
+"gwQ-ex-Mu1.title" = "高级…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The tight packing algorithm allows more status bar components to be visible at a time but they tend to jump around more."; ObjectID = "h3F-Ct-TxA"; */
+"h3F-Ct-TxA.ibShadowedToolTip" = "紧凑排列算法可让更多状态栏组件同时可见,但它们更容易频繁移位。";
+
+/* Class = "NSTextFieldCell"; title = "Font name goes here"; ObjectID = "hYG-rt-3qI"; */
+"hYG-rt-3qI.title" = "字体名称显示在此处";
+
+/* Class = "NSButtonCell"; title = "Change"; ObjectID = "jOE-EE-nKA"; */
+"jOE-EE-nKA.title" = "更改";
+
+/* Class = "NSMenuItem"; title = "Dark Colors"; ObjectID = "jgD-En-XDb"; */
+"jgD-En-XDb.title" = "深色";
+
+/* Class = "NSTextFieldCell"; title = "Default Text Color:"; ObjectID = "k1V-lZ-LEe"; */
+"k1V-lZ-LEe.title" = "默认文本颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The tight packing algorithm allows more status bar components to be visible at a time but they tend to jump around more."; ObjectID = "kXu-5A-6d1"; */
+"kXu-5A-6d1.ibShadowedToolTip" = "紧凑排列算法可让更多状态栏组件同时可见,但它们更容易频繁移位。";
+
+/* Class = "NSMenuItem"; title = "Light Colors"; ObjectID = "pjM-aG-lDH"; */
+"pjM-aG-lDH.title" = "浅色";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "w0j-Sf-5ih"; */
+"w0j-Sf-5ih.title" = "好";

@@ -1,0 +1,27 @@
+﻿
+/* Class = "NSWindow"; title = "Profiles"; ObjectID = "5"; */
+"5.title" = "配置文件";
+
+/* Class = "NSButtonCell"; title = "Edit Profiles..."; ObjectID = "321"; */
+"321.title" = "编辑配置文件…";
+
+/* Class = "NSButtonCell"; title = "New Tab"; ObjectID = "328"; */
+"328.title" = "新建标签页";
+
+/* Class = "NSButtonCell"; title = "New Window"; ObjectID = "330"; */
+"330.title" = "新建窗口";
+
+/* Class = "NSButtonCell"; title = "Close this window after opening a profile."; ObjectID = "336"; */
+"336.title" = "打开配置文件后关闭此窗口。";
+
+/* Class = "NSButtonCell"; title = "New Tabs in New Window"; ObjectID = "340"; */
+"340.title" = "在新窗口中新建标签页";
+
+/* Class = "NSButtonCell"; title = "Split Horizontally"; ObjectID = "344"; */
+"344.title" = "水平分隔";
+
+/* Class = "NSButtonCell"; title = "Split Vertically"; ObjectID = "351"; */
+"351.title" = "垂直分隔";
+
+/* Class = "NSButtonCell"; title = "Tags >"; ObjectID = "QXh-S4-dCz"; */
+"QXh-S4-dCz.title" = "标签 >";

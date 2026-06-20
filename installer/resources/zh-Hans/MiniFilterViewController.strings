@@ -1,0 +1,18 @@
+﻿
+/* Class = "NSMenuItem"; title = "Case-Sensitive Substring"; ObjectID = "9a5-fE-FWY"; */
+"9a5-fE-FWY.title" = "区分大小写子字符串";
+
+/* Class = "NSMenuItem"; title = "Smart Case Substring"; ObjectID = "9vm-lJ-Kqt"; */
+"9vm-lJ-Kqt.title" = "智能大小写子字符串";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Substring"; ObjectID = "Gve-ot-1QH"; */
+"Gve-ot-1QH.title" = "不区分大小写子字符串";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter"; ObjectID = "KgY-y0-6XN"; */
+"KgY-y0-6XN.placeholderString" = "过滤";
+
+/* Class = "NSMenuItem"; title = "Case-Sensitive Regex"; ObjectID = "a2M-Nc-Alm"; */
+"a2M-Nc-Alm.title" = "区分大小写正则表达式";
+
+/* Class = "NSMenuItem"; title = "Case-Insensitive Regex"; ObjectID = "elJ-Qs-6bJ"; */
+"elJ-Qs-6bJ.title" = "不区分大小写正则表达式";

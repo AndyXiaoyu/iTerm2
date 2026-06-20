@@ -1,0 +1,18 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "mm:ss"; ObjectID = "8zE-aR-AaJ"; */
+"8zE-aR-AaJ.title" = "mm:ss";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Minimum duration:"; ObjectID = "Vi3-0q-5iR"; */
+"Vi3-0q-5iR.title" = "最短时长:";
+
+/* Class = "NSTextFieldCell"; title = "xxx lines, xxx bytes."; ObjectID = "g9t-TC-J5B"; */
+"g9t-TC-J5B.title" = "xxx 行,xxx 字节。";
+
+/* Class = "NSButtonCell"; title = "Paste"; ObjectID = "lP3-7o-P32"; */
+"lP3-7o-P32.title" = "粘贴";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "tNC-sd-mDR"; */
+"tNC-sd-mDR.title" = "取消";

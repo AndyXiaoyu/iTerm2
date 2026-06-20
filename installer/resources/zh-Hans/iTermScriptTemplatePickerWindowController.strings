@@ -1,0 +1,60 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "A simple script that doesn't have any dependencies besides the iterm2 library."; ObjectID = "0PH-7V-7pR"; */
+"0PH-7V-7pR.title" = "一个除 iterm2 库外没有任何依赖的简单脚本。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2sA-HX-RoK"; */
+"2sA-HX-RoK.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "😈"; ObjectID = "3cc-Nd-Tie"; */
+"3cc-Nd-Tie.title" = "😈";
+
+/* Class = "NSTextFieldCell"; title = "Basic"; ObjectID = "4Ao-3N-cjn"; */
+"4Ao-3N-cjn.title" = "基本";
+
+/* Class = "NSTextFieldCell"; title = "😊"; ObjectID = "8LH-HR-XoS"; */
+"8LH-HR-XoS.title" = "😊";
+
+/* Class = "NSTextFieldCell"; title = "Long-Running Daemon"; ObjectID = "Bvi-lb-MnN"; */
+"Bvi-lb-MnN.title" = "长时间运行的守护进程";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "JSO-Dq-LjB"; */
+"JSO-Dq-LjB.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Choose a script template:"; ObjectID = "Qv1-jV-kL5"; */
+"Qv1-jV-kL5.title" = "选择脚本模板:";
+
+/* Class = "NSTextFieldCell"; title = "Simple"; ObjectID = "erL-4L-rkl"; */
+"erL-4L-rkl.title" = "简单";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "hm4-4H-MvX"; */
+"hm4-4H-MvX.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Choose this template for a simple script that performs actions and terminates."; ObjectID = "keb-oF-eRS"; */
+"keb-oF-eRS.title" = "选择此模板可创建执行操作后即终止的简单脚本。";
+
+/* Class = "NSTextFieldCell"; title = "A script that depends on PyPI packages other than the iterm2 library. A private pyenv will be created for this script."; ObjectID = "mIg-Ye-rwA"; */
+"mIg-Ye-rwA.title" = "依赖于 iterm2 库以外 PyPI 软件包的脚本。将为此脚本创建专用的 pyenv。";
+
+/* Class = "NSTextFieldCell"; title = "🔗"; ObjectID = "nKj-9L-NfW"; */
+"nKj-9L-NfW.title" = "🔗";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "tXz-uS-5p0"; */
+"tXz-uS-5p0.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Full Environment"; ObjectID = "vJf-M0-oyN"; */
+"vJf-M0-oyN.title" = "完整环境";
+
+/* Class = "NSTextFieldCell"; title = "Choose this template for a script that stays running and responds to notifications."; ObjectID = "vRx-t4-Url"; */
+"vRx-t4-Url.title" = "选择此模板可创建持续运行并响应通知的脚本。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "y6b-6d-y5d"; */
+"y6b-6d-y5d.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "🛠️"; ObjectID = "yaQ-52-C21"; */
+"yaQ-52-C21.title" = "🛠️";
+
+/* Class = "NSTextFieldCell"; title = "Choose a Python environment:"; ObjectID = "zMT-9q-c4b"; */
+"zMT-9q-c4b.title" = "选择 Python 环境:";

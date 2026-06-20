@@ -1,0 +1,18 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Set Up Artificial Intelligence"; ObjectID = "BK3-mM-GDU"; */
+"BK3-mM-GDU.title" = "设置人工智能";
+
+/* Class = "NSTextFieldCell"; title = "You may be charged by your AI provider for each token sent or received."; ObjectID = "fuh-hu-cy4"; */
+"fuh-hu-cy4.title" = "你的 AI 服务商可能会按收发的每个 token 收费。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter API Key Here"; ObjectID = "jnn-BI-0e8"; */
+"jnn-BI-0e8.placeholderString" = "在此输入 API 密钥";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "v5X-g1-1qy"; */
+"v5X-g1-1qy.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "vwS-Bq-W9L"; */
+"vwS-Bq-W9L.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "z2s-SU-haO"; */
+"z2s-SU-haO.title" = "好";

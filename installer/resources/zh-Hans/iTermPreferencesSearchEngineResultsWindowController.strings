@@ -1,0 +1,9 @@
+﻿
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "R6j-06-YP9"; */
+"R6j-06-YP9.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uZY-tI-e4y"; */
+"uZY-tI-e4y.title" = "文本单元格";

@@ -1,0 +1,21 @@
+﻿
+/* Class = "NSWindow"; title = "Window"; ObjectID = "514"; */
+"514.title" = "窗口";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "535"; */
+"535.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Coprocess command to run:"; ObjectID = "542"; */
+"542.title" = "要运行的协同进程命令:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "543"; */
+"543.title" = "好";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "544"; */
+"544.title" = "取消";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Enter Command"; ObjectID = "557"; */
+"557.placeholderString" = "输入命令";
+
+/* Class = "NSButtonCell"; title = "Silently ignore errors from this command"; ObjectID = "7KR-E5-Cup"; */
+"7KR-E5-Cup.title" = "静默忽略此命令的错误";

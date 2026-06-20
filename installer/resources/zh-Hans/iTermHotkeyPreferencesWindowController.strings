@@ -1,0 +1,81 @@
+﻿
+/* Class = "NSMenuItem"; title = "⌥ Option"; ObjectID = "2Tz-89-YHl"; */
+"2Tz-89-YHl.title" = "⌥ Option";
+
+/* Class = "NSButtonCell"; title = "Pin hotkey window (stays open on loss of keyboard focus)"; ObjectID = "3jk-f9-QFs"; */
+"3jk-f9-QFs.title" = "固定热键窗口(失去键盘焦点时保持打开)";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey:"; ObjectID = "4F4-bg-0BG"; */
+"4F4-bg-0BG.title" = "热键:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Note: the window is reopened only if it was closed because another app became active."; ObjectID = "6tA-bg-olR"; */
+"6tA-bg-olR.ibShadowedToolTip" = "注意:仅当窗口因另一个 App 变为活跃而关闭时,才会重新打开。";
+
+/* Class = "NSButtonCell"; title = "Don’t do anything special"; ObjectID = "EOt-Jx-9Xl"; */
+"EOt-Jx-9Xl.title" = "不执行任何特殊操作";
+
+/* Class = "NSTextFieldCell"; title = "⚠️"; ObjectID = "FSQ-IF-ujS"; */
+"FSQ-IF-ujS.title" = "⚠️";
+
+/* Class = "NSButtonCell"; title = "Show this Hotkey Window"; ObjectID = "Hhf-xq-TzE"; */
+"Hhf-xq-TzE.title" = "显示此热键窗口";
+
+/* Class = "NSWindow"; title = "HotKey Window Preferences"; ObjectID = "J17-Oy-pHl"; */
+"J17-Oy-pHl.title" = "热键窗口偏好设置";
+
+/* Class = "NSMenuItem"; title = "⌘ Command"; ObjectID = "Jg9-HV-xDm"; */
+"Jg9-HV-xDm.title" = "⌘ Command";
+
+/* Class = "NSTextFieldCell"; title = "Floating windows overlap other windows and the dock, and other apps’ Full Screen windows (if the Hotkey Window’s Space is set to All Spaces)."; ObjectID = "NTW-IM-ZXD"; */
+"NTW-IM-ZXD.title" = "浮动窗口会覆盖其他窗口和 Dock,以及其他 App 的全屏窗口(如果热键窗口的桌面空间设为“所有桌面空间”)。";
+
+/* Class = "NSButtonCell"; title = "Show this Hotkey Window if no other window is open"; ObjectID = "Njf-zs-yLP"; */
+"Njf-zs-yLP.title" = "如果没有其他窗口打开,则显示此热键窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OGS-mD-pmg"; */
+"OGS-mD-pmg.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Animate showing and hiding"; ObjectID = "UCE-Hu-AKa"; */
+"UCE-Hu-AKa.title" = "显示和隐藏时使用动画";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "UEa-r8-RNP"; */
+"UEa-r8-RNP.title" = "好";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "UUQ-aq-rDa"; */
+"UUQ-aq-rDa.title" = "好";
+
+/* Class = "NSWindow"; title = "Additional Hotkeys"; ObjectID = "bEG-lb-Vft"; */
+"bEG-lb-Vft.title" = "额外热键";
+
+/* Class = "NSTextFieldCell"; title = "When you press the hotkey bound to this profile a dedicated window will show or hide. Each profile with a hotkey controls its own Hotkey Window."; ObjectID = "dHI-y9-qMI"; */
+"dHI-y9-qMI.title" = "当你按下绑定到此配置文件的热键时,会显示或隐藏专用窗口。每个带热键的配置文件都控制自己的热键窗口。";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ Another profile uses this shortcut"; ObjectID = "kMo-jN-Ngc"; */
+"kMo-jN-Ngc.title" = "⚠️ 另一个配置文件正在使用此快捷键";
+
+/* Class = "NSMenuItem"; title = "⇧ Shift"; ObjectID = "l57-vU-TNJ"; */
+"l57-vU-TNJ.title" = "⇧ Shift";
+
+/* Class = "NSButtonCell"; title = "Double-tap key:"; ObjectID = "lBc-Et-eAS"; */
+"lBc-Et-eAS.title" = "双击按键:";
+
+/* Class = "NSButtonCell"; title = "Automatically reopen on app reactivation"; ObjectID = "mrJ-OA-dYl"; */
+"mrJ-OA-dYl.title" = "App 重新激活时自动重新打开";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ Another profile uses this double-tap"; ObjectID = "mtg-a1-mt3"; */
+"mtg-a1-mt3.title" = "⚠️ 另一个配置文件正在使用此双击";
+
+/* Class = "NSTextFieldCell"; title = "On Dock icon click:"; ObjectID = "t4R-9R-8yk"; */
+"t4R-9R-8yk.title" = "点按 Dock 图标时:";
+
+/* Class = "NSButtonCell"; title = "Floating window"; ObjectID = "vtv-eH-WbP"; */
+"vtv-eH-WbP.title" = "浮动窗口";
+
+/* Class = "NSMenuItem"; title = "^ Control"; ObjectID = "wp1-Sh-ht3"; */
+"wp1-Sh-ht3.title" = "^ Control";
+
+/* Class = "NSButtonCell"; title = "Additional Hotkeys…"; ObjectID = "y7i-Ti-5SX"; */
+"y7i-Ti-5SX.title" = "额外热键…";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yak-rb-en2"; */
+"yak-rb-en2.title" = "文本单元格";

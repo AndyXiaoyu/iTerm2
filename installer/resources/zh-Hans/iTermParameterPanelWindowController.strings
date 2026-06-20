@@ -1,0 +1,15 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Enter the value for "; ObjectID = "dGd-7A-1cT"; */
+"dGd-7A-1cT.title" = "输入此项的值: ";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "l61-gx-C1I"; */
+"l61-gx-C1I.title" = "好";
+
+/* Class = "NSWindow"; title = "Session Parameter"; ObjectID = "n1r-T9-CaM"; */
+"n1r-T9-CaM.title" = "会话参数";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "rGI-aK-MA4"; */
+"rGI-aK-MA4.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "zWZ-Bc-Jiu"; */
+"zWZ-Bc-Jiu.title" = "名称";

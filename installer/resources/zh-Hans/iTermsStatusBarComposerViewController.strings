@@ -1,0 +1,12 @@
+﻿
+/* Class = "NSComboBoxCell"; placeholderString = "Command"; ObjectID = "dNz-i8-KYx"; */
+"dNz-i8-KYx.placeholderString" = "命令";
+
+/* Class = "NSComboBoxCell"; dNz-i8-KYx.ibShadowedObjectValues[0] = "Item 1"; ObjectID = "dNz-i8-KYx"; */
+"dNz-i8-KYx.ibShadowedObjectValues[0]" = "项目 1";
+
+/* Class = "NSComboBoxCell"; dNz-i8-KYx.ibShadowedObjectValues[1] = "Item 2"; ObjectID = "dNz-i8-KYx"; */
+"dNz-i8-KYx.ibShadowedObjectValues[1]" = "项目 2";
+
+/* Class = "NSComboBoxCell"; dNz-i8-KYx.ibShadowedObjectValues[2] = "Item 3"; ObjectID = "dNz-i8-KYx"; */
+"dNz-i8-KYx.ibShadowedObjectValues[2]" = "项目 3";

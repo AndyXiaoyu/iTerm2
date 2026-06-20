@@ -1,0 +1,45 @@
+﻿
+/* Class = "NSMenuItem"; title = "Presets…"; ObjectID = "0rv-a0-ans"; */
+"0rv-a0-ans.title" = "预设…";
+
+/* Class = "NSButtonCell"; title = "Add Touch Bar Item"; ObjectID = "2Vc-Od-Zym"; */
+"2Vc-Od-Zym.title" = "添加触控栏项目";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6LM-vc-lR6"; */
+"6LM-vc-lR6.title" = "其他视图";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "8iu-ei-TS7"; */
+"8iu-ei-TS7.headerCell.title" = "动作";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "BSk-yF-7rT"; */
+"BSk-yF-7rT.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "QdI-wp-Xjq"; */
+"QdI-wp-Xjq.title" = "表格视图单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Key Combination"; ObjectID = "Qlz-bw-G7W"; */
+"Qlz-bw-G7W.headerCell.title" = "组合键";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "RRF-Iu-wyY"; */
+"RRF-Iu-wyY.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Haptic feedback when pressing esc"; ObjectID = "T2e-te-qXU"; */
+"T2e-te-qXU.title" = "按下 esc 时触觉反馈";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "fqZ-QL-pty"; */
+"fqZ-QL-pty.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "hXF-74-1ll"; */
+"hXF-74-1ll.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Touch Bar Mitigations"; ObjectID = "j1Y-sT-5wz"; */
+"j1Y-sT-5wz.title" = "触控栏缓解措施";
+
+/* Class = "NSButtonCell"; title = "Visual esc key indicator"; ObjectID = "jDm-YT-6t1"; */
+"jDm-YT-6t1.title" = "esc 键可视指示";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "vfN-hY-QgP"; */
+"vfN-hY-QgP.title" = "好";
+
+/* Class = "NSButtonCell"; title = "Key click for esc key"; ObjectID = "ziz-Lx-Vmu"; */
+"ziz-Lx-Vmu.title" = "esc 键按键音";

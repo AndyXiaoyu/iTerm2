@@ -1,0 +1,45 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Set a profile’s type to Browser and you can enjoy almost all the features of iTerm2—regex search, instant replay, split panes, hotkey windows, and more—to view web pages. <a href=\"iterm2whatsnew:/browser\">Try it now!</a>"; ObjectID = "0Bk-78-p2L"; */
+"0Bk-78-p2L.title" = "将配置文件类型设为“浏览器”,即可使用 iTerm2 几乎全部功能——正则搜索、即时回放、分隔窗格、热键窗口等——来浏览网页。<a href=\"iterm2whatsnew:/browser\">立即试用!</a>";
+
+/* Class = "NSButtonCell"; title = "●"; ObjectID = "7s1-aT-qfO"; */
+"7s1-aT-qfO.title" = "●";
+
+/* Class = "NSTextFieldCell"; title = "What’s New in Version 3.6"; ObjectID = "Dih-Go-912"; */
+"Dih-Go-912.title" = "3.6 版新功能";
+
+/* Class = "NSButtonCell"; title = "●"; ObjectID = "IHu-13-I9y"; */
+"IHu-13-I9y.title" = "●";
+
+/* Class = "NSTextFieldCell"; title = "Web Browsing"; ObjectID = "LXN-RX-ZgC"; */
+"LXN-RX-ZgC.title" = "网页浏览";
+
+/* Class = "NSTextFieldCell"; title = "AI Chat lets an LLM view and drive your terminal. Fine-grained permissions settings keep you safe."; ObjectID = "Lvg-vI-G64"; */
+"Lvg-vI-G64.title" = "AI 聊天让大语言模型查看并操控你的终端。细粒度的权限设置保障你的安全。";
+
+/* Class = "NSButtonCell"; title = "●"; ObjectID = "N2h-T9-zrt"; */
+"N2h-T9-zrt.title" = "●";
+
+/* Class = "NSTextFieldCell"; title = "Command Palette"; ObjectID = "OAI-gn-AQ7"; */
+"OAI-gn-AQ7.title" = "命令面板";
+
+/* Class = "NSTextFieldCell"; title = "Right-to-Left Text Support"; ObjectID = "VcV-iJ-Nlq"; */
+"VcV-iJ-Nlq.title" = "从右到左文本支持";
+
+/* Class = "NSButtonCell"; title = "<"; ObjectID = "VdW-Ng-Wlh"; */
+"VdW-Ng-Wlh.title" = "<";
+
+/* Class = "NSTextFieldCell"; title = "The Open Quickly UI is now a command palette. Open with ⇧⌘O and type part of the name of a menu item."; ObjectID = "a2B-NS-5LJ"; */
+"a2B-NS-5LJ.title" = "“快速打开”界面现已成为命令面板。用 ⇧⌘O 打开并输入菜单项名称的一部分即可。";
+
+/* Class = "NSTextFieldCell"; title = "Right-to-Left text is now rendered properly."; ObjectID = "d4H-cG-h3K"; */
+"d4H-cG-h3K.title" = "从右到左文本现已正确渲染。";
+
+/* Class = "NSButtonCell"; title = ">"; ObjectID = "f8J-e6-gm5"; */
+"f8J-e6-gm5.title" = ">";
+
+/* Class = "NSButtonCell"; title = "●"; ObjectID = "fum-rI-3gd"; */
+"fum-rI-3gd.title" = "●";
+
+/* Class = "NSTextFieldCell"; title = "AI Chat"; ObjectID = "hKz-h7-CcP"; */
+"hKz-h7-CcP.title" = "AI 聊天";

@@ -1,0 +1,3258 @@
+﻿
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "1923"; */
+"1923.title" = "偏好设置";
+
+/* Class = "NSTabViewItem"; label = "Global Settings"; ObjectID = "1944"; */
+"1944.label" = "全局设置";
+
+/* Class = "NSTabViewItem"; label = "Bookmarks"; ObjectID = "1945"; */
+"1945.label" = "书签";
+
+/* Class = "NSButtonCell"; title = "Quit when all windows are closed"; ObjectID = "1951"; */
+"1951.title" = "关闭所有窗口时退出";
+
+/* Class = "NSButtonCell"; title = "Open profiles window"; ObjectID = "1960"; */
+"1960.title" = "打开配置文件窗口";
+
+/* Class = "NSButtonCell"; title = "Copy to clipboard on selection"; ObjectID = "1989"; */
+"1989.title" = "选择时拷贝到剪贴板";
+
+/* Class = "NSButtonCell"; title = "Confirm closing multiple sessions"; ObjectID = "1997"; */
+"1997.title" = "关闭多个会话时确认";
+
+/* Class = "NSTextFieldCell"; title = "Characters considered part of a word:"; ObjectID = "2098"; */
+"2098.title" = "视为单词组成部分的字符：";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "2101"; */
+"2101.label" = "通用";
+
+/* Class = "NSTabViewItem"; label = "Colors"; ObjectID = "2102"; */
+"2102.label" = "颜色";
+
+/* Class = "NSTabViewItem"; label = "Terminal"; ObjectID = "2107"; */
+"2107.label" = "终端";
+
+/* Class = "NSTabViewItem"; label = "Keys"; ObjectID = "2109"; */
+"2109.label" = "按键";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "2135"; */
+"2135.title" = "名称：";
+
+/* Class = "NSTextFieldCell"; title = "Command:"; ObjectID = "2137"; */
+"2137.title" = "命令：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Command for new sessions (interpolated string)"; ObjectID = "2138"; */
+"2138.placeholderString" = "新会话的命令（插值字符串）";
+
+/* Class = "NSTextFieldCell"; title = "Initial directory:"; ObjectID = "2140"; */
+"2140.title" = "初始目录：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2144"; */
+"2144.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌃⌘U"; ObjectID = "2145"; */
+"2145.title" = "⌃⌘U";
+
+/* Class = "NSMenuItem"; title = "⌃⌘J"; ObjectID = "2146"; */
+"2146.title" = "⌃⌘J";
+
+/* Class = "NSMenuItem"; title = "⌃⌘V"; ObjectID = "2147"; */
+"2147.title" = "⌃⌘V";
+
+/* Class = "NSMenuItem"; title = "⌃⌘K"; ObjectID = "2148"; */
+"2148.title" = "⌃⌘K";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "2149"; */
+"2149.title" = "3";
+
+/* Class = "NSMenuItem"; title = "⌃⌘W"; ObjectID = "2150"; */
+"2150.title" = "⌃⌘W";
+
+/* Class = "NSMenuItem"; title = "⌃⌘L"; ObjectID = "2151"; */
+"2151.title" = "⌃⌘L";
+
+/* Class = "NSMenuItem"; title = "⌃⌘M"; ObjectID = "2152"; */
+"2152.title" = "⌃⌘M";
+
+/* Class = "NSMenuItem"; title = "⌃⌘N"; ObjectID = "2153"; */
+"2153.title" = "⌃⌘N";
+
+/* Class = "NSMenuItem"; title = "⌃⌘O"; ObjectID = "2154"; */
+"2154.title" = "⌃⌘O";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "2155"; */
+"2155.title" = "5";
+
+/* Class = "NSMenuItem"; title = "6"; ObjectID = "2156"; */
+"2156.title" = "6";
+
+/* Class = "NSMenuItem"; title = "7"; ObjectID = "2157"; */
+"2157.title" = "7";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "2158"; */
+"2158.title" = "8";
+
+/* Class = "NSMenuItem"; title = "9"; ObjectID = "2160"; */
+"2160.title" = "9";
+
+/* Class = "NSMenuItem"; title = "⌃⌘X"; ObjectID = "2161"; */
+"2161.title" = "⌃⌘X";
+
+/* Class = "NSMenuItem"; title = "⌃⌘Y"; ObjectID = "2162"; */
+"2162.title" = "⌃⌘Y";
+
+/* Class = "NSMenuItem"; title = "⌃⌘A"; ObjectID = "2163"; */
+"2163.title" = "⌃⌘A";
+
+/* Class = "NSMenuItem"; title = "⌃⌘Z"; ObjectID = "2164"; */
+"2164.title" = "⌃⌘Z";
+
+/* Class = "NSMenuItem"; title = "⌃⌘B"; ObjectID = "2165"; */
+"2165.title" = "⌃⌘B";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "2166"; */
+"2166.title" = "0";
+
+/* Class = "NSMenuItem"; title = "⌃⌘C"; ObjectID = "2167"; */
+"2167.title" = "⌃⌘C";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "2168"; */
+"2168.title" = "1";
+
+/* Class = "NSMenuItem"; title = "⌃⌘D"; ObjectID = "2169"; */
+"2169.title" = "⌃⌘D";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "2170"; */
+"2170.title" = "4";
+
+/* Class = "NSMenuItem"; title = "⌃⌘P"; ObjectID = "2171"; */
+"2171.title" = "⌃⌘P";
+
+/* Class = "NSMenuItem"; title = "⌃⌘E"; ObjectID = "2172"; */
+"2172.title" = "⌃⌘E";
+
+/* Class = "NSMenuItem"; title = "⌃⌘F"; ObjectID = "2173"; */
+"2173.title" = "⌃⌘F";
+
+/* Class = "NSMenuItem"; title = "⌃⌘Q"; ObjectID = "2174"; */
+"2174.title" = "⌃⌘Q";
+
+/* Class = "NSMenuItem"; title = "⌃⌘G"; ObjectID = "2175"; */
+"2175.title" = "⌃⌘G";
+
+/* Class = "NSMenuItem"; title = "⌃⌘R"; ObjectID = "2176"; */
+"2176.title" = "⌃⌘R";
+
+/* Class = "NSMenuItem"; title = "⌃⌘S"; ObjectID = "2177"; */
+"2177.title" = "⌃⌘S";
+
+/* Class = "NSMenuItem"; title = "⌃⌘H"; ObjectID = "2178"; */
+"2178.title" = "⌃⌘H";
+
+/* Class = "NSMenuItem"; title = "⌃⌘T"; ObjectID = "2179"; */
+"2179.title" = "⌃⌘T";
+
+/* Class = "NSMenuItem"; title = "⌃⌘I"; ObjectID = "2180"; */
+"2180.title" = "⌃⌘I";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "2181"; */
+"2181.title" = "2";
+
+/* Class = "NSTextFieldCell"; title = "Shortcut key:      "; ObjectID = "2182"; */
+"2182.title" = "快捷键：      ";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "2191"; */
+"2191.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Reuse previous session's directory"; ObjectID = "2192"; */
+"2192.title" = "重用上个会话的目录";
+
+/* Class = "NSButtonCell"; title = "Home directory"; ObjectID = "2193"; */
+"2193.title" = "主目录";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter initial directory (interpolated string)"; ObjectID = "2194"; */
+"2194.placeholderString" = "输入初始目录（插值字符串）";
+
+/* Class = "NSTextFieldCell"; title = "Cursor:"; ObjectID = "2317"; */
+"2317.title" = "光标：";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "2318"; */
+"2318.title" = "背景";
+
+/* Class = "NSTextFieldCell"; title = "Defaults:"; ObjectID = "2320"; */
+"2320.title" = "默认值：";
+
+/* Class = "NSTextFieldCell"; title = "Selection:"; ObjectID = "2321"; */
+"2321.title" = "所选内容：";
+
+/* Class = "NSTextFieldCell"; title = "Black"; ObjectID = "2345"; */
+"2345.title" = "黑色";
+
+/* Class = "NSTextFieldCell"; title = "Red"; ObjectID = "2347"; */
+"2347.title" = "红色";
+
+/* Class = "NSTextFieldCell"; title = "Green"; ObjectID = "2349"; */
+"2349.title" = "绿色";
+
+/* Class = "NSTextFieldCell"; title = "Yellow"; ObjectID = "2351"; */
+"2351.title" = "黄色";
+
+/* Class = "NSTextFieldCell"; title = "Blue"; ObjectID = "2353"; */
+"2353.title" = "蓝色";
+
+/* Class = "NSTextFieldCell"; title = "Magenta"; ObjectID = "2355"; */
+"2355.title" = "洋红色";
+
+/* Class = "NSTextFieldCell"; title = "Cyan"; ObjectID = "2357"; */
+"2357.title" = "青色";
+
+/* Class = "NSTextFieldCell"; title = "White"; ObjectID = "2359"; */
+"2359.title" = "白色";
+
+/* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2361"; */
+"2361.title" = "普通";
+
+/* Class = "NSTextFieldCell"; title = "Bright"; ObjectID = "2363"; */
+"2363.title" = "明亮";
+
+/* Class = "NSComboBoxCell"; title = "vt100"; ObjectID = "2412"; */
+"2412.title" = "vt100";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[0] = "vt100"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[0]" = "vt100";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[1] = "xterm"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[1]" = "xterm";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[2] = "xterm-new"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[2]" = "xterm-new";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[3] = "xterm-256color"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[3]" = "xterm-256color";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[4] = "ansi"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[4]" = "ansi";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[5] = "rxvt"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[5]" = "rxvt";
+
+/* Class = "NSComboBoxCell"; 2412.ibShadowedObjectValues[6] = "linux"; ObjectID = "2412"; */
+"2412.ibShadowedObjectValues[6]" = "linux";
+
+/* Class = "NSButtonCell"; title = "Notification Center Alerts"; ObjectID = "2413"; */
+"2413.title" = "通知中心提醒";
+
+/* Class = "NSButtonCell"; title = "Show bell icon in tabs"; ObjectID = "2414"; */
+"2414.title" = "在标签页中显示响铃图标";
+
+/* Class = "NSButtonCell"; title = "Enable mouse reporting"; ObjectID = "2415"; */
+"2415.title" = "启用鼠标报告";
+
+/* Class = "NSTextFieldCell"; title = "Scrollback lines:"; ObjectID = "2417"; */
+"2417.title" = "回滚行数：";
+
+/* Class = "NSButtonCell"; title = "Silence bell"; ObjectID = "2420"; */
+"2420.title" = "静音响铃";
+
+/* Class = "NSTextFieldCell"; title = "Report terminal type:"; ObjectID = "2424"; */
+"2424.title" = "报告终端类型：";
+
+/* Class = "NSTextFieldCell"; title = "Character encoding:"; ObjectID = "2426"; */
+"2426.title" = "字符编码：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2428"; */
+"2428.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3215"; */
+"3215.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Color Presets…"; ObjectID = "3218"; */
+"3218.title" = "颜色预设…";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "3232"; */
+"3232.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Duplicate Profile"; ObjectID = "3233"; */
+"3233.title" = "复制配置文件";
+
+/* Class = "NSMenuItem"; title = "Other Actions..."; ObjectID = "3235"; */
+"3235.title" = "其他操作…";
+
+/* Class = "NSTextFieldCell"; title = "Tags:"; ObjectID = "3244"; */
+"3244.title" = "标签：";
+
+/* Class = "NSTokenField"; ibShadowedToolTip = "Tags with slashes create a hierarchy which you can navigate in the Profiles menu or in the tags list adjacent to lists of profiles."; ObjectID = "3245"; */
+"3245.ibShadowedToolTip" = "带斜杠的标签会创建层级结构，你可以在“配置文件”菜单或配置文件列表旁的标签列表中浏览。";
+
+/* Class = "NSTokenFieldCell"; placeholderString = "Example: linux, dark bg, tag/subtag/subsubtag"; ObjectID = "3246"; */
+"3246.placeholderString" = "示例：linux, dark bg, tag/subtag/subsubtag";
+
+/* Class = "NSMenuItem"; title = "Set as Default"; ObjectID = "3318"; */
+"3318.title" = "设为默认";
+
+/* Class = "NSButtonCell"; title = "Directory:"; ObjectID = "3472"; */
+"3472.title" = "目录：";
+
+/* Class = "NSMenuItem"; title = "Bulk Copy from Selected Profile..."; ObjectID = "3516"; */
+"3516.title" = "从所选配置文件批量拷贝…";
+
+/* Class = "NSButtonCell"; title = "Flash visual bell"; ObjectID = "3554"; */
+"3554.title" = "闪烁视觉响铃";
+
+/* Class = "NSButtonCell"; title = "Unlimited scrollback"; ObjectID = "3648"; */
+"3648.title" = "无限回滚";
+
+/* Class = "NSTabViewItem"; label = "Keys"; ObjectID = "3656"; */
+"3656.label" = "按键";
+
+/* Class = "NSTextFieldCell"; title = "Remap left control (⌃) key to:"; ObjectID = "3674"; */
+"3674.title" = "将左 Control (⌃) 键重映射为：";
+
+/* Class = "NSTextFieldCell"; title = "Remap right option (⌥) key to:"; ObjectID = "3676"; */
+"3676.title" = "将右 Option (⌥) 键重映射为：";
+
+/* Class = "NSTextFieldCell"; title = "Remap left command (⌘) key to:"; ObjectID = "3678"; */
+"3678.title" = "将左 Command (⌘) 键重映射为：";
+
+/* Class = "NSTextFieldCell"; title = "Remap left option (⌥) key to:"; ObjectID = "3690"; */
+"3690.title" = "将左 Option (⌥) 键重映射为：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4130"; */
+"4130.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "No Shortcut"; ObjectID = "4132"; */
+"4132.title" = "无快捷键";
+
+/* Class = "NSMenuItem"; title = "⌘ Number"; ObjectID = "4133"; */
+"4133.title" = "⌘ 数字";
+
+/* Class = "NSMenuItem"; title = "⌥⌘ Number"; ObjectID = "4137"; */
+"4137.title" = "⌥⌘ 数字";
+
+/* Class = "NSTextFieldCell"; title = "Shortcut to select a tab:"; ObjectID = "4220"; */
+"4220.title" = "选择标签页的快捷键：";
+
+/* Class = "NSTextFieldCell"; title = "Shortcut to activate a window:"; ObjectID = "4224"; */
+"4224.title" = "激活窗口的快捷键：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4239"; */
+"4239.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "4240"; */
+"4240.title" = "⌥ 右 Option";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "4242"; */
+"4242.title" = "⌃ 左 Control";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "4243"; */
+"4243.title" = "⌘ 左 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "4244"; */
+"4244.title" = "⌥ 左 Option";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4271"; */
+"4271.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌘ Number"; ObjectID = "4272"; */
+"4272.title" = "⌘ 数字";
+
+/* Class = "NSMenuItem"; title = "⌥⌘ Number"; ObjectID = "4273"; */
+"4273.title" = "⌥⌘ 数字";
+
+/* Class = "NSMenuItem"; title = "No Shortcut"; ObjectID = "4274"; */
+"4274.title" = "无快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Remap right command (⌘) key to:"; ObjectID = "4343"; */
+"4343.title" = "将右 Command (⌘) 键重映射为：";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "4345"; */
+"4345.title" = "⌘ 右 Command";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4385"; */
+"4385.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "4386"; */
+"4386.title" = "⌘ 右 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "4387"; */
+"4387.title" = "⌥ 左 Option";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "4388"; */
+"4388.title" = "⌘ 左 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "4390"; */
+"4390.title" = "⌥ 右 Option";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4395"; */
+"4395.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "4396"; */
+"4396.title" = "⌥ 右 Option";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "4398"; */
+"4398.title" = "⌘ 左 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "4399"; */
+"4399.title" = "⌥ 左 Option";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "4400"; */
+"4400.title" = "⌘ 右 Command";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4402"; */
+"4402.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "4403"; */
+"4403.title" = "⌘ 右 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "4404"; */
+"4404.title" = "⌥ 左 Option";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "4405"; */
+"4405.title" = "⌘ 左 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "4407"; */
+"4407.title" = "⌥ 右 Option";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4412"; */
+"4412.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "4413"; */
+"4413.title" = "⌘ 右 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "4414"; */
+"4414.title" = "⌥ 左 Option";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "4415"; */
+"4415.title" = "⌘ 左 Command";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "4417"; */
+"4417.title" = "⌥ 右 Option";
+
+/* Class = "NSTabViewItem"; label = "Item 4"; ObjectID = "4439"; */
+"4439.label" = "项目 4";
+
+/* Class = "NSButtonCell"; title = "Show tab numbers"; ObjectID = "4447"; */
+"4447.title" = "显示标签页编号";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4496"; */
+"4496.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Top"; ObjectID = "4497"; */
+"4497.title" = "顶部";
+
+/* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "4498"; */
+"4498.title" = "底部";
+
+/* Class = "NSButtonCell"; title = "Show tab bar even when there is only one tab"; ObjectID = "4499"; */
+"4499.title" = "即使只有一个标签页也显示标签栏";
+
+/* Class = "NSButtonCell"; title = "Show window number in title bar"; ObjectID = "4536"; */
+"4536.title" = "在标题栏显示窗口编号";
+
+/* Class = "NSButton"; ibShadowedToolTip = "\"Zoom\" is the green button, except on OS 10.10 where you must hold Option while pressing the green button."; ObjectID = "4540"; */
+"4540.ibShadowedToolTip" = "“缩放”是绿色按钮，但在 OS 10.10 上你必须在按绿色按钮时按住 Option 键。";
+
+/* Class = "NSButtonCell"; title = "Zoom maximizes vertically only"; ObjectID = "4541"; */
+"4541.title" = "缩放仅垂直最大化";
+
+/* Class = "NSButtonCell"; title = "Hide scrollbars"; ObjectID = "4564"; */
+"4564.title" = "隐藏滚动条";
+
+/* Class = "NSButtonCell"; title = "Dim inactive split panes"; ObjectID = "4565"; */
+"4565.title" = "变暗非活动的分隔窗格";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Smart window placement puts new windows where the most free space is available."; ObjectID = "4570"; */
+"4570.ibShadowedToolTip" = "智能窗口布局会将新窗口放在可用空间最多的位置。";
+
+/* Class = "NSButtonCell"; title = "Smart Window Placement"; ObjectID = "4571"; */
+"4571.title" = "智能窗口布局";
+
+/* Class = "NSButtonCell"; title = "Confirm \"Quit iTerm2 (⌘Q)\""; ObjectID = "4758"; */
+"4758.title" = "确认“退出 iTerm2 (⌘Q)”";
+
+/* Class = "NSTabViewItem"; label = "Text"; ObjectID = "4763"; */
+"4763.label" = "文本";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Anti-alias ASCII text"; ObjectID = "4782"; */
+"4782.ibExternalAccessibilityDescription" = "抗锯齿 ASCII 文本";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Anti-alias non-ASCII text"; ObjectID = "4783"; */
+"4783.ibExternalAccessibilityDescription" = "抗锯齿非 ASCII 文本";
+
+/* Class = "NSButtonCell"; title = "Anti-aliased"; ObjectID = "4824"; */
+"4824.title" = "抗锯齿";
+
+/* Class = "NSButtonCell"; title = "Anti-aliased"; ObjectID = "4825"; */
+"4825.title" = "抗锯齿";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "4829"; */
+"4829.title" = "字体：";
+
+/* Class = "NSButtonCell"; title = "Blink"; ObjectID = "4834"; */
+"4834.title" = "闪烁";
+
+/* Class = "NSTextFieldCell"; title = "Cursor:"; ObjectID = "4835"; */
+"4835.title" = "光标：";
+
+/* Class = "NSButtonCell"; title = "Draw bold text in bold font"; ObjectID = "4844"; */
+"4844.title" = "用粗体字体绘制粗体文本";
+
+/* Class = "NSButtonCell"; title = "Context-aware cursor color (affects box cursor only)"; ObjectID = "4890"; */
+"4890.title" = "上下文感知光标颜色（仅影响方块光标）";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This boosts the contrast of text when its color is close to that of the background color by moving the text color towards black or white."; ObjectID = "4896"; */
+"4896.ibShadowedToolTip" = "当文本颜色与背景颜色接近时，通过将文本颜色推向黑色或白色来增强对比度。";
+
+/* Class = "NSTextFieldCell"; title = "Minimum Contrast:"; ObjectID = "4900"; */
+"4900.title" = "最小对比度：";
+
+/* Class = "NSTabViewItem"; label = "Window"; ObjectID = "4909"; */
+"4909.label" = "窗口";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4923"; */
+"4923.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Space 1"; ObjectID = "4925"; */
+"4925.title" = "空间 1";
+
+/* Class = "NSMenuItem"; title = "Space 9"; ObjectID = "4926"; */
+"4926.title" = "空间 9";
+
+/* Class = "NSMenuItem"; title = "Space 8"; ObjectID = "4927"; */
+"4927.title" = "空间 8";
+
+/* Class = "NSMenuItem"; title = "Space 7"; ObjectID = "4928"; */
+"4928.title" = "空间 7";
+
+/* Class = "NSMenuItem"; title = "Space 6"; ObjectID = "4929"; */
+"4929.title" = "空间 6";
+
+/* Class = "NSMenuItem"; title = "Space 5"; ObjectID = "4930"; */
+"4930.title" = "空间 5";
+
+/* Class = "NSMenuItem"; title = "Space 4"; ObjectID = "4931"; */
+"4931.title" = "空间 4";
+
+/* Class = "NSMenuItem"; title = "Space 3"; ObjectID = "4932"; */
+"4932.title" = "空间 3";
+
+/* Class = "NSMenuItem"; title = "Space 2"; ObjectID = "4933"; */
+"4933.title" = "空间 2";
+
+/* Class = "NSMenuItem"; title = "All Spaces"; ObjectID = "4934"; */
+"4934.title" = "所有空间";
+
+/* Class = "NSMenuItem"; title = "Current Space"; ObjectID = "4935"; */
+"4935.title" = "当前空间";
+
+/* Class = "NSTextFieldCell"; title = "Space:"; ObjectID = "4936"; */
+"4936.title" = "空间：";
+
+/* Class = "NSTextFieldCell"; title = "Screen:"; ObjectID = "4937"; */
+"4937.title" = "屏幕：";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "4938"; */
+"4938.title" = "样式：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4940"; */
+"4940.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4942"; */
+"4942.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Full-Width Bottom of Screen"; ObjectID = "4943"; */
+"4943.title" = "屏幕底部全宽";
+
+/* Class = "NSMenuItem"; title = "Full Screen"; ObjectID = "4944"; */
+"4944.title" = "全屏";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "4945"; */
+"4945.title" = "普通";
+
+/* Class = "NSTextFieldCell"; title = "rows"; ObjectID = "4949"; */
+"4949.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "columns by"; ObjectID = "4950"; */
+"4950.title" = "列 ×";
+
+/* Class = "NSTextFieldCell"; title = "Transparent"; ObjectID = "4981"; */
+"4981.title" = "透明";
+
+/* Class = "NSTextFieldCell"; title = "Opaque"; ObjectID = "4982"; */
+"4982.title" = "不透明";
+
+/* Class = "NSButtonCell"; title = "Blur content behind the window"; ObjectID = "4985"; */
+"4985.title" = "模糊窗口后面的内容";
+
+/* Class = "NSTextFieldCell"; title = "Transparency:"; ObjectID = "4986"; */
+"4986.title" = "透明度：";
+
+/* Class = "NSButtonCell"; title = "Use background image"; ObjectID = "4988"; */
+"4988.title" = "使用背景图像";
+
+/* Class = "NSTextFieldCell"; title = "New windows:"; ObjectID = "4993"; */
+"4993.title" = "新窗口：";
+
+/* Class = "NSTextFieldCell"; title = "Text Rendering:"; ObjectID = "4999"; */
+"4999.title" = "文本渲染：";
+
+/* Class = "NSButtonCell"; title = "A session may cause the window to resize"; ObjectID = "5005"; */
+"5005.title" = "会话可调整窗口大小";
+
+/* Class = "NSButtonCell"; title = "_"; ObjectID = "5022"; */
+"5022.title" = "_";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "5023"; */
+"5023.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "URL schemes:"; ObjectID = "5036"; */
+"5036.title" = "URL 方案：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5039"; */
+"5039.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Selects whether to install the beta or release build when updating."; ObjectID = "5049"; */
+"5049.ibShadowedToolTip" = "选择更新时安装 Beta 版还是正式版。";
+
+/* Class = "NSButtonCell"; title = "Save copy/paste and command history to disk"; ObjectID = "5057"; */
+"5057.title" = "将拷贝/粘贴和命令历史保存到磁盘";
+
+/* Class = "NSTextFieldCell"; title = "MB per session"; ObjectID = "5060"; */
+"5060.title" = "MB/会话";
+
+/* Class = "NSTextFieldCell"; title = "Instant Replay uses "; ObjectID = "5061"; */
+"5061.title" = "即时回放使用 ";
+
+/* Class = "NSButtonCell"; title = "Add Bonjour hosts to Profiles"; ObjectID = "5063"; */
+"5063.title" = "将 Bonjour 主机添加到配置文件";
+
+/* Class = "NSButtonCell"; title = "Update to Beta test releases"; ObjectID = "5065"; */
+"5065.title" = "更新到 Beta 测试版";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "5066"; */
+"5066.title" = "自动检查更新";
+
+/* Class = "NSButtonCell"; title = "Disable save/restore alternate screen"; ObjectID = "5082"; */
+"5082.title" = "停用备用屏幕的保存/恢复";
+
+/* Class = "NSTextFieldCell"; title = "App Hotkey:"; ObjectID = "5113"; */
+"5113.title" = "应用热键：";
+
+/* Class = "NSButtonCell"; title = "Show/hide all windows with a system-wide hotkey"; ObjectID = "5115"; */
+"5115.title" = "用系统级热键显示/隐藏所有窗口";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If you work mostly in East Asian languages this can be helpful. For most users, it causes misalignment."; ObjectID = "5126"; */
+"5126.ibShadowedToolTip" = "如果你主要使用东亚语言，这会有帮助。但对大多数用户来说，它会导致排版错位。";
+
+/* Class = "NSButtonCell"; title = "Ambiguous characters are double-width"; ObjectID = "5127"; */
+"5127.title" = "歧义字符按双倍宽度显示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Draws a border around the window when the OS otherwise would not. This is effective in light mode or when the window contains a transparent pane."; ObjectID = "5144"; */
+"5144.ibShadowedToolTip" = "当系统通常不会绘制边框时，在窗口周围绘制边框。在浅色模式或窗口包含透明窗格时有效。";
+
+/* Class = "NSButtonCell"; title = "Heavy border around windows in light mode"; ObjectID = "5145"; */
+"5145.title" = "浅色模式下窗口周围加粗边框";
+
+/* Class = "NSButtonCell"; title = "Allow blinking text"; ObjectID = "5149"; */
+"5149.title" = "允许文本闪烁";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When using a program like tmux, which shows a status bar at the bottom of the screen, history is not normally saved. This allows such history to be saved but with a performance penalty."; ObjectID = "5154"; */
+"5154.ibShadowedToolTip" = "当使用像 tmux 这样在屏幕底部显示状态栏的程序时，历史记录通常不会保存。此选项允许保存这类历史，但会有性能损耗。";
+
+/* Class = "NSButtonCell"; title = "Save lines to scrollback when an app status bar is present"; ObjectID = "5155"; */
+"5155.title" = "存在应用状态栏时将行保存到回滚";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Native full screen windows animate into their own desktop. Non-native full screen windows quickly expand to fill the window's screen."; ObjectID = "5319"; */
+"5319.ibShadowedToolTip" = "原生全屏窗口会动画过渡到自己的桌面。非原生全屏窗口会快速展开以填满窗口所在的屏幕。";
+
+/* Class = "NSButtonCell"; title = "Native full screen windows"; ObjectID = "5320"; */
+"5320.title" = "原生全屏窗口";
+
+/* Class = "NSButtonCell"; title = "Dim background windows"; ObjectID = "5326"; */
+"5326.title" = "变暗背景窗口";
+
+/* Class = "NSButtonCell"; title = "Dimming affects only text, not background."; ObjectID = "5331"; */
+"5331.title" = "变暗仅影响文本，不影响背景。";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Inactive sessions get dimmed to help find the active session."; ObjectID = "5337"; */
+"5337.ibShadowedToolTip" = "非活动会话会变暗，以帮助找到活动会话。";
+
+/* Class = "NSTextFieldCell"; title = "Dimming amount:"; ObjectID = "5340"; */
+"5340.title" = "变暗程度：";
+
+/* Class = "NSTextFieldCell"; title = "Large Radius"; ObjectID = "5366"; */
+"5366.title" = "大半径";
+
+/* Class = "NSTextFieldCell"; title = "Small Radius"; ObjectID = "5367"; */
+"5367.title" = "小半径";
+
+/* Class = "NSButtonCell"; title = "Show activity indicator"; ObjectID = "5375"; */
+"5375.title" = "显示活动指示器";
+
+/* Class = "NSTextFieldCell"; title = "Send text at start:"; ObjectID = "5409"; */
+"5409.title" = "启动时发送文本：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter text to send at start (interpolated string)"; ObjectID = "5411"; */
+"5411.placeholderString" = "输入启动时发送的文本（插值字符串）";
+
+/* Class = "NSTabViewItem"; label = "Keys"; ObjectID = "5417"; */
+"5417.label" = "按键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Default"; ObjectID = "5564"; */
+"5564.headerCell.title" = "默认";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "5565"; */
+"5565.headerCell.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5566"; */
+"5566.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5567"; */
+"5567.title" = "文本单元格";
+
+/* Class = "NSBox"; title = "Preview"; ObjectID = "5568"; */
+"5568.title" = "预览";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "5570"; */
+"5570.title" = "-";
+
+/* Class = "NSButtonCell"; title = "Set Default"; ObjectID = "5586"; */
+"5586.title" = "设为默认";
+
+/* Class = "NSMenuItem"; title = "Full-Width Top of Screen"; ObjectID = "5591"; */
+"5591.title" = "屏幕顶部全宽";
+
+/* Class = "NSButtonCell"; title = "Load settings from a custom folder or URL"; ObjectID = "5615"; */
+"5615.title" = "从自定文件夹或 URL 加载设置";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter path to folder with settings"; ObjectID = "5617"; */
+"5617.placeholderString" = "输入设置文件夹的路径";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "5619"; */
+"5619.title" = "浏览";
+
+/* Class = "NSButtonCell"; title = "Save Now"; ObjectID = "5621"; */
+"5621.title" = "立即存储";
+
+/* Class = "NSButtonCell"; title = "Disable session-initiated printing"; ObjectID = "5634"; */
+"5634.title" = "停用会话发起的打印";
+
+/* Class = "NSTabViewItem"; label = "Session"; ObjectID = "5652"; */
+"5652.label" = "会话";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5665"; */
+"5665.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Change"; ObjectID = "5690"; */
+"5690.title" = "更改";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interpolated String"; ObjectID = "5691"; */
+"5691.placeholderString" = "插值字符串";
+
+/* Class = "NSButtonCell"; title = "Enable automatic session logging"; ObjectID = "5692"; */
+"5692.title" = "启用自动会话日志记录";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Only use this if you really know what you’re doing!"; ObjectID = "5697"; */
+"5697.ibShadowedToolTip" = "只有在你确实清楚自己在做什么时才使用此选项！";
+
+/* Class = "NSTextFieldCell"; placeholderString = "ASCII Code"; ObjectID = "5699"; */
+"5699.placeholderString" = "ASCII 码";
+
+/* Class = "NSButtonCell"; title = "When idle, send ASCII code"; ObjectID = "5701"; */
+"5701.title" = "空闲时发送 ASCII 码";
+
+/* Class = "NSTextFieldCell"; title = "Closing:"; ObjectID = "5708"; */
+"5708.title" = "关闭：";
+
+/* Class = "NSTextFieldCell"; title = "Logging:"; ObjectID = "5710"; */
+"5710.title" = "日志记录：";
+
+/* Class = "NSButtonCell"; title = "Copied text includes trailing newline"; ObjectID = "5748"; */
+"5748.title" = "拷贝的文本包含末尾换行符";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If this is on then transparency can be toggled window-by-window under View>Use Transparency. Note that this doesn't apply to native fullscreen windows (those that are managed by macOS and go in their own Desktop) because there is nothing to see behind them. Use `Settings > General > Window > Native full screen windows` to control which type of full screen windows you use. Hotkey windows, when full screen, can only be non-native fullscreen windows."; ObjectID = "5753"; */
+"5753.ibShadowedToolTip" = "如果启用此项，则可在“显示 > 使用透明度”下按窗口切换透明度。请注意，这不适用于原生全屏窗口（由 macOS 管理并位于自己桌面中的窗口），因为它们后面没有可见内容。请使用“设置 > 通用 > 窗口 > 原生全屏窗口”来控制你使用哪种类型的全屏窗口。热键窗口在全屏时只能是非原生全屏窗口。";
+
+/* Class = "NSButtonCell"; title = "Disable transparency for non-native fullscreen windows by default"; ObjectID = "5754"; */
+"5754.title" = "默认对非原生全屏窗口停用透明度";
+
+/* Class = "NSButtonCell"; title = "Save lines to scrollback in alternate screen mode"; ObjectID = "5759"; */
+"5759.title" = "在备用屏幕模式下将行保存到回滚";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "5776"; */
+"5776.label" = "高级";
+
+/* Class = "NSTextFieldCell"; title = "Triggers:"; ObjectID = "5779"; */
+"5779.title" = "触发器：";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selection:"; ObjectID = "5855"; */
+"5855.title" = "智能选择：";
+
+/* Class = "NSButtonCell"; title = "Load Defaults"; ObjectID = "5880"; */
+"5880.title" = "加载默认值";
+
+/* Class = "NSToolbarItem"; label = "Profiles"; ObjectID = "5886"; */
+"5886.label" = "配置文件";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Profiles"; ObjectID = "5886"; */
+"5886.paletteLabel" = "配置文件";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "5887"; */
+"5887.label" = "通用";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "5887"; */
+"5887.paletteLabel" = "通用";
+
+/* Class = "NSToolbarItem"; label = "Keys"; ObjectID = "5888"; */
+"5888.label" = "按键";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Keys"; ObjectID = "5888"; */
+"5888.paletteLabel" = "按键";
+
+/* Class = "NSToolbarItem"; label = "Appearance"; ObjectID = "5889"; */
+"5889.label" = "外观";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Appearance"; ObjectID = "5889"; */
+"5889.paletteLabel" = "外观";
+
+/* Class = "NSToolbarItem"; label = "Arrangements"; ObjectID = "5890"; */
+"5890.label" = "排列";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Arrangements"; ObjectID = "5890"; */
+"5890.paletteLabel" = "排列";
+
+/* Class = "NSTableColumn"; headerCell.title = "Notes"; ObjectID = "5901"; */
+"5901.headerCell.title" = "备注";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5902"; */
+"5902.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "5909"; */
+"5909.title" = "编辑";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5910"; */
+"5910.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "5913"; */
+"5913.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "5915"; */
+"5915.title" = "编辑";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selection Rules"; ObjectID = "5925"; */
+"5925.title" = "智能选择规则";
+
+/* Class = "NSTextFieldCell"; title = "Semantic History:"; ObjectID = "5933"; */
+"5933.title" = "语义历史：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5936"; */
+"5936.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Open with default app"; ObjectID = "5937"; */
+"5937.title" = "用默认 App 打开";
+
+/* Class = "NSMenuItem"; title = "Open URL…"; ObjectID = "5938"; */
+"5938.title" = "打开 URL…";
+
+/* Class = "NSMenuItem"; title = "Open with editor…"; ObjectID = "5939"; */
+"5939.title" = "用编辑器打开…";
+
+/* Class = "NSMenuItem"; title = "Run command…"; ObjectID = "5940"; */
+"5940.title" = "运行命令…";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5945"; */
+"5945.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Up to three lines of information go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."; ObjectID = "5958"; */
+"5958.title" = "Up to three lines of information go here. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+
+/* Class = "NSButtonCell"; title = "Log debug info to Console.app"; ObjectID = "5962"; */
+"5962.title" = "将调试信息记录到 Console.app";
+
+/* Class = "NSButtonCell"; title = "Advanced Configuration"; ObjectID = "5974"; */
+"5974.title" = "高级配置";
+
+/* Class = "NSButtonCell"; title = "Edit…"; ObjectID = "5976"; */
+"5976.title" = "编辑…";
+
+/* Class = "NSButtonCell"; title = "Show per-pane title bars"; ObjectID = "6052"; */
+"6052.title" = "显示每个窗格的标题栏";
+
+/* Class = "NSMenuItem"; title = "Always run command…"; ObjectID = "6055"; */
+"6055.title" = "总是运行命令…";
+
+/* Class = "NSToolbarItem"; label = "Pointer"; ObjectID = "6056"; */
+"6056.label" = "指针";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Pointer"; ObjectID = "6056"; */
+"6056.paletteLabel" = "指针";
+
+/* Class = "NSTabViewItem"; label = "Mouse"; ObjectID = "6059"; */
+"6059.label" = "鼠标";
+
+/* Class = "NSButtonCell"; title = "Focus follows mouse"; ObjectID = "6071"; */
+"6071.title" = "焦点跟随鼠标";
+
+/* Class = "NSTextFieldCell"; title = "Right Click"; ObjectID = "6087"; */
+"6087.title" = "右键点按";
+
+/* Class = "NSTableColumn"; headerCell.title = "Mouse Button/Trackpad Gesture"; ObjectID = "6095"; */
+"6095.headerCell.title" = "鼠标按键/触控板手势";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "6099"; */
+"6099.headerCell.title" = "操作";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6100"; */
+"6100.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "⌘-Click opens filename/URL (semantic history)"; ObjectID = "6108"; */
+"6108.title" = "⌘-点按打开文件名/URL（语义历史）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "For terminal applications that use mouse reporting, turning this on allows control-click to be reported instead of opening the context menu."; ObjectID = "6111"; */
+"6111.ibShadowedToolTip" = "对于使用鼠标报告的终端应用，启用此项可让 Control-点按被报告，而不是打开上下文菜单。";
+
+/* Class = "NSButtonCell"; title = "^-Click reported to apps, does not open menu"; ObjectID = "6112"; */
+"6112.title" = "^-点按报告给应用，不打开菜单";
+
+/* Class = "NSButtonCell"; title = "Load Defaults"; ObjectID = "6116"; */
+"6116.title" = "加载默认值";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6126"; */
+"6126.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6132"; */
+"6132.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "^"; ObjectID = "6140"; */
+"6140.title" = "^";
+
+/* Class = "NSButtonCell"; title = "⇧"; ObjectID = "6141"; */
+"6141.title" = "⇧";
+
+/* Class = "NSButtonCell"; title = "⌥"; ObjectID = "6142"; */
+"6142.title" = "⌥";
+
+/* Class = "NSButtonCell"; title = "⌘"; ObjectID = "6143"; */
+"6143.title" = "⌘";
+
+/* Class = "NSTextFieldCell"; title = "Button/Gesture:"; ObjectID = "6157"; */
+"6157.title" = "按键/手势：";
+
+/* Class = "NSTextFieldCell"; title = "Modifiers:"; ObjectID = "6159"; */
+"6159.title" = "修饰键：";
+
+/* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "6161"; */
+"6161.title" = "操作：";
+
+/* Class = "NSMenuItem"; title = "Right Button"; ObjectID = "6164"; */
+"6164.title" = "右键";
+
+/* Class = "NSMenuItem"; title = "Button #4"; ObjectID = "6165"; */
+"6165.title" = "按键 #4";
+
+/* Class = "NSMenuItem"; title = "Button #5"; ObjectID = "6166"; */
+"6166.title" = "按键 #5";
+
+/* Class = "NSMenuItem"; title = "Button #6"; ObjectID = "6167"; */
+"6167.title" = "按键 #6";
+
+/* Class = "NSMenuItem"; title = "Button #7"; ObjectID = "6168"; */
+"6168.title" = "按键 #7";
+
+/* Class = "NSWindow"; title = "Edit Pointer Setting"; ObjectID = "6179"; */
+"6179.title" = "编辑指针设置";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "6182"; */
+"6182.title" = "好";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6184"; */
+"6184.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Click Type:"; ObjectID = "6188"; */
+"6188.title" = "点按类型：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6190"; */
+"6190.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Single Click"; ObjectID = "6194"; */
+"6194.title" = "单击";
+
+/* Class = "NSMenuItem"; title = "Double Click"; ObjectID = "6195"; */
+"6195.title" = "双击";
+
+/* Class = "NSMenuItem"; title = "Triple Click"; ObjectID = "6196"; */
+"6196.title" = "三击";
+
+/* Class = "NSMenuItem"; title = "Quad Click"; ObjectID = "6197"; */
+"6197.title" = "四击";
+
+/* Class = "NSMenuItem"; title = "Three-finger Tap"; ObjectID = "6202"; */
+"6202.title" = "三指轻点";
+
+/* Class = "NSMenuItem"; title = "Three-finger Swipe Right"; ObjectID = "6204"; */
+"6204.title" = "三指右滑";
+
+/* Class = "NSMenuItem"; title = "Three-finger Swipe Left"; ObjectID = "6205"; */
+"6205.title" = "三指左滑";
+
+/* Class = "NSButtonCell"; title = "Three-finger tap emulates middle click"; ObjectID = "6228"; */
+"6228.title" = "三指轻点模拟中键点按";
+
+/* Class = "NSTextFieldCell"; title = "Click or Tap Here to Set Input Fields"; ObjectID = "6234"; */
+"6234.title" = "点按此处以设置输入字段";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6243"; */
+"6243.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Argument:"; ObjectID = "6245"; */
+"6245.title" = "参数：";
+
+/* Class = "NSMenuItem"; title = "Three-finger Swipe Up"; ObjectID = "6258"; */
+"6258.title" = "三指上滑";
+
+/* Class = "NSMenuItem"; title = "Three-finger Swipe Down"; ObjectID = "6259"; */
+"6259.title" = "三指下滑";
+
+/* Class = "NSMenuItem"; title = "Middle Button"; ObjectID = "6268"; */
+"6268.title" = "中键";
+
+/* Class = "NSWindow"; title = "Edit Smart Selection Actions"; ObjectID = "6274"; */
+"6274.title" = "编辑智能选择操作";
+
+/* Class = "NSTextFieldCell"; title = "Smart Selection Actions"; ObjectID = "6277"; */
+"6277.title" = "智能选择操作";
+
+/* Class = "NSTextFieldCell"; title = "Items are added to the context menu when you right click on text matching this smart selection."; ObjectID = "6279"; */
+"6279.title" = "当你右键点按匹配此智能选择的文本时，这些项会被添加到上下文菜单中。";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "6285"; */
+"6285.headerCell.title" = "标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter Item Title"; ObjectID = "6288"; */
+"6288.placeholderString" = "输入项目标题";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "6298"; */
+"6298.title" = "好";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much of the background image is visible through the background color."; ObjectID = "6320"; */
+"6320.ibShadowedToolTip" = "背景图像透过背景颜色可见的程度。";
+
+/* Class = "NSTextFieldCell"; title = "Background image:"; ObjectID = "6325"; */
+"6325.title" = "背景图像：";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "A tmux server has multiple virtual windows. When you attach to a tmux server, these virtual windows can be presented as windows or tabs. This setting determines how they should appear in iTerm2."; ObjectID = "6337"; */
+"6337.ibShadowedToolTip" = "tmux 服务器有多个虚拟窗口。当你连接到 tmux 服务器时，这些虚拟窗口可显示为窗口或标签页。此设置决定它们在 iTerm2 中的显示方式。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6339"; */
+"6339.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Native windows"; ObjectID = "6340"; */
+"6340.title" = "原生窗口";
+
+/* Class = "NSMenuItem"; title = "Native tabs in a new window"; ObjectID = "6341"; */
+"6341.title" = "新窗口中的原生标签页";
+
+/* Class = "NSButtonCell"; title = "Hide after opening"; ObjectID = "6355"; */
+"6355.title" = "打开后隐藏";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Buried sessions appear under Session > Buried Sessions. When this setting is enabled, window sizes are restored when attaching to an existing tmux session."; ObjectID = "6366"; */
+"6366.ibShadowedToolTip" = "已隐藏的会话会出现在“会话 > 已隐藏的会话”下。启用此设置后，连接到现有 tmux 会话时会恢复窗口大小。";
+
+/* Class = "NSButtonCell"; title = "Automatically bury the tmux client session after connecting"; ObjectID = "6367"; */
+"6367.title" = "连接后自动隐藏 tmux 客户端会话";
+
+/* Class = "NSMenuItem"; title = "Full-Height Left of Screen"; ObjectID = "6376"; */
+"6376.title" = "屏幕左侧全高";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If enabled, changes to font size will try to preserve session dimensions."; ObjectID = "6377"; */
+"6377.ibShadowedToolTip" = "启用后，更改字体大小时会尽量保持会话尺寸。";
+
+/* Class = "NSButtonCell"; title = "Adjust window when changing font size"; ObjectID = "6378"; */
+"6378.title" = "更改字体大小时调整窗口";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Clipboard access via an escape code poses a security risk if running untrusted applications."; ObjectID = "6383"; */
+"6383.ibShadowedToolTip" = "通过转义码访问剪贴板在运行不受信任的应用时会带来安全风险。";
+
+/* Class = "NSButtonCell"; title = "Applications in terminal may access clipboard"; ObjectID = "6384"; */
+"6384.title" = "终端中的应用可访问剪贴板";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This may be a security risk in an untrusted environment, especially if the terminal can set the title."; ObjectID = "6387"; */
+"6387.ibShadowedToolTip" = "在不受信任的环境中这可能存在安全风险，尤其是当终端可以设置标题时。";
+
+/* Class = "NSButtonCell"; title = "Terminal may report window title"; ObjectID = "6388"; */
+"6388.title" = "终端可报告窗口标题";
+
+/* Class = "NSButtonCell"; title = "Allow italic text"; ObjectID = "6401"; */
+"6401.title" = "允许斜体文本";
+
+/* Class = "NSMenuItem"; title = "Full-Height Right of Screen"; ObjectID = "6405"; */
+"6405.title" = "屏幕右侧全高";
+
+/* Class = "NSMenuItem"; title = "Run coprocess…"; ObjectID = "6406"; */
+"6406.title" = "运行协处理程序…";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If enabled, option-click sends arrow keys to move the cursor's position. If Shell Integration is installed then it does not take effect at the command line."; ObjectID = "6407"; */
+"6407.ibShadowedToolTip" = "启用后，Option-点按会发送方向键来移动光标位置。如果已安装 Shell 集成，则在命令行中不生效。";
+
+/* Class = "NSButtonCell"; title = "⌥-Click moves cursor"; ObjectID = "6408"; */
+"6408.title" = "⌥-点按移动光标";
+
+/* Class = "NSButtonCell"; title = "Always open in a new window, never in a tab"; ObjectID = "6417"; */
+"6417.title" = "总是在新窗口打开，绝不在标签页中打开";
+
+/* Class = "NSTextFieldCell"; title = "Session Name:"; ObjectID = "12135"; */
+"12135.title" = "会话名称：";
+
+/* Class = "NSButtonCell"; title = "Copy Current Settings to Selected Profile"; ObjectID = "15141"; */
+"15141.title" = "将当前设置拷贝到所选配置文件";
+
+/* Class = "NSButtonCell"; title = "Use Selected Profile"; ObjectID = "15769"; */
+"15769.title" = "使用所选配置文件";
+
+/* Class = "NSMenuItem"; title = "Right of Screen"; ObjectID = "07C-vC-8pn"; */
+"07C-vC-8pn.title" = "屏幕右侧";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "09v-t5-8ij"; */
+"09v-t5-8ij.title" = "从不允许";
+
+/* Class = "NSTextFieldCell"; title = "Plugin not detected"; ObjectID = "0BQ-Y1-sdD"; */
+"0BQ-Y1-sdD.title" = "未检测到插件";
+
+/* Class = "NSMenuItem"; title = "Provide Automatically"; ObjectID = "0C2-Du-i4e"; */
+"0C2-Du-i4e.title" = "自动提供";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "0Qc-EJ-4MM"; */
+"0Qc-EJ-4MM.title" = "背景";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "0Z1-sx-T34"; */
+"0Z1-sx-T34.title" = "普通";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "0df-Dk-Naw"; */
+"0df-Dk-Naw.title" = "从不允许";
+
+/* Class = "NSTextFieldCell"; title = "New tabs:"; ObjectID = "0pa-Tf-0JA"; */
+"0pa-Tf-0JA.title" = "新标签页：";
+
+/* Class = "NSButtonCell"; title = "Download Browser Plugin"; ObjectID = "1Gw-V8-8il"; */
+"1Gw-V8-8il.title" = "下载浏览器插件";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ Large radius may reduce performance"; ObjectID = "1JR-lN-kdB"; */
+"1JR-lN-kdB.title" = "⚠️ 大半径可能降低性能";
+
+/* Class = "NSButtonCell"; title = "…even if there is only one pane"; ObjectID = "1ba-rr-WCj"; */
+"1ba-rr-WCj.title" = "…即使只有一个窗格";
+
+/* Class = "NSTextFieldCell"; title = "Shell Integration must be installed to use this feature."; ObjectID = "1bp-B6-W52"; */
+"1bp-B6-W52.title" = "必须安装 Shell 集成才能使用此功能。";
+
+/* Class = "NSTextFieldCell"; title = "Write to Filesystem"; ObjectID = "1hB-vC-Unx"; */
+"1hB-vC-Unx.title" = "写入文件系统";
+
+/* Class = "NSButtonCell"; title = "Change"; ObjectID = "1hy-i5-p8O"; */
+"1hy-i5-p8O.title" = "更改";
+
+/* Class = "NSMenuItem"; title = "Host"; ObjectID = "1tc-es-At9"; */
+"1tc-es-At9.title" = "主机";
+
+/* Class = "NSTextFieldCell"; title = "Bell:"; ObjectID = "1ui-hs-P55"; */
+"1ui-hs-P55.title" = "响铃：";
+
+/* Class = "NSButtonCell"; title = "Code Interpreter"; ObjectID = "1un-El-eBx"; */
+"1un-El-eBx.title" = "代码解释器";
+
+/* Class = "NSTextFieldCell"; title = "Shell Integration Updates:"; ObjectID = "26L-9b-QuC"; */
+"26L-9b-QuC.title" = "Shell 集成更新：";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "2Db-O7-jpp"; */
+"2Db-O7-jpp.label" = "通用";
+
+/* Class = "NSTextFieldCell"; title = "The “pause” feature requires tmux 3.2 or later."; ObjectID = "2EN-9v-M1n"; */
+"2EN-9v-M1n.title" = "“暂停”功能需要 tmux 3.2 或更高版本。";
+
+/* Class = "NSButtonCell"; title = "Flash tab bar when switching tabs in fullscreen"; ObjectID = "2Eu-ti-9Nf"; */
+"2Eu-ti-9Nf.title" = "全屏切换标签页时闪烁标签栏";
+
+/* Class = "NSTextFieldCell"; title = "Backup & restore:"; ObjectID = "2JC-Pw-mnp"; */
+"2JC-Pw-mnp.title" = "备份与恢复：";
+
+/* Class = "NSButtonCell"; title = "Use bright version of ANSI colors for bold text"; ObjectID = "2NE-9l-ZRK"; */
+"2NE-9l-ZRK.title" = "粗体文本使用明亮版 ANSI 颜色";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "2Po-6U-Apz"; */
+"2Po-6U-Apz.title" = "名称";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When this is enabled, you can click on a command or its output to restrict Find and Filter to its output. The selected command gets highlighted and other commands get dimmed. This requires shell integration to be installed."; ObjectID = "2Pt-rH-WYj"; */
+"2Pt-rH-WYj.ibShadowedToolTip" = "启用后，你可以点按某条命令或其输出，将查找和过滤限制在该输出范围内。所选命令会高亮显示，其他命令会变暗。此功能需要安装 Shell 集成。";
+
+/* Class = "NSMenuItem"; title = "DeepSeek"; ObjectID = "2Sk-3h-LFn"; */
+"2Sk-3h-LFn.title" = "DeepSeek";
+
+/* Class = "NSMenuItem"; title = "No Action"; ObjectID = "2UH-A6-PHv"; */
+"2UH-A6-PHv.title" = "无操作";
+
+/* Class = "NSButtonCell"; title = "▋"; ObjectID = "2Uw-hJ-dM5"; */
+"2Uw-hJ-dM5.title" = "▋";
+
+/* Class = "NSMenuItem"; title = "Edit > Engage Artifical Intelligence"; ObjectID = "2cn-gz-86d"; */
+"2cn-gz-86d.title" = "编辑 > 启用人工智能";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "2dg-Yp-0Zi"; */
+"2dg-Yp-0Zi.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Send “Session Ended” alert"; ObjectID = "2lN-Vt-8WG"; */
+"2lN-Vt-8WG.title" = "发送“会话已结束”提醒";
+
+/* Class = "NSTextFieldCell"; title = "Initial URL:"; ObjectID = "2qo-h9-UBD"; */
+"2qo-h9-UBD.title" = "初始 URL：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When checked, removes items from the list whose value equals the default value."; ObjectID = "2qz-zW-laA"; */
+"2qz-zW-laA.ibShadowedToolTip" = "勾选后，会从列表中移除值等于默认值的项。";
+
+/* Class = "NSTextFieldCell"; title = "Background Color"; ObjectID = "32Y-Ur-CMV"; */
+"32Y-Ur-CMV.title" = "背景颜色";
+
+/* Class = "NSButtonCell"; title = "Archive sessions on closure"; ObjectID = "3DX-gq-Zsh"; */
+"3DX-gq-Zsh.title" = "关闭时归档会话";
+
+/* Class = "NSTextFieldCell"; title = "Response"; ObjectID = "3If-Tn-La6"; */
+"3If-Tn-La6.title" = "响应";
+
+/* Class = "NSTabViewItem"; label = "Selection"; ObjectID = "3Jf-X1-Drt"; */
+"3Jf-X1-Drt.label" = "所选内容";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Alternate Mouse Scroll is a feature that sends arrow keys in response to scroll wheel/scroll gestures. It is toggled by a control sequence."; ObjectID = "3PU-hM-DSB"; */
+"3PU-hM-DSB.ibShadowedToolTip" = "备用鼠标滚动是一项响应滚轮/滚动手势发送方向键的功能。它通过控制序列切换。";
+
+/* Class = "NSButtonCell"; title = "Focus window after right or middle click"; ObjectID = "3Y4-p9-liW"; */
+"3Y4-p9-liW.title" = "右键或中键点按后聚焦窗口";
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "3bd-rH-r3u"; */
+"3bd-rH-r3u.title" = "重置";
+
+/* Class = "NSTextFieldCell"; title = "This setting also enables ligature support in the GPU renderer."; ObjectID = "3cq-GS-KuB"; */
+"3cq-GS-KuB.title" = "此设置还会在 GPU 渲染器中启用连字支持。";
+
+/* Class = "NSTextFieldCell"; title = "HTML titles:"; ObjectID = "3mP-CQ-XJW"; */
+"3mP-CQ-XJW.title" = "HTML 标题：";
+
+/* Class = "NSButtonCell"; title = "Shadow"; ObjectID = "3s8-2Y-ENx"; */
+"3s8-2Y-ENx.title" = "阴影";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "40E-s9-0aI"; */
+"40E-s9-0aI.title" = "⌥ 右 Option";
+
+/* Class = "NSButtonCell"; title = "⏐"; ObjectID = "4EF-ZY-624"; */
+"4EF-ZY-624.title" = "⏐";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Paste bracketing tells compatible apps that text was inserted by a paste operation rather than typing. Some programs use this to treat pastes specially, such as by not auto-indenting it."; ObjectID = "4Ha-Ub-4AS"; */
+"4Ha-Ub-4AS.ibShadowedToolTip" = "粘贴括号化会告诉兼容的应用，文本是通过粘贴操作插入的，而非键入。某些程序会借此对粘贴进行特殊处理，例如不自动缩进。";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "4On-7u-dfy"; */
+"4On-7u-dfy.title" = "允许而不询问";
+
+/* Class = "NSMenuItem"; title = "Scale to Fill"; ObjectID = "4Qt-SM-LZH"; */
+"4Qt-SM-LZH.title" = "缩放填满";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Triggers are enabled in interactive apps"; ObjectID = "4WY-Xs-GJn"; */
+"4WY-Xs-GJn.ibExternalAccessibilityDescription" = "在交互式应用中启用触发器";
+
+/* Class = "NSButtonCell"; title = "Report keys using CSI u"; ObjectID = "4hL-Io-AkB"; */
+"4hL-Io-AkB.title" = "使用 CSI u 报告按键";
+
+/* Class = "NSMenuItem"; title = "Light"; ObjectID = "4kv-Gg-Pyp"; */
+"4kv-Gg-Pyp.title" = "浅色";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "4zD-sr-HuT"; */
+"4zD-sr-HuT.title" = "⌃ 右 Control";
+
+/* Class = "NSMenuItem"; title = "On Retina Displays"; ObjectID = "52C-Wy-nkn"; */
+"52C-Wy-nkn.title" = "在视网膜显示屏上";
+
+/* Class = "NSButtonCell"; title = "Use “tmux” profile rather than profile of the connecting session"; ObjectID = "5Es-9v-v1s"; */
+"5Es-9v-v1s.title" = "使用“tmux”配置文件而非连接会话的配置文件";
+
+/* Class = "NSMenuItem"; title = "User"; ObjectID = "5FR-Lh-CHT"; */
+"5FR-Lh-CHT.title" = "用户";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interpolated string. If empty, use tab title."; ObjectID = "5HY-Ax-GKL"; */
+"5HY-Ax-GKL.placeholderString" = "插值字符串。如果为空，使用标签页标题。";
+
+/* Class = "NSButtonCell"; title = "Send “Idle” alert"; ObjectID = "5OR-eB-vkq"; */
+"5OR-eB-vkq.title" = "发送“空闲”提醒";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Some crusty old systems expect newline rather than carraige return in in raw mode. The symptom is that tmux -CC just hangs. Most people should leave this off."; ObjectID = "5Xl-Cr-LpL"; */
+"5Xl-Cr-LpL.ibShadowedToolTip" = "某些老旧系统在原始模式下期望换行符而非回车符。症状是 tmux -CC 直接卡住。大多数人应保持关闭。";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "5eG-Rt-fZb"; */
+"5eG-Rt-fZb.title" = "项目 2";
+
+/* Class = "NSButtonCell"; title = "⚠️"; ObjectID = "5mf-qS-33o"; */
+"5mf-qS-33o.title" = "⚠️";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "5tm-ag-RMD"; */
+"5tm-ag-RMD.title" = "允许而不询问";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, large cursor movements get an animation to help your eye follow the cursor. They are enabled only in interactive application (i.e., in alternate screen mode)."; ObjectID = "5zv-42-e9U"; */
+"5zv-42-e9U.ibShadowedToolTip" = "启用后，大幅度的光标移动会有动画，以帮助你的视线跟随光标。仅在交互式应用（即备用屏幕模式）中启用。";
+
+/* Class = "NSTextFieldCell"; title = "Remap right control (⌃) key to:"; ObjectID = "61Z-aW-7Yn"; */
+"61Z-aW-7Yn.title" = "将右 Control (⌃) 键重映射为：";
+
+/* Class = "NSButtonCell"; title = "Automatically enable alternate mouse scroll"; ObjectID = "6CL-kh-gKr"; */
+"6CL-kh-gKr.title" = "自动启用备用鼠标滚动";
+
+/* Class = "NSTextFieldCell"; title = "Save changes"; ObjectID = "6Dp-co-GtB"; */
+"6Dp-co-GtB.title" = "存储更改";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Use ligatures for non-ASCII text"; ObjectID = "6Fq-pl-5nd"; */
+"6Fq-pl-5nd.ibExternalAccessibilityDescription" = "对非 ASCII 文本使用连字";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If you turn this on, optional ligatures in this font will be enabled. It forces iTerm2 to use a slower text rendering algorithm."; ObjectID = "6Fq-pl-5nd"; */
+"6Fq-pl-5nd.ibShadowedToolTip" = "如果启用此项，将启用此字体中的可选连字。这会迫使 iTerm2 使用较慢的文本渲染算法。";
+
+/* Class = "NSTextFieldCell"; title = "Profile Type:"; ObjectID = "6KX-JG-Yon"; */
+"6KX-JG-Yon.title" = "配置文件类型：";
+
+/* Class = "NSTextFieldCell"; title = "Context"; ObjectID = "6Nw-qJ-haT"; */
+"6Nw-qJ-haT.title" = "上下文";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables an icon in the window title bar that represents the current working directory."; ObjectID = "6Pr-69-fM1"; */
+"6Pr-69-fM1.ibShadowedToolTip" = "在窗口标题栏中启用代表当前工作目录的图标。";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "This sets the color of the indeterminate progress bar."; ObjectID = "6Qn-Rd-R1m"; */
+"6Qn-Rd-R1m.ibShadowedToolTip" = "设置不确定进度条的颜色。";
+
+/* Class = "NSMenuItem"; title = "Profile & Session Name"; ObjectID = "6na-wb-F2g"; */
+"6na-wb-F2g.title" = "配置文件与会话名称";
+
+/* Class = "NSMenuItem"; title = "Meta"; ObjectID = "6pi-uE-fIT"; */
+"6pi-uE-fIT.title" = "Meta";
+
+/* Class = "NSButtonCell"; title = "✅ Browser Plugin Installed"; ObjectID = "74h-mB-lfd"; */
+"74h-mB-lfd.title" = "✅ 浏览器插件已安装";
+
+/* Class = "NSTextFieldCell"; title = "(recommended for this font)"; ObjectID = "75W-74-b8h"; */
+"75W-74-b8h.title" = "（推荐用于此字体）";
+
+/* Class = "NSMenuItem"; title = "Top"; ObjectID = "7BM-xw-fbE"; */
+"7BM-xw-fbE.title" = "顶部";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When a password prompt appears, automatically open the password manager?"; ObjectID = "7G9-14-8aW"; */
+"7G9-14-8aW.ibShadowedToolTip" = "当出现密码提示时，自动打开密码管理器？";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Show per-pane title bars even if there is only one pane"; ObjectID = "7KN-d8-slG"; */
+"7KN-d8-slG.ibExternalAccessibilityDescription" = "即使只有一个窗格也显示每个窗格的标题栏";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "7Nv-nE-wPH"; */
+"7Nv-nE-wPH.title" = "从不允许";
+
+/* Class = "NSMenuItem"; title = "Very High"; ObjectID = "7Nx-sa-C5B"; */
+"7Nx-sa-C5B.title" = "非常高";
+
+/* Class = "NSTextFieldCell"; title = "Badge:"; ObjectID = "7Oa-B2-O5u"; */
+"7Oa-B2-O5u.title" = "标记：";
+
+/* Class = "NSButtonCell"; title = "Filter Alerts"; ObjectID = "7Pi-Gm-UyI"; */
+"7Pi-Gm-UyI.title" = "过滤提醒";
+
+/* Class = "NSButtonCell"; title = "Double-click performs smart selection"; ObjectID = "7XC-p9-8hX"; */
+"7XC-p9-8hX.title" = "双击执行智能选择";
+
+/* Class = "NSButtonCell"; title = "Remember the size and position of previously closed windows"; ObjectID = "7a3-MN-oQK"; */
+"7a3-MN-oQK.title" = "记住先前关闭窗口的大小和位置";
+
+/* Class = "NSMenuItem"; title = "Hyper"; ObjectID = "7ac-Xd-A8Z"; */
+"7ac-Xd-A8Z.title" = "Hyper";
+
+/* Class = "NSTextFieldCell"; title = "This will force iTerm2 to use the specified keyboard locale\ninstead of the system keyboard."; ObjectID = "7dn-rM-ht2"; */
+"7dn-rM-ht2.title" = "这会强制 iTerm2 使用指定的键盘区域设置\n而非系统键盘。";
+
+/* Class = "NSButtonCell"; title = "A hotkey opens a dedicated window with this profile"; ObjectID = "7gx-Q0-psw"; */
+"7gx-Q0-psw.title" = "用热键打开使用此配置文件的专用窗口";
+
+/* Class = "NSTextFieldCell"; title = "points wide by"; ObjectID = "7mI-9O-gwD"; */
+"7mI-9O-gwD.title" = "点宽 ×";
+
+/* Class = "NSMenuItem"; title = "AI Chat (no function calling)"; ObjectID = "7nl-48-Eh3"; */
+"7nl-48-Eh3.title" = "AI 聊天（无函数调用）";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "7pS-fI-OXd"; */
+"7pS-fI-OXd.title" = "每次询问";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Confirm \"Quit iTerm2 (⌘)\" even if there are no windows"; ObjectID = "7pa-hD-WIi"; */
+"7pa-hD-WIi.ibExternalAccessibilityDescription" = "即使没有窗口也确认“退出 iTerm2 (⌘)”";
+
+/* Class = "NSMenuItem"; title = "Google Gemini"; ObjectID = "7q9-th-Jzw"; */
+"7q9-th-Jzw.title" = "Google Gemini";
+
+/* Class = "NSMenuItem"; title = "OpenAI-Hosted File Upload & Vector Store"; ObjectID = "8VU-Ld-Ffp"; */
+"8VU-Ld-Ffp.title" = "OpenAI 托管的文件上传和向量存储";
+
+/* Class = "NSTextFieldCell"; title = "Mouse Reporting:"; ObjectID = "8aJ-vw-hMr"; */
+"8aJ-vw-hMr.title" = "鼠标报告：";
+
+/* Class = "NSButtonCell"; title = "Exclude from Dock and ⌘-Tab Application Switcher"; ObjectID = "90f-c6-lvp"; */
+"90f-c6-lvp.title" = "从 Dock 和 ⌘-Tab 应用切换器中排除";
+
+/* Class = "NSMenuItem"; title = "Completions"; ObjectID = "94B-eV-j3z"; */
+"94B-eV-j3z.title" = "补全";
+
+/* Class = "NSToolbarItem"; label = "Shortcuts"; ObjectID = "97f-06-acT"; */
+"97f-06-acT.label" = "快捷键";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Shortcuts"; ObjectID = "97f-06-acT"; */
+"97f-06-acT.paletteLabel" = "快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Notifications:"; ObjectID = "9CY-ML-bMd"; */
+"9CY-ML-bMd.title" = "通知：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Alternate Mouse Scroll is a feature that sends arrow keys in response to scroll wheel/scroll gestures. It is toggled by a control sequence."; ObjectID = "9Ds-KM-wpJ"; */
+"9Ds-KM-wpJ.ibShadowedToolTip" = "备用鼠标滚动是一项响应滚轮/滚动手势发送方向键的功能。它通过控制序列切换。";
+
+/* Class = "NSTabViewItem"; label = "Windows"; ObjectID = "9EZ-jv-4Qy"; */
+"9EZ-jv-4Qy.label" = "窗口";
+
+/* Class = "NSMenuItem"; title = "With Dark Backgrounds"; ObjectID = "9Na-yW-waM"; */
+"9Na-yW-waM.title" = "深色背景时";
+
+/* Class = "NSButtonCell"; title = "…but only if all windows are hotkey windows"; ObjectID = "9Nh-nh-0mQ"; */
+"9Nh-nh-0mQ.title" = "…但仅当所有窗口都是热键窗口时";
+
+/* Class = "NSButtonCell"; title = "Use custom color for selected text"; ObjectID = "9RW-QS-5ee"; */
+"9RW-QS-5ee.title" = "为选中文本使用自定颜色";
+
+/* Class = "NSButtonCell"; title = "Use Apple Intelligence to check safety of commands before running them"; ObjectID = "9Vb-hW-Jh0"; */
+"9Vb-hW-Jh0.title" = "使用 Apple 智能在运行命令前检查其安全性";
+
+/* Class = "NSMenuItem"; title = "AI Chat + Read-Only Terminal + Browser Access"; ObjectID = "9Ym-m8-lsR"; */
+"9Ym-m8-lsR.title" = "AI 聊天 + 只读终端 + 浏览器访问";
+
+/* Class = "NSMenuItem"; title = "No Icon"; ObjectID = "9aT-V8-QXb"; */
+"9aT-V8-QXb.title" = "无图标";
+
+/* Class = "NSTextFieldCell"; title = "Page Zoom:"; ObjectID = "9ce-ui-ZGz"; */
+"9ce-ui-ZGz.title" = "页面缩放：";
+
+/* Class = "NSButtonCell"; title = "Edit…"; ObjectID = "9iq-xC-84R"; */
+"9iq-xC-84R.title" = "编辑…";
+
+/* Class = "NSMenuItem"; title = "AI Chat + Browser Access"; ObjectID = "9jv-ay-Cw1"; */
+"9jv-ay-Cw1.title" = "AI 聊天 + 浏览器访问";
+
+/* Class = "NSButtonCell"; title = "Preserve window size when tab bar shows or hides"; ObjectID = "9ky-UU-jS2"; */
+"9ky-UU-jS2.title" = "显示或隐藏标签栏时保持窗口大小";
+
+/* Class = "NSTextFieldCell"; title = "tmux Integration:"; ObjectID = "9lt-O3-3Nb"; */
+"9lt-O3-3Nb.title" = "tmux 集成：";
+
+/* Class = "NSMenuItem"; title = "Job Name with Arguments"; ObjectID = "9nS-ja-6km"; */
+"9nS-ja-6km.title" = "作业名称及参数";
+
+/* Class = "NSTextFieldCell"; title = "All text will be black or white"; ObjectID = "9wh-0G-sEv"; */
+"9wh-0G-sEv.title" = "所有文本将为黑色或白色";
+
+/* Class = "NSMenuItem"; title = "Require “Automation” permission"; ObjectID = "A1J-wd-hbr"; */
+"A1J-wd-hbr.title" = "需要“自动化”权限";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "A38-nc-xyJ"; */
+"A38-nc-xyJ.title" = "每次询问";
+
+/* Class = "NSTabViewItem"; label = "Settings"; ObjectID = "A3y-3j-WQF"; */
+"A3y-3j-WQF.label" = "设置";
+
+/* Class = "NSTextFieldCell"; title = "Attaching:"; ObjectID = "A6S-vd-jNy"; */
+"A6S-vd-jNy.title" = "连接：";
+
+/* Class = "NSTextFieldCell"; title = "Unicode:"; ObjectID = "ACB-I9-bi4"; */
+"ACB-I9-bi4.title" = "Unicode：";
+
+/* Class = "NSButtonCell"; title = "Delete key sends ^H"; ObjectID = "AW8-Wm-9Se"; */
+"AW8-Wm-9Se.title" = "Delete 键发送 ^H";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "Aba-Zo-uvC"; */
+"Aba-Zo-uvC.label" = "通用";
+
+/* Class = "NSMenuItem"; title = "AI Chat + Read-Only Terminal Access"; ObjectID = "Aec-Vb-RT9"; */
+"Aec-Vb-RT9.title" = "AI 聊天 + 只读终端访问";
+
+/* Class = "NSButtonCell"; title = "Use cursor guide"; ObjectID = "Ai2-im-FjJ"; */
+"Ai2-im-FjJ.title" = "使用光标参考线";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "An4-Be-5pz"; */
+"An4-Be-5pz.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "Instant Replay:"; ObjectID = "ApB-R6-gyC"; */
+"ApB-R6-gyC.title" = "即时回放：";
+
+/* Class = "NSMenuItem"; title = "NFC"; ObjectID = "Axx-o2-F4m"; */
+"Axx-o2-F4m.title" = "NFC";
+
+/* Class = "NSTabViewItem"; label = "Shortcuts"; ObjectID = "B3u-OI-QBk"; */
+"B3u-OI-QBk.label" = "快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "BCC-aQ-emh"; */
+"BCC-aQ-emh.title" = "前景";
+
+/* Class = "NSButtonCell"; title = "Custom Python API Scripts Folder"; ObjectID = "BLe-VU-xVS"; */
+"BLe-VU-xVS.title" = "自定 Python API 脚本文件夹";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "BRC-Z5-OON"; */
+"BRC-Z5-OON.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Bold:"; ObjectID = "BVU-Vi-TNw"; */
+"BVU-Vi-TNw.title" = "粗体：";
+
+/* Class = "NSMenuItem"; title = "PWD"; ObjectID = "BZe-Na-nZ4"; */
+"BZe-Na-nZ4.title" = "PWD";
+
+/* Class = "NSMenuItem"; title = "AI Chat + Full Terminal + Browser Access"; ObjectID = "Bdz-2l-yoP"; */
+"Bdz-2l-yoP.title" = "AI 聊天 + 完整终端 + 浏览器访问";
+
+/* Class = "NSMenuItem"; title = "Built-in Icon for Current App"; ObjectID = "BmX-zj-6vo"; */
+"BmX-zj-6vo.title" = "当前 App 的内建图标";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "Boe-IO-Kgi"; */
+"Boe-IO-Kgi.title" = "允许而不询问";
+
+/* Class = "NSTextFieldCell"; title = "Icon:"; ObjectID = "Bp6-8q-9J8"; */
+"Bp6-8q-9J8.title" = "图标：";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "BuS-g8-Dfb"; */
+"BuS-g8-Dfb.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Mouse reporting:"; ObjectID = "C8F-2h-kIt"; */
+"C8F-2h-kIt.title" = "鼠标报告：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Path (Interpolated String)"; ObjectID = "COX-EQ-0ar"; */
+"COX-EQ-0ar.placeholderString" = "路径（插值字符串）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If a session ends immediately after starting and this setting is enabled, keep it open so you can see what went wrong."; ObjectID = "CRE-cb-4lA"; */
+"CRE-cb-4lA.ibShadowedToolTip" = "如果会话在启动后立即结束且启用了此设置，则保持其打开状态，以便你查看出了什么问题。";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "CTV-C2-y5j"; */
+"CTV-C2-y5j.title" = "⌥ 左 Option";
+
+/* Class = "NSButtonCell"; title = "Enabled"; ObjectID = "CY9-Hw-wYr"; */
+"CY9-Hw-wYr.title" = "已启用";
+
+/* Class = "NSTextFieldCell"; title = "Right Option (⌥) key:"; ObjectID = "Cbw-j5-Mas"; */
+"Cbw-j5-Mas.title" = "右 Option (⌥) 键：";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "ChU-JM-nQR"; */
+"ChU-JM-nQR.title" = "从不";
+
+/* Class = "NSTextFieldCell"; title = "Subtitle support requires a taller tab bar."; ObjectID = "CnH-GW-eh7"; */
+"CnH-GW-eh7.title" = "副标题支持需要更高的标签栏。";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "CqO-Ib-ls1"; */
+"CqO-Ib-ls1.title" = "⌃ 右 Control";
+
+/* Class = "NSTextFieldCell"; title = "Python API:"; ObjectID = "Cr5-Qw-qbk"; */
+"Cr5-Qw-qbk.title" = "Python API：";
+
+/* Class = "NSTextFieldCell"; title = "Scrolling:"; ObjectID = "Ct7-kY-JuC"; */
+"Ct7-kY-JuC.title" = "滚动：";
+
+/* Class = "NSTextFieldCell"; title = "Pausing:"; ObjectID = "DAj-xW-uZ4"; */
+"DAj-xW-uZ4.title" = "暂停：";
+
+/* Class = "NSButtonCell"; title = "Report mouse wheel events"; ObjectID = "DCM-jj-J4m"; */
+"DCM-jj-J4m.title" = "报告鼠标滚轮事件";
+
+/* Class = "NSTextFieldCell"; title = "App Updates:"; ObjectID = "DNn-zW-p2N"; */
+"DNn-zW-p2N.title" = "应用更新：";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "DTp-tz-6Yb"; */
+"DTp-tz-6Yb.title" = "普通";
+
+/* Class = "NSTabViewItem"; label = "Snippets"; ObjectID = "DUQ-NG-jEh"; */
+"DUQ-NG-jEh.label" = "片段";
+
+/* Class = "NSTabViewItem"; label = "AI"; ObjectID = "Dfb-0Q-dGX"; */
+"Dfb-0Q-dGX.label" = "AI";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Buried sessions appear under Session > Buried Sessions. When this setting is enabled, window sizes are restored when attaching to an existing tmux session."; ObjectID = "Dt4-v9-hNo"; */
+"Dt4-v9-hNo.ibShadowedToolTip" = "已隐藏的会话会出现在“会话 > 已隐藏的会话”下。启用此设置后，连接到现有 tmux 会话时会恢复窗口大小。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter Badge Text"; ObjectID = "DxZ-e9-1wU"; */
+"DxZ-e9-1wU.placeholderString" = "输入标记文本";
+
+/* Class = "NSButtonCell"; title = "Use ligatures"; ObjectID = "EEt-Fl-Kf8"; */
+"EEt-Fl-Kf8.title" = "使用连字";
+
+/* Class = "NSButtonCell"; title = "Change…"; ObjectID = "EYf-qB-bdj"; */
+"EYf-qB-bdj.title" = "更改…";
+
+/* Class = "NSButtonCell"; title = "Write Automatic Profile Switching debug logs to Script Console (⌥⌘J)"; ObjectID = "Ebv-oG-GFZ"; */
+"Ebv-oG-GFZ.title" = "将自动配置文件切换的调试日志写入脚本控制台 (⌥⌘J)";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "Edq-mO-rTr"; */
+"Edq-mO-rTr.title" = "每次询问";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The progress bar goes at the top of the session. It cannot exceed the top margin height to avoid overlapping terminal contents."; ObjectID = "EkI-wa-K9H"; */
+"EkI-wa-K9H.ibShadowedToolTip" = "进度条位于会话顶部。其高度不能超过顶部边距，以免遮挡终端内容。";
+
+/* Class = "NSTextFieldCell"; title = "Per-pane UI:"; ObjectID = "Ela-2n-4A5"; */
+"Ela-2n-4A5.title" = "每个窗格的界面：";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "EmU-3L-XeT"; */
+"EmU-3L-XeT.title" = "⌘ 右 Command";
+
+/* Class = "NSMenuItem"; title = "On Retina Displays and Dark Backgrounds"; ObjectID = "Enb-ir-CSO"; */
+"Enb-ir-CSO.title" = "在视网膜显示屏和深色背景时";
+
+/* Class = "NSButtonCell"; title = "Enable Python API"; ObjectID = "Enu-TA-VzR"; */
+"Enu-TA-VzR.title" = "启用 Python API";
+
+/* Class = "NSMenuItem"; title = "Save All Profiles as JSON…"; ObjectID = "Eqf-iD-X9H"; */
+"Eqf-iD-X9H.title" = "将所有配置文件存储为 JSON…";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "F2b-XO-En1"; */
+"F2b-XO-En1.title" = "⌃ 左 Control";
+
+/* Class = "NSButtonCell"; title = "Interpret key bindings based on physical key, ignoring input language"; ObjectID = "FHl-07-Ufh"; */
+"FHl-07-Ufh.title" = "基于物理按键解释键绑定，忽略输入语言";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "FNw-nS-Nhm"; */
+"FNw-nS-Nhm.title" = "fn 功能键";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "FSW-rl-pkB"; */
+"FSW-rl-pkB.headerCell.title" = "值";
+
+/* Class = "NSButtonCell"; title = "Create a Dedicated Hotkey Window…"; ObjectID = "FYp-1N-mV9"; */
+"FYp-1N-mV9.title" = "创建专用热键窗口…";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ A profile also uses this shortcut"; ObjectID = "FcK-Mk-rxx"; */
+"FcK-Mk-rxx.title" = "⚠️ 某个配置文件也使用此快捷键";
+
+/* Class = "NSButtonCell"; title = "Force keyboard"; ObjectID = "Fic-QZ-ulj"; */
+"Fic-QZ-ulj.title" = "强制键盘";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "FjH-FW-9h8"; */
+"FjH-FW-9h8.title" = "名称";
+
+/* Class = "NSButtonCell"; title = "Use custom underline color"; ObjectID = "FlU-a8-6X7"; */
+"FlU-a8-6X7.title" = "使用自定下划线颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This is not recommended."; ObjectID = "Flt-We-Y3i"; */
+"Flt-We-Y3i.ibShadowedToolTip" = "不推荐这样做。";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "FwV-18-qsE"; */
+"FwV-18-qsE.title" = "fn 功能键";
+
+/* Class = "NSTabViewItem"; label = "Bindings"; ObjectID = "FxS-Eb-dxA"; */
+"FxS-Eb-dxA.label" = "绑定";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "G8M-3E-Bit"; */
+"G8M-3E-Bit.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Prevent Automatic Profile Switching from changing this session’s profile"; ObjectID = "GAD-Cy-kno"; */
+"GAD-Cy-kno.title" = "阻止自动配置文件切换更改此会话的配置文件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If disabled, then triple click selects one line as it appears onscreen."; ObjectID = "GD3-XJ-mYL"; */
+"GD3-XJ-mYL.ibShadowedToolTip" = "如果停用，则三击仅选择屏幕上显示的一行。";
+
+/* Class = "NSTextFieldCell"; title = "Act in Web Browser"; ObjectID = "GHh-Uz-aT9"; */
+"GHh-Uz-aT9.title" = "在 Web 浏览器中操作";
+
+/* Class = "NSButtonCell"; title = "Show proxy icon in window title bar"; ObjectID = "GIz-HY-hrx"; */
+"GIz-HY-hrx.title" = "在窗口标题栏显示代理图标";
+
+/* Class = "NSButtonCell"; title = "Tabs have close buttons"; ObjectID = "GRU-c6-tJK"; */
+"GRU-c6-tJK.title" = "标签页带关闭按钮";
+
+/* Class = "NSButtonCell"; title = "Page up, page down, home, and end scroll outside interactive apps"; ObjectID = "GRf-s1-ZiR"; */
+"GRf-s1-ZiR.title" = "Page Up、Page Down、Home 和 End 在交互式应用之外滚动";
+
+/* Class = "NSView"; ibShadowedToolTip = "This visualization shows the hue and chroma of the ANSI colors, excluding black and white. Hue is given by the angle and Chroma by the distance from center."; ObjectID = "GVg-ue-xgc"; */
+"GVg-ue-xgc.ibShadowedToolTip" = "此可视化图展示 ANSI 颜色的色相和色度（不含黑白）。色相由角度表示，色度由距中心的距离表示。";
+
+/* Class = "NSTabViewItem"; label = "Actions"; ObjectID = "GdP-GX-FgT"; */
+"GdP-GX-FgT.label" = "操作";
+
+/* Class = "NSTextFieldCell"; title = "Left control (⌃) key:"; ObjectID = "Gfm-aj-kQ9"; */
+"Gfm-aj-kQ9.title" = "左 Control (⌃) 键：";
+
+/* Class = "NSButtonCell"; title = "Use custom title for new tabs using this profile"; ObjectID = "GsB-pu-E3H"; */
+"GsB-pu-E3H.title" = "为使用此配置文件的新标签页使用自定标题";
+
+/* Class = "NSTextFieldCell"; title = "Blur:"; ObjectID = "Gv2-ca-sCH"; */
+"Gv2-ca-sCH.title" = "模糊：";
+
+/* Class = "NSButtonCell"; title = "Treat ⌥ as Alt for special keys like arrows"; ObjectID = "H0w-Px-zqZ"; */
+"H0w-Px-zqZ.title" = "对方向键等特殊键将 ⌥ 视为 Alt";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "H6p-WE-6DF"; */
+"H6p-WE-6DF.label" = "通用";
+
+/* Class = "NSTextFieldCell"; title = "GPU Renderer:"; ObjectID = "HBj-2O-ktQ"; */
+"HBj-2O-ktQ.title" = "GPU 渲染器：";
+
+/* Class = "NSButtonCell"; title = "Enable generative AI features"; ObjectID = "Hbk-Br-E9I"; */
+"Hbk-Br-E9I.title" = "启用生成式 AI 功能";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "Hbn-aI-ysf"; */
+"Hbn-aI-ysf.title" = "⌘ 左 Command";
+
+/* Class = "NSTextFieldCell"; title = "To ensure privacy, the AI features in iTerm2 require the installation of a plugin."; ObjectID = "Heb-gk-qk8"; */
+"Heb-gk-qk8.title" = "为确保隐私，iTerm2 中的 AI 功能需要安装插件。";
+
+/* Class = "NSTextFieldCell"; title = "Allow sending of clipboard contents?"; ObjectID = "HjY-AY-eaJ"; */
+"HjY-AY-eaJ.title" = "允许发送剪贴板内容？";
+
+/* Class = "NSTextFieldCell"; title = "Search results:"; ObjectID = "Ho6-ft-5pH"; */
+"Ho6-ft-5pH.title" = "搜索结果：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Alternate Mouse Scroll is a feature that sends arrow keys in response to scroll wheel/scroll gestures. Enable this if you prefer not to use it for horizontal scrolling. Alternate mouse scroll takes priority over swipe to switch tabs."; ObjectID = "HqN-xF-ITg"; */
+"HqN-xF-ITg.ibShadowedToolTip" = "备用鼠标滚动是一项响应滚轮/滚动手势发送方向键的功能。如果你不想用它进行水平滚动，请启用此项。备用鼠标滚动的优先级高于滑动切换标签页。";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "I7W-YQ-zKh"; */
+"I7W-YQ-zKh.title" = "隐私：";
+
+/* Class = "NSMenuItem"; title = "Set high bit (not recommended)"; ObjectID = "IAy-qm-buV"; */
+"IAy-qm-buV.title" = "设置高位（不推荐）";
+
+/* Class = "NSTextFieldCell"; title = "Pause a pane if it would take more than"; ObjectID = "IC9-FE-YSw"; */
+"IC9-FE-YSw.title" = "如果窗格耗时超过";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey Window:"; ObjectID = "IKL-nD-a5S"; */
+"IKL-nD-a5S.title" = "热键窗口：";
+
+/* Class = "NSMenuItem"; title = "Llama"; ObjectID = "IMc-Va-kmz"; */
+"IMc-Va-kmz.title" = "Llama";
+
+/* Class = "NSTextFieldCell"; title = "Blending:"; ObjectID = "Id6-g0-yXu"; */
+"Id6-g0-yXu.title" = "混合：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The following tags are recognized: <u>, <i>, and <b>. You can also use &lt; and &amp;."; ObjectID = "Ids-PU-lco"; */
+"Ids-PU-lco.ibShadowedToolTip" = "可识别以下标签：<u>、<i> 和 <b>。你也可以使用 &lt; 和 &amp;。";
+
+/* Class = "NSTextFieldCell"; title = "Features:"; ObjectID = "Isn-uv-Qku"; */
+"Isn-uv-Qku.title" = "功能：";
+
+/* Class = "NSMenuItem"; title = "Hyper"; ObjectID = "JAO-K2-MBF"; */
+"JAO-K2-MBF.title" = "Hyper";
+
+/* Class = "NSButtonCell"; title = "Syntax Help"; ObjectID = "JCo-OR-EqT"; */
+"JCo-OR-EqT.title" = "语法帮助";
+
+/* Class = "NSTextFieldCell"; title = "Background"; ObjectID = "JEu-jd-PSO"; */
+"JEu-jd-PSO.title" = "背景";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Some programs (such as vim and emacs) want to put the numeric keypad in \"application\" mode. Turn this off if you always want it to act as a numeric keypad."; ObjectID = "JI4-WQ-gMX"; */
+"JI4-WQ-gMX.ibShadowedToolTip" = "某些程序（如 vim 和 emacs）想将数字小键盘置于“应用”模式。如果你始终希望它作为数字小键盘，请关闭此项。";
+
+/* Class = "NSMenuItem"; title = "Allow all apps to connect"; ObjectID = "JJU-nE-9XN"; */
+"JJU-nE-9XN.title" = "允许所有应用连接";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "JPc-yy-nKe"; */
+"JPc-yy-nKe.title" = "每次询问";
+
+/* Class = "NSTabViewItem"; label = "Hotkey"; ObjectID = "JRd-u6-ZZG"; */
+"JRd-u6-ZZG.label" = "热键";
+
+/* Class = "NSMenuItem"; title = "Components"; ObjectID = "JWB-xg-ElI"; */
+"JWB-xg-ElI.title" = "组件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, large cursor movements get an animation to help your eye follow the cursor. They are enabled only in interactive application (i.e., in alternate screen mode)."; ObjectID = "JXG-G1-APa"; */
+"JXG-G1-APa.ibShadowedToolTip" = "启用后，大幅度的光标移动会有动画，以帮助你的视线跟随光标。仅在交互式应用（即备用屏幕模式）中启用。";
+
+/* Class = "NSButtonCell"; title = "Apps can change how keys are reported"; ObjectID = "Jc5-qq-jV3"; */
+"Jc5-qq-jV3.title" = "应用可更改按键的报告方式";
+
+/* Class = "NSTextFieldCell"; title = "“Undo” can revive a session that has been closed for up to"; ObjectID = "JdL-vz-9Vf"; */
+"JdL-vz-9Vf.title" = "“撤销”可恢复已关闭的会话，最长可达";
+
+/* Class = "NSTextFieldCell"; title = "Thin strokes:"; ObjectID = "JmL-Zy-UER"; */
+"JmL-Zy-UER.title" = "细笔画：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Some programs (such as vim and emacs) want to put the numeric keypad in \"application\" mode. Turn this off if you always want it to act as a numeric keypad. NOTE: This setting affects the older xterm control sequence (CSI > Pp m), not the Kitty control sequence related to CSI > flags u."; ObjectID = "K0H-ZR-UrB"; */
+"K0H-ZR-UrB.ibShadowedToolTip" = "某些程序（如 vim 和 emacs）想将数字小键盘置于“应用”模式。如果你始终希望它作为数字小键盘，请关闭此项。注意：此设置影响较旧的 xterm 控制序列 (CSI > Pp m)，而非与 CSI > flags u 相关的 Kitty 控制序列。";
+
+/* Class = "NSButtonCell"; title = "Mirror tmux paste buffer to local clipboard"; ObjectID = "K0Z-BC-hdc"; */
+"K0Z-BC-hdc.title" = "将 tmux 粘贴缓冲区镜像到本地剪贴板";
+
+/* Class = "NSTextFieldCell"; title = "Chat Permissons:"; ObjectID = "K5H-4i-ekj"; */
+"K5H-4i-ekj.title" = "聊天权限：";
+
+/* Class = "NSButtonCell"; title = "Use custom color for bold text"; ObjectID = "KKT-Zg-ilT"; */
+"KKT-Zg-ilT.title" = "为粗体文本使用自定颜色";
+
+/* Class = "NSButtonCell"; title = "Always use the recommended model from:"; ObjectID = "KN9-Ao-an5"; */
+"KN9-Ao-an5.title" = "始终使用以下来源的推荐模型：";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "KTd-ZZ-Cit"; */
+"KTd-ZZ-Cit.title" = "⌃ 右 Control";
+
+/* Class = "NSMenuItem"; title = "Login Shell"; ObjectID = "KVK-Yx-UwL"; */
+"KVK-Yx-UwL.title" = "登录 Shell";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "KWx-TT-5ME"; */
+"KWx-TT-5ME.title" = "左";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Brightens text for \"normal\" ANSI colors. Does not affect \"bright\" ANSI colors, 8-bit colors, 24-bit colors, or the default foreground color."; ObjectID = "KWy-PJ-O0E"; */
+"KWy-PJ-O0E.ibShadowedToolTip" = "为“普通”ANSI 颜色的文本增亮。不影响“明亮”ANSI 颜色、8 位颜色、24 位颜色或默认前景颜色。";
+
+/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "KXS-zY-yFi"; */
+"KXS-zY-yFi.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "KYi-Tj-cWi"; */
+"KYi-Tj-cWi.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Visibility:"; ObjectID = "Kd3-yO-E1K"; */
+"Kd3-yO-E1K.title" = "可见性：";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, everything you type in the Composer will be shared with your AI provider."; ObjectID = "Knh-H9-rWW"; */
+"Knh-H9-rWW.title" = "启用后，你在编辑器中键入的所有内容都会与你的 AI 提供商共享。";
+
+/* Class = "NSTextFieldCell"; title = "Cursor Boost:"; ObjectID = "Kt3-Fn-Fff"; */
+"Kt3-Fn-Fff.title" = "光标增强：";
+
+/* Class = "NSButtonCell"; title = "Configure Status Bar"; ObjectID = "Kw4-Uw-vBd"; */
+"Kw4-Uw-vBd.title" = "配置状态栏";
+
+/* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "KyW-GB-ElH"; */
+"KyW-GB-ElH.label" = "高级";
+
+/* Class = "NSMenuItem"; title = "Set locale environment variables automatically"; ObjectID = "L20-q0-Xgn"; */
+"L20-q0-Xgn.title" = "自动设置区域环境变量";
+
+/* Class = "NSTextFieldCell"; title = "API:"; ObjectID = "L3h-V8-SK3"; */
+"L3h-V8-SK3.title" = "API：";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "LF7-3M-od4"; */
+"LF7-3M-od4.title" = "允许而不询问";
+
+/* Class = "NSTextFieldCell"; title = "Cursor Guide:"; ObjectID = "LgA-78-Kvi"; */
+"LgA-78-Kvi.title" = "光标参考线：";
+
+/* Class = "NSButtonCell"; title = "Show progress bars"; ObjectID = "LoV-5k-RTq"; */
+"LoV-5k-RTq.title" = "显示进度条";
+
+/* Class = "NSButtonCell"; title = "Show offscreen command line at top of session"; ObjectID = "Loo-aN-wrn"; */
+"Loo-aN-wrn.title" = "在会话顶部显示屏幕外命令行";
+
+/* Class = "NSTextFieldCell"; title = "Password manager:"; ObjectID = "Lpl-Ru-V2u"; */
+"Lpl-Ru-V2u.title" = "密码管理器：";
+
+/* Class = "NSTextFieldCell"; title = "ENQ answer back:"; ObjectID = "Lrt-Oz-1A8"; */
+"Lrt-Oz-1A8.title" = "ENQ 应答：";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "The prompt must contain the substring \\(ai.prompt). The query you enter will replace it when speaking to the AI. For example: “Write a unix command to \\(ai.prompt)."; ObjectID = "LsQ-19-iaj"; */
+"LsQ-19-iaj.ibShadowedToolTip" = "提示必须包含子串 \(ai.prompt)。与 AI 对话时，你输入的查询会替换它。例如：“写一个 unix 命令来 \(ai.prompt)。";
+
+/* Class = "NSTextFieldCell"; title = "Tab:"; ObjectID = "M1T-M4-4jC"; */
+"M1T-M4-4jC.title" = "标签页：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter badge text (interpolated string)"; ObjectID = "M2Y-uM-p2q"; */
+"M2Y-uM-p2q.placeholderString" = "输入标记文本（插值字符串）";
+
+/* Class = "NSTextFieldCell"; title = "Right control (⌃) key:"; ObjectID = "M3p-iW-Ii3"; */
+"M3p-iW-Ii3.title" = "右 Control (⌃) 键：";
+
+/* Class = "NSMenuItem"; title = "Send text…"; ObjectID = "M6w-4D-SYf"; */
+"M6w-4D-SYf.title" = "发送文本…";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "M8r-tv-Ntv"; */
+"M8r-tv-Ntv.title" = "前景";
+
+/* Class = "NSTextFieldCell"; title = "Status Bar:"; ObjectID = "MHU-Ge-APl"; */
+"MHU-Ge-APl.title" = "状态栏：";
+
+/* Class = "NSButtonCell"; title = "Auto-hide menu bar in non-native fullscreen"; ObjectID = "MM6-3I-2ep"; */
+"MM6-3I-2ep.title" = "非原生全屏时自动隐藏菜单栏";
+
+/* Class = "NSButtonCell"; title = "Enable Instant Replay (costs memory and CPU)"; ObjectID = "MML-g6-oeR"; */
+"MML-g6-oeR.title" = "启用即时回放（占用内存和 CPU）";
+
+/* Class = "NSTextFieldCell"; title = "Copy:"; ObjectID = "Mh7-H7-uUQ"; */
+"Mh7-H7-uUQ.title" = "拷贝：";
+
+/* Class = "NSTextFieldCell"; title = "Resizing:"; ObjectID = "MiD-3K-dMh"; */
+"MiD-3K-dMh.title" = "调整大小：";
+
+/* Class = "NSTextFieldCell"; title = "Opaque"; ObjectID = "Mj0-14-uAo"; */
+"Mj0-14-uAo.title" = "不透明";
+
+/* Class = "NSButtonCell"; title = "Use interpolated strings for parameters (affects all actions)"; ObjectID = "MkW-7r-CPG"; */
+"MkW-7r-CPG.title" = "参数使用插值字符串（影响所有操作）";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "NUC-mC-DOm"; */
+"NUC-mC-DOm.title" = "fn 功能键";
+
+/* Class = "NSButtonCell"; title = "Each tab may have its own window title"; ObjectID = "NbC-dp-wjc"; */
+"NbC-dp-wjc.title" = "每个标签页可有自己的窗口标题";
+
+/* Class = "NSMenuItem"; title = "NFD"; ObjectID = "Nf8-0C-Tba"; */
+"Nf8-0C-Tba.title" = "NFD";
+
+/* Class = "NSTextFieldCell"; title = "fn key:"; ObjectID = "NfK-dv-M8v"; */
+"NfK-dv-M8v.title" = "fn 键：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When this is enabled, shift+arrow key will extend an existing selection. If there is no selection, this has no effect."; ObjectID = "Nhj-1F-dbm"; */
+"Nhj-1F-dbm.ibShadowedToolTip" = "启用后，Shift+方向键会扩展现有所选内容。如果没有所选内容，则无效果。";
+
+/* Class = "NSTextFieldCell"; placeholderString = "interval"; ObjectID = "Njg-LZ-sIb"; */
+"Njg-LZ-sIb.placeholderString" = "间隔";
+
+/* Class = "NSTabViewItem"; label = "Key Bindings"; ObjectID = "Nxa-UI-aa0"; */
+"Nxa-UI-aa0.label" = "键绑定";
+
+/* Class = "NSMenuItem"; title = "Light (High Contrast)"; ObjectID = "O45-Gi-i9j"; */
+"O45-Gi-i9j.title" = "浅色（高对比度）";
+
+/* Class = "NSTextFieldCell"; title = "Editing:"; ObjectID = "O5b-oW-Jw9"; */
+"O5b-oW-Jw9.title" = "编辑：";
+
+/* Class = "NSTextFieldCell"; title = "When attaching, restore windows as:"; ObjectID = "OHo-9E-q2w"; */
+"OHo-9E-q2w.title" = "连接时，将窗口恢复为：";
+
+/* Class = "NSMenuItem"; title = "TTY"; ObjectID = "OSx-El-oIk"; */
+"OSx-El-oIk.title" = "TTY";
+
+/* Class = "NSMenuItem"; title = "Plain text"; ObjectID = "OU0-2O-wNV"; */
+"OU0-2O-wNV.title" = "纯文本";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "OVp-ug-ASM"; */
+"OVp-ug-ASM.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When you have selected “Use System Window Restoration Policy”, iTerm2 will not open a new window on launch if there are auto-launch scripts, a hotkey window is defined, or there are any buried sessions. Enable this to force a new window to be opened regardless."; ObjectID = "OWt-qh-bb4"; */
+"OWt-qh-bb4.ibShadowedToolTip" = "当你选择了“使用系统窗口恢复策略”时，如果存在自动启动脚本、已定义热键窗口或有任何已隐藏会话，iTerm2 启动时不会打开新窗口。启用此项可强制无论如何都打开新窗口。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Ook-cy-9BC"; */
+"Ook-cy-9BC.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Show new-output indicator"; ObjectID = "P1b-LJ-ARG"; */
+"P1b-LJ-ARG.title" = "显示新输出指示器";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "PFP-y2-Ff1"; */
+"PFP-y2-Ff1.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Action:"; ObjectID = "PNW-30-uSI"; */
+"PNW-30-uSI.title" = "操作：";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "PZN-ec-6d7"; */
+"PZN-ec-6d7.title" = "普通";
+
+/* Class = "NSTextFieldCell"; title = "Log format:"; ObjectID = "Pew-sS-rRn"; */
+"Pew-sS-rRn.title" = "日志格式：";
+
+/* Class = "NSTextFieldCell"; title = "External  settings:"; ObjectID = "Pmq-3t-6WB"; */
+"Pmq-3t-6WB.title" = "外部设置：";
+
+/* Class = "NSMenuItem"; title = "Super"; ObjectID = "Pr6-Zk-uFz"; */
+"Pr6-Zk-uFz.title" = "Super";
+
+/* Class = "NSMenuItem"; title = "Compact"; ObjectID = "PuI-6v-vjf"; */
+"PuI-6v-vjf.title" = "紧凑";
+
+/* Class = "NSMenuItem"; title = "⌥ Right Option"; ObjectID = "PuP-g1-gdv"; */
+"PuP-g1-gdv.title" = "⌥ 右 Option";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "PzC-U3-7PW"; */
+"PzC-U3-7PW.title" = "允许而不询问";
+
+/* Class = "NSTextFieldCell"; title = "Leader:"; ObjectID = "QBh-RQ-Cgg"; */
+"QBh-RQ-Cgg.title" = "引导键：";
+
+/* Class = "NSTextFieldCell"; title = "Timeout:"; ObjectID = "QCf-5I-BAp"; */
+"QCf-5I-BAp.title" = "超时：";
+
+/* Class = "NSMenuItem"; title = "Session Name"; ObjectID = "QVc-n8-Dea"; */
+"QVc-n8-Dea.title" = "会话名称";
+
+/* Class = "NSTextFieldCell"; title = "Key reporting:"; ObjectID = "QZh-Qh-ThN"; */
+"QZh-Qh-ThN.title" = "按键报告：";
+
+/* Class = "NSMenuItem"; title = "Raw data"; ObjectID = "Qag-mH-b4L"; */
+"Qag-mH-b4L.title" = "原始数据";
+
+/* Class = "NSMenuItem"; title = "Dark Mode"; ObjectID = "QbW-Ha-d7O"; */
+"QbW-Ha-d7O.title" = "深色模式";
+
+/* Class = "NSTextFieldCell"; title = "No rule selected"; ObjectID = "Qbk-nR-LNI"; */
+"Qbk-nR-LNI.title" = "未选择规则";
+
+/* Class = "NSButtonCell"; title = "Remap modifiers globally"; ObjectID = "QcA-jP-3dR"; */
+"QcA-jP-3dR.title" = "全局重映射修饰键";
+
+/* Class = "NSButtonCell"; title = "Export All Settings and Data…"; ObjectID = "Qcp-C1-4DM"; */
+"Qcp-C1-4DM.title" = "导出所有设置和数据…";
+
+/* Class = "NSMenuItem"; title = "Only Restore Hotkey Window"; ObjectID = "Qd0-Iv-vOs"; */
+"Qd0-Iv-vOs.title" = "仅恢复热键窗口";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, the locations of terminal windows are recorded when windows are closed. Later, when creating a new window, the window is placed in the same location (using the top left coordinate). The size is not saved; whatever rows and columns are specified in the window's originating profile are used to compute the size."; ObjectID = "QeQ-es-j2p"; */
+"QeQ-es-j2p.ibShadowedToolTip" = "启用后，关闭窗口时会记录终端窗口的位置。之后创建新窗口时，会将窗口放在相同位置（使用左上角坐标）。大小不会保存；会根据窗口源配置文件中指定的行列数来计算大小。";
+
+/* Class = "NSButtonCell"; title = "Use custom window title for new windows using this profile"; ObjectID = "Qhl-XG-H9e"; */
+"Qhl-XG-H9e.title" = "为使用此配置文件的新窗口使用自定窗口标题";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "Qig-Bw-iiI"; */
+"Qig-Bw-iiI.title" = "从不允许";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "QwO-Ii-G0z"; */
+"QwO-Ii-G0z.title" = "⌃ 左 Control";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If Shell Integration is enabled, this prevents command prompts from starting in the middle of a line when the previous command did not end with a newline."; ObjectID = "Qz5-Ow-iQt"; */
+"Qz5-Ow-iQt.ibShadowedToolTip" = "如果启用了 Shell 集成，可防止上一条命令未以换行符结尾时命令提示符从行中间开始。";
+
+/* Class = "NSTextFieldCell"; title = "Snippets Filter:"; ObjectID = "R2j-BP-pqT"; */
+"R2j-BP-pqT.title" = "片段过滤器：";
+
+/* Class = "NSMenuItem"; title = "Restart"; ObjectID = "R3h-df-Y9V"; */
+"R3h-df-Y9V.title" = "重新启动";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Animate cursor only in interactive apps"; ObjectID = "RBx-qn-HNB"; */
+"RBx-qn-HNB.ibExternalAccessibilityDescription" = "仅在交互式应用中为光标添加动画";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When disabled, cursor animation only occurs in alternate screen mode. When enabled, cursor movements are always animated."; ObjectID = "RBx-qn-HNB"; */
+"RBx-qn-HNB.ibShadowedToolTip" = "停用时，光标动画仅在备用屏幕模式下发生。启用时，光标移动始终带动画。";
+
+/* Class = "NSMenuItem"; title = "No File Uploading or Vector Store"; ObjectID = "RE7-Aw-j5S"; */
+"RE7-Aw-j5S.title" = "无文件上传或向量存储";
+
+/* Class = "NSMenuItem"; title = "No Title Bar"; ObjectID = "REd-Hh-bME"; */
+"REd-Hh-bME.title" = "无标题栏";
+
+/* Class = "NSTextFieldCell"; title = "View > Use Transparency can override this setting temporarily per window."; ObjectID = "RKu-SH-ooZ"; */
+"RKu-SH-ooZ.title" = "“显示 > 使用透明度”可按窗口临时覆盖此设置。";
+
+/* Class = "NSTextFieldCell"; title = "Performance:"; ObjectID = "RPP-zc-pmu"; */
+"RPP-zc-pmu.title" = "性能：";
+
+/* Class = "NSMenuItem"; title = "Profile Name"; ObjectID = "RQC-te-ZZE"; */
+"RQC-te-ZZE.title" = "配置文件名称";
+
+/* Class = "NSButtonCell"; title = "Configure AI Model Manually…"; ObjectID = "RW0-Ia-ly9"; */
+"RW0-Ia-ly9.title" = "手动配置 AI 模型…";
+
+/* Class = "NSButtonCell"; title = "Send “Bell” alert"; ObjectID = "RWj-e3-HBy"; */
+"RWj-e3-HBy.title" = "发送“响铃”提醒";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "RYT-Kl-28i"; */
+"RYT-Kl-28i.title" = "始终";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "RaJ-94-qN3"; */
+"RaJ-94-qN3.title" = "普通";
+
+/* Class = "NSButtonCell"; title = "Offer AI command suggestion in Composer & Auto Composer"; ObjectID = "RfN-ni-yfc"; */
+"RfN-ni-yfc.title" = "在编辑器和自动编辑器中提供 AI 命令建议";
+
+/* Class = "NSButtonCell"; title = "Support basic HTML tags in tab titles"; ObjectID = "RnY-AK-UW0"; */
+"RnY-AK-UW0.title" = "在标签页标题中支持基本 HTML 标签";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When selected, macOS positions windows according to its whims. The window size comes from the rows and columns specified in the window’s originating profile."; ObjectID = "Rug-jx-jJP"; */
+"Rug-jx-jJP.ibShadowedToolTip" = "选中后，macOS 会按自己的方式定位窗口。窗口大小来自窗口源配置文件中指定的行列数。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "S3P-Wp-pvv"; */
+"S3P-Wp-pvv.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "S7J-GG-W7d"; */
+"S7J-GG-W7d.title" = "手动";
+
+/* Class = "NSMenuItem"; title = "HFS+"; ObjectID = "SPh-yP-BVG"; */
+"SPh-yP-BVG.title" = "HFS+";
+
+/* Class = "NSMenuItem"; title = "Stretch"; ObjectID = "SZF-cW-ZSJ"; */
+"SZF-cW-ZSJ.title" = "拉伸";
+
+/* Class = "NSTextFieldCell"; title = "Archiving:"; ObjectID = "SZd-eb-Mse"; */
+"SZd-eb-Mse.title" = "归档：";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard:"; ObjectID = "Sck-8q-qxj"; */
+"Sck-8q-qxj.title" = "剪贴板：";
+
+/* Class = "NSMenuItem"; title = "Next to contents"; ObjectID = "Sfc-f4-G7H"; */
+"Sfc-f4-G7H.title" = "紧邻内容";
+
+/* Class = "NSTextFieldCell"; title = "Key behavior:"; ObjectID = "Sl0-o7-1xk"; */
+"Sl0-o7-1xk.title" = "按键行为：";
+
+/* Class = "NSMenuItem"; title = "Use System Window Restoration Setting"; ObjectID = "Smv-f0-j9o"; */
+"Smv-f0-j9o.title" = "使用系统窗口恢复设置";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "So5-Gy-8tW"; */
+"So5-Gy-8tW.title" = "普通";
+
+/* Class = "NSTextFieldCell"; title = "You will always be prompted before data is shared."; ObjectID = "SsU-mJ-KFc"; */
+"SsU-mJ-KFc.title" = "共享数据前将始终提示你。";
+
+/* Class = "NSMenuItem"; title = "⌘ Left Command"; ObjectID = "Sx4-PD-OaS"; */
+"Sx4-PD-OaS.title" = "⌘ 左 Command";
+
+/* Class = "NSButtonCell"; title = "Send escape sequence-generated alerts"; ObjectID = "T4Q-lq-oX1"; */
+"T4Q-lq-oX1.title" = "发送转义序列生成的提醒";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "TGp-XX-gkr"; */
+"TGp-XX-gkr.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Separate background images per pane"; ObjectID = "TMi-gO-FVp"; */
+"TMi-gO-FVp.title" = "每个窗格使用单独的背景图像";
+
+/* Class = "NSMenuItem"; title = "Job"; ObjectID = "TSw-HA-tbI"; */
+"TSw-HA-tbI.title" = "作业";
+
+/* Class = "NSSegmentedCell"; Tbo-Nq-0gg.ibShadowedLabels[0] = "🖥️ Terminal"; ObjectID = "Tbo-Nq-0gg"; */
+"Tbo-Nq-0gg.ibShadowedLabels[0]" = "🖥️ 终端";
+
+/* Class = "NSSegmentedCell"; Tbo-Nq-0gg.ibShadowedLabels[1] = "🌎 Web Browser"; ObjectID = "Tbo-Nq-0gg"; */
+"Tbo-Nq-0gg.ibShadowedLabels[1]" = "🌎 Web 浏览器";
+
+/* Class = "NSTextFieldCell"; title = "Links:"; ObjectID = "Tt3-3r-Gt8"; */
+"Tt3-3r-Gt8.title" = "链接：";
+
+/* Class = "NSMenuItem"; title = "⌥ Left Option"; ObjectID = "U1f-7q-Ewz"; */
+"U1f-7q-Ewz.title" = "⌥ 左 Option";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Some programs (such as vim and emacs) want to put the numeric keypad in \"application\" mode. Turn this off if you always want it to act as a numeric keypad."; ObjectID = "U4H-3c-nZg"; */
+"U4H-3c-nZg.ibShadowedToolTip" = "某些程序（如 vim 和 emacs）想将数字小键盘置于“应用”模式。如果你始终希望它作为数字小键盘，请关闭此项。";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "U6s-xk-3OZ"; */
+"U6s-xk-3OZ.title" = "始终";
+
+/* Class = "NSButtonCell"; title = "Clicking on a command selects it to restrict Find and Filter"; ObjectID = "U7X-fp-NxP"; */
+"U7X-fp-NxP.title" = "点按命令将其选中，以限制查找和过滤范围";
+
+/* Class = "NSButtonCell"; title = "Open password manager automatically when a password prompt is detected"; ObjectID = "UEU-xg-gYz"; */
+"UEU-xg-gYz.title" = "检测到密码提示时自动打开密码管理器";
+
+/* Class = "NSTextFieldCell"; title = "History:"; ObjectID = "UGX-V6-bbT"; */
+"UGX-V6-bbT.title" = "历史：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Apps can change right option key"; ObjectID = "UGZ-Vx-hCx"; */
+"UGZ-Vx-hCx.ibExternalAccessibilityDescription" = "应用可更改右 Option 键";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, apps can cause this option key to send Esc+ using DECSET 1036. Note that on some external keyboards left and right option keys are swapped."; ObjectID = "UGZ-Vx-hCx"; */
+"UGZ-Vx-hCx.ibShadowedToolTip" = "启用后，应用可使用 DECSET 1036 让此 Option 键发送 Esc+。注意，某些外接键盘上左右 Option 键是互换的。";
+
+/* Class = "NSButtonCell"; title = "Show tab bar in fullscreen"; ObjectID = "UI6-As-YT2"; */
+"UI6-As-YT2.title" = "全屏时显示标签栏";
+
+/* Class = "NSTextFieldCell"; title = "Left command (⌘) key:"; ObjectID = "UIp-nd-8yV"; */
+"UIp-nd-8yV.title" = "左 Command (⌘) 键：";
+
+/* Class = "NSButtonCell"; title = "Emulate U.S. Keyboard"; ObjectID = "UTO-Uf-SmK"; */
+"UTO-Uf-SmK.title" = "模拟美式键盘";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "In the Minimal theme, tabs can show a subtitle as a second line of text."; ObjectID = "UWv-op-rJa"; */
+"UWv-op-rJa.ibShadowedToolTip" = "在简约主题中，标签页可显示副标题作为第二行文本。";
+
+/* Class = "NSButtonCell"; title = "Use SSH integration for ssh: URLs"; ObjectID = "UfK-dm-ngW"; */
+"UfK-dm-ngW.title" = "对 ssh: URL 使用 SSH 集成";
+
+/* Class = "NSMenuItem"; title = "Over contents when mouse hovers over scrollbar"; ObjectID = "UqD-aO-v92"; */
+"UqD-aO-v92.title" = "鼠标悬停在滚动条上时显示在内容上方";
+
+/* Class = "NSTextFieldCell"; title = "Miscellaneous:"; ObjectID = "Uxg-uI-Igl"; */
+"Uxg-uI-Igl.title" = "杂项：";
+
+/* Class = "NSButtonCell"; title = "⚠️"; ObjectID = "VRh-tL-KgN"; */
+"VRh-tL-KgN.title" = "⚠️";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "How much of the background image is visible through the background color."; ObjectID = "VXt-Ga-Uvg"; */
+"VXt-Ga-Uvg.ibShadowedToolTip" = "背景图像透过背景颜色可见的程度。";
+
+/* Class = "NSTextFieldCell"; title = "Bonjour:"; ObjectID = "VYn-BL-8S3"; */
+"VYn-BL-8S3.title" = "Bonjour：";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "VbV-8M-87X"; */
+"VbV-8M-87X.title" = "秒";
+
+/* Class = "NSTabViewItem"; label = "Key Bindings"; ObjectID = "Vbb-kB-WbF"; */
+"Vbb-kB-WbF.label" = "键绑定";
+
+/* Class = "NSMenuItem"; title = "Super"; ObjectID = "Vcx-4y-BaP"; */
+"Vcx-4y-BaP.title" = "Super";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "Wci-fV-mFZ"; */
+"Wci-fV-mFZ.title" = "每次询问";
+
+/* Class = "NSTextFieldCell"; title = "Badge:"; ObjectID = "Wf2-tR-45o"; */
+"Wf2-tR-45o.title" = "标记：";
+
+/* Class = "NSMenuItem"; title = "Left of Screen"; ObjectID = "Wfg-EQ-Kpk"; */
+"Wfg-EQ-Kpk.title" = "屏幕左侧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enables the specified color for bold text. Also has the side-effect of using the bright version of ANSI colors for bold text in a ”normal“ ANSI color."; ObjectID = "X0w-pC-g9j"; */
+"X0w-pC-g9j.ibShadowedToolTip" = "为粗体文本启用指定的颜色。副作用是粗体文本在“普通”ANSI 颜色下会使用明亮版 ANSI 颜色。";
+
+/* Class = "NSButtonCell"; title = "Stretch tabs to fill bar"; ObjectID = "X12-cb-Cnf"; */
+"X12-cb-Cnf.title" = "拉伸标签页以填满标签栏";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "X4l-mC-Lbf"; */
+"X4l-mC-Lbf.title" = "配置文件：";
+
+/* Class = "NSTabViewItem"; label = "Experimental"; ObjectID = "XCA-9w-Cev"; */
+"XCA-9w-Cev.label" = "实验性";
+
+/* Class = "NSButtonCell"; title = "Use built-in Powerline glyphs"; ObjectID = "XGj-qV-Ys8"; */
+"XGj-qV-Ys8.title" = "使用内建 Powerline 字形";
+
+/* Class = "NSButtonCell"; title = "Triple-click selects entire wrapped lines"; ObjectID = "XH1-2y-ipC"; */
+"XH1-2y-ipC.title" = "三击选择整个换行行";
+
+/* Class = "NSButtonCell"; title = "Use ligatures"; ObjectID = "XXg-RS-7af"; */
+"XXg-RS-7af.title" = "使用连字";
+
+/* Class = "NSTextFieldCell"; title = "This build is in the nightly build channel. It cannot update to beta or release builds."; ObjectID = "XaQ-Gu-7BD"; */
+"XaQ-Gu-7BD.title" = "此版本属于每夜构建渠道。它无法更新到 Beta 版或正式版。";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "XeY-ex-eKM"; */
+"XeY-ex-eKM.title" = "表格视图单元格";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "XkE-Bm-v8F"; */
+"XkE-Bm-v8F.title" = "每次询问";
+
+/* Class = "NSButtonCell"; title = "Unpause automatically"; ObjectID = "XtJ-dD-l7K"; */
+"XtJ-dD-l7K.title" = "自动取消暂停";
+
+/* Class = "NSMenuItem"; title = "⌥ Number"; ObjectID = "XvI-gy-pDy"; */
+"XvI-gy-pDy.title" = "⌥ 数字";
+
+/* Class = "NSButtonCell"; title = "Apps can change this"; ObjectID = "Xvy-v8-zjR"; */
+"Xvy-v8-zjR.title" = "应用可更改此项";
+
+/* Class = "NSMenuItem"; title = "Foreground Job"; ObjectID = "YEF-Tv-Hqs"; */
+"YEF-Tv-Hqs.title" = "前台作业";
+
+/* Class = "NSMenuItem"; title = "Anthropic"; ObjectID = "YEw-TI-8fc"; */
+"YEw-TI-8fc.title" = "Anthropic";
+
+/* Class = "NSTextFieldCell"; title = "Instant Replay:"; ObjectID = "YKe-63-gdc"; */
+"YKe-63-gdc.title" = "即时回放：";
+
+/* Class = "NSTextFieldCell"; title = "Plugin:"; ObjectID = "YM0-z8-xS5"; */
+"YM0-z8-xS5.title" = "插件：";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YPU-C0-A3b"; */
+"YPU-C0-A3b.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Warn before pausing"; ObjectID = "YPl-Hu-T2J"; */
+"YPl-Hu-T2J.title" = "暂停前警告";
+
+/* Class = "NSMenuItem"; title = "Components"; ObjectID = "YRV-oK-I4f"; */
+"YRV-oK-I4f.title" = "组件";
+
+/* Class = "NSTextFieldCell"; title = "Copy Mode:"; ObjectID = "YTS-wq-xBS"; */
+"YTS-wq-xBS.title" = "拷贝模式：";
+
+/* Class = "NSMenuItem"; title = "Set high bit (not recommended)"; ObjectID = "Ya5-Tz-1MZ"; */
+"Ya5-Tz-1MZ.title" = "设置高位（不推荐）";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "Yf1-Jv-ell"; */
+"Yf1-Jv-ell.title" = "普通";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, terminals are rendered using the GPU. This improves performance."; ObjectID = "YoO-mR-uX5"; */
+"YoO-mR-uX5.ibShadowedToolTip" = "启用后，终端将使用 GPU 渲染。这会提升性能。";
+
+/* Class = "NSTextFieldCell"; title = "Filename:"; ObjectID = "YpV-Mh-UE0"; */
+"YpV-Mh-UE0.title" = "文件名：";
+
+/* Class = "NSTextFieldCell"; title = "Subtitle"; ObjectID = "Z3d-96-Mba"; */
+"Z3d-96-Mba.title" = "副标题";
+
+/* Class = "NSButtonCell"; title = "Use separate colors for light and dark mode"; ObjectID = "ZF1-Nv-83x"; */
+"ZF1-Nv-83x.title" = "浅色和深色模式使用不同颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "For terminal applications that use mouse reporting, turning this on allows right click (or two finger tap on a trackpad) to be reported instead of opening the context menu."; ObjectID = "ZG1-dm-1gD"; */
+"ZG1-dm-1gD.ibShadowedToolTip" = "对于使用鼠标报告的终端应用，启用此项可让右键点按（或触控板双指轻点）被报告，而不是打开上下文菜单。";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "ZNW-QH-Lff"; */
+"ZNW-QH-Lff.title" = "常规";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "ZO7-HG-Zrg"; */
+"ZO7-HG-Zrg.title" = "⌃ 右 Control";
+
+/* Class = "NSTabViewItem"; label = "Remap Modifiers"; ObjectID = "ZPU-LD-eKa"; */
+"ZPU-LD-eKa.label" = "重映射修饰键";
+
+/* Class = "NSMenuItem"; title = "User"; ObjectID = "ZT3-m8-pr9"; */
+"ZT3-m8-pr9.title" = "用户";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "ZUC-DO-GoS"; */
+"ZUC-DO-GoS.title" = "从不";
+
+/* Class = "NSTextFieldCell"; title = "Progress Bars:"; ObjectID = "ZgN-gY-svi"; */
+"ZgN-gY-svi.title" = "进度条：";
+
+/* Class = "NSTabViewItem"; label = "Prompts"; ObjectID = "Zhi-pV-Nge"; */
+"Zhi-pV-Nge.label" = "提示";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When this is enabled, you can click on a command or its output to restrict Find and Filter to its output. The selected command gets highlighted and other commands get dimmed. This requires shell integration to be installed."; ObjectID = "ZlO-15-adn"; */
+"ZlO-15-adn.ibShadowedToolTip" = "启用后，你可以点按某条命令或其输出，将查找和过滤限制在该输出范围内。所选命令会高亮显示，其他命令会变暗。此功能需要安装 Shell 集成。";
+
+/* Class = "NSTabViewItem"; label = "Startup"; ObjectID = "ZsM-GD-jXe"; */
+"ZsM-GD-jXe.label" = "启动";
+
+/* Class = "NSTabViewItem"; label = "Magic"; ObjectID = "a3F-w8-ggT"; */
+"a3F-w8-ggT.label" = "魔法";
+
+/* Class = "NSButtonCell"; title = "Animate movement"; ObjectID = "a5M-2m-nch"; */
+"a5M-2m-nch.title" = "动画移动";
+
+/* Class = "NSMenuItem"; title = "⌥⌘ Number"; ObjectID = "a9h-ca-fto"; */
+"a9h-ca-fto.title" = "⌥⌘ 数字";
+
+/* Class = "NSMenuItem"; title = "Super"; ObjectID = "aGq-dF-D5Z"; */
+"aGq-dF-D5Z.title" = "Super";
+
+/* Class = "NSMenuItem"; title = "Do not set locale environment variables"; ObjectID = "aSL-AW-Ix4"; */
+"aSL-AW-Ix4.title" = "不设置区域环境变量";
+
+/* Class = "NSTextFieldCell"; title = "Use \\0 for match, \\1…\\9 for match groups, \\d for directory, \\u for user, \\h for host."; ObjectID = "aev-dz-zJQ"; */
+"aev-dz-zJQ.title" = "用 \0 表示匹配，\1…\9 表示匹配组，\d 表示目录，\u 表示用户，\h 表示主机。";
+
+/* Class = "NSButtonCell"; title = "Terminal may change cursor blink"; ObjectID = "akw-8K-q2d"; */
+"akw-8K-q2d.title" = "终端可更改光标闪烁";
+
+/* Class = "NSMenuItem"; title = "Anthropic"; ObjectID = "apV-VD-Tzz"; */
+"apV-VD-Tzz.title" = "Anthropic";
+
+/* Class = "NSTextFieldCell"; title = "Tab Title:"; ObjectID = "arV-zH-f1s"; */
+"arV-zH-f1s.title" = "标签页标题：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "For this setting to take effect you must disable \"Native full screen windows\" in Settings > General. If this setting is enabled, the menu bar will remain visible. This is useful for multi-monitor systems."; ObjectID = "awA-hH-ziY"; */
+"awA-hH-ziY.ibShadowedToolTip" = "要使此设置生效，你必须在“设置 > 通用”中停用“原生全屏窗口”。如果启用此设置，菜单栏将保持可见。这对多显示器系统很有用。";
+
+/* Class = "NSButtonCell"; title = "Enable support for right-to-left scripts"; ObjectID = "ax2-RO-lUC"; */
+"ax2-RO-lUC.title" = "启用对从右到左文字的支持";
+
+/* Class = "NSTextFieldCell"; title = "Clicks:"; ObjectID = "axW-bU-qkO"; */
+"axW-bU-qkO.title" = "点按：";
+
+/* Class = "NSTextFieldCell"; title = "API Key:"; ObjectID = "b2B-Hj-edT"; */
+"b2B-Hj-edT.title" = "API 密钥：";
+
+/* Class = "NSButtonCell"; title = "Always open at least one terminal window at startup"; ObjectID = "b5z-Sg-ADk"; */
+"b5z-Sg-ADk.title" = "启动时总是至少打开一个终端窗口";
+
+/* Class = "NSMenuItem"; title = "Scale to Fit"; ObjectID = "b9n-62-qE3"; */
+"b9n-62-qE3.title" = "缩放适配";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When the command that produced output is partially invisible, this option shows the  last line of the prompt and the command that produced the output at the top of the screen."; ObjectID = "bAl-3O-ik0"; */
+"bAl-3O-ik0.ibShadowedToolTip" = "当产生输出的命令部分不可见时，此选项会在屏幕顶部显示提示符的最后一行和产生该输出的命令。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When relaunching, restore windows on to the same Space that they were on before. If disabled, windows will be restored into the current Space."; ObjectID = "bEQ-f0-BMG"; */
+"bEQ-f0-BMG.ibShadowedToolTip" = "重新启动时，将窗口恢复到它们之前所在的空间。如果停用，窗口将恢复到当前空间。";
+
+/* Class = "NSTextFieldCell"; title = "Aesthetics:"; ObjectID = "bQD-JV-MHk"; */
+"bQD-JV-MHk.title" = "美观：";
+
+/* Class = "NSButtonCell"; title = "Insert newline before start of command prompt if needed"; ObjectID = "bRB-N5-KFZ"; */
+"bRB-N5-KFZ.title" = "需要时在命令提示符开始前插入换行符";
+
+/* Class = "NSButtonCell"; title = "Configure Hotkey Window"; ObjectID = "bhZ-45-rQu"; */
+"bhZ-45-rQu.title" = "配置热键窗口";
+
+/* Class = "NSMenuItem"; title = "^ Number"; ObjectID = "bik-Ja-Wpf"; */
+"bik-Ja-Wpf.title" = "^ 数字";
+
+/* Class = "NSTabViewItem"; label = "Closing"; ObjectID = "brO-Cv-Mur"; */
+"brO-Cv-Mur.label" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "ANSI Colors:"; ObjectID = "byD-Ew-RBm"; */
+"byD-Ew-RBm.title" = "ANSI 颜色：";
+
+/* Class = "NSTextFieldCell"; title = "AI Model:"; ObjectID = "cCL-e8-nE7"; */
+"cCL-e8-nE7.title" = "AI 模型：";
+
+/* Class = "NSButtonCell"; title = "GPU rendering"; ObjectID = "cDA-tx-zuo"; */
+"cDA-tx-zuo.title" = "GPU 渲染";
+
+/* Class = "NSTextFieldCell"; title = "Check Terminal State"; ObjectID = "cDc-uC-w54"; */
+"cDc-uC-w54.title" = "检查终端状态";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "cKG-uJ-P2E"; */
+"cKG-uJ-P2E.title" = "标题：";
+
+/* Class = "NSButtonCell"; title = "Apps can change this"; ObjectID = "cMx-85-ocB"; */
+"cMx-85-ocB.title" = "应用可更改此项";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows a configurable status bar at the top of each session."; ObjectID = "cO8-6s-51k"; */
+"cO8-6s-51k.ibShadowedToolTip" = "在每个会话顶部显示可配置的状态栏。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "cOx-GU-wfM"; */
+"cOx-GU-wfM.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Send “New Output” alert"; ObjectID = "cP6-Jq-skb"; */
+"cP6-Jq-skb.title" = "发送“新输出”提醒";
+
+/* Class = "NSMenuItem"; title = "Gemini"; ObjectID = "cS0-Ky-dJK"; */
+"cS0-Ky-dJK.title" = "Gemini";
+
+/* Class = "NSButtonCell"; title = "Allow application keypad mode"; ObjectID = "cTE-39-JA0"; */
+"cTE-39-JA0.title" = "允许应用小键盘模式";
+
+/* Class = "NSTextFieldCell"; title = "Window Title:"; ObjectID = "cXh-VN-jIa"; */
+"cXh-VN-jIa.title" = "窗口标题：";
+
+/* Class = "NSMenuItem"; title = "Use“POSIX” locale (LC_CTYPE=encoding)"; ObjectID = "cYB-U2-o7i"; */
+"cYB-U2-o7i.title" = "使用“POSIX”区域设置 (LC_CTYPE=encoding)";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "cdf-Af-GED"; */
+"cdf-Af-GED.title" = "高";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, mouse reporting takes priority over swipe to switch tabs. Disable this if swiping to switch tabs sometimes doesn’t work."; ObjectID = "cgK-BO-rKa"; */
+"cgK-BO-rKa.ibShadowedToolTip" = "启用后，鼠标报告的优先级高于滑动切换标签页。如果滑动切换标签页有时无效，请停用此项。";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "cjU-EH-jKd"; */
+"cjU-EH-jKd.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Status bar enabled"; ObjectID = "cl5-An-mPh"; */
+"cl5-An-mPh.title" = "状态栏已启用";
+
+/* Class = "NSTabViewItem"; label = "Window"; ObjectID = "cmW-ac-GOQ"; */
+"cmW-ac-GOQ.label" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Job Name"; ObjectID = "cne-Bh-bAC"; */
+"cne-Bh-bAC.title" = "作业名称";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "d19-bW-qVM"; */
+"d19-bW-qVM.title" = "从不允许";
+
+/* Class = "NSTextFieldCell"; title = "Command selection:"; ObjectID = "d4O-zL-Pp0"; */
+"d4O-zL-Pp0.title" = "命令选择：";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "d98-mM-tnC"; */
+"d98-mM-tnC.title" = "从不允许";
+
+/* Class = "NSMenuItem"; title = "No Shortcut"; ObjectID = "dAC-MA-Mtf"; */
+"dAC-MA-Mtf.title" = "无快捷键";
+
+/* Class = "NSMenuItem"; title = "Tile"; ObjectID = "dDL-md-i3w"; */
+"dDL-md-i3w.title" = "平铺";
+
+/* Class = "NSMenuItem"; title = "Save Profile as JSON…"; ObjectID = "dEP-Mo-LZj"; */
+"dEP-Mo-LZj.title" = "将配置文件存储为 JSON…";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "dI5-Wy-HCI"; */
+"dI5-Wy-HCI.title" = "⌃ 左 Control";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "dL0-eT-1Y9"; */
+"dL0-eT-1Y9.title" = "文件夹：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interpolated string"; ObjectID = "dMl-Zb-Sed"; */
+"dMl-Zb-Sed.placeholderString" = "插值字符串";
+
+/* Class = "NSButtonCell"; title = "Set API Key…"; ObjectID = "dPY-vh-paF"; */
+"dPY-vh-paF.title" = "设置 API 密钥…";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "dVY-ir-1iD"; */
+"dVY-ir-1iD.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Terminal may enable alternate mouse scroll"; ObjectID = "dW7-gR-D6W"; */
+"dW7-gR-D6W.title" = "终端可启用备用鼠标滚动";
+
+/* Class = "NSTextFieldCell"; title = "Faint text:"; ObjectID = "daT-ns-Xv5"; */
+"daT-ns-Xv5.title" = "淡色文本：";
+
+/* Class = "NSTextFieldCell"; title = "Color Preset:"; ObjectID = "dcx-HG-VgG"; */
+"dcx-HG-VgG.title" = "颜色预设：";
+
+/* Class = "NSMenuItem"; title = "HTML"; ObjectID = "deu-RR-tr2"; */
+"deu-RR-tr2.title" = "HTML";
+
+/* Class = "NSMenuItem"; title = "Hyper"; ObjectID = "dlT-z3-VuA"; */
+"dlT-z3-VuA.title" = "Hyper";
+
+/* Class = "NSButtonCell"; title = "Hide when keyboard focus lost"; ObjectID = "dn4-s4-1RT"; */
+"dn4-s4-1RT.title" = "失去键盘焦点时隐藏";
+
+/* Class = "NSTabViewItem"; label = "tmux"; ObjectID = "dpe-So-Ym8"; */
+"dpe-So-Ym8.label" = "tmux";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "dqw-Xs-Z1s"; */
+"dqw-Xs-Z1s.title" = "低";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "drC-jZ-nt2"; */
+"drC-jZ-nt2.title" = "普通";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "e0a-lK-BYn"; */
+"e0a-lK-BYn.title" = "每次询问";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "e5D-gm-JgT"; */
+"e5D-gm-JgT.title" = "⌃ 左 Control";
+
+/* Class = "NSMenuItem"; title = "Custom Shell"; ObjectID = "e7Q-Nz-XFN"; */
+"e7Q-Nz-XFN.title" = "自定 Shell";
+
+/* Class = "NSButtonCell"; title = "Use a different font for non-ASCII text"; ObjectID = "e7d-pm-ySF"; */
+"e7d-pm-ySF.title" = "对非 ASCII 文本使用不同字体";
+
+/* Class = "NSTextFieldCell"; title = "every"; ObjectID = "e95-Tz-JKN"; */
+"e95-Tz-JKN.title" = "每";
+
+/* Class = "NSButtonCell"; title = "Restore windows to same Spaces"; ObjectID = "eEd-Kh-JGE"; */
+"eEd-Kh-JGE.title" = "将窗口恢复到相同空间";
+
+/* Class = "NSButtonCell"; title = "…but only in interactive apps"; ObjectID = "eWf-vs-e5c"; */
+"eWf-vs-e5c.title" = "…但仅在交互式应用中";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "eat-RV-XIJ"; */
+"eat-RV-XIJ.title" = "自定";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ebd-ds-Sq9"; */
+"ebd-ds-Sq9.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Left option (⌥) key:"; ObjectID = "ehR-mJ-2EC"; */
+"ehR-mJ-2EC.title" = "左 Option (⌥) 键：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use this button to manually locate the browser plugin. If it can’t be found automatically, or if something is wrong with the plugin that prevents automatic identification from working, use this to fix the problem or learn why it is failing."; ObjectID = "ehw-7A-A75"; */
+"ehw-7A-A75.ibShadowedToolTip" = "使用此按钮手动定位浏览器插件。如果无法自动找到，或插件出现问题导致无法自动识别，请用它来解决问题或了解失败原因。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Underline and vertical bar cursors may have a shadow to improve visibliity."; ObjectID = "eid-kp-DfH"; */
+"eid-kp-DfH.ibShadowedToolTip" = "下划线和竖线光标可带阴影以提高可见性。";
+
+/* Class = "NSButtonCell"; title = "Avoid repainting while cursor is hidden to reduce flicker while scrolling"; ObjectID = "elQ-vX-kkH"; */
+"elQ-vX-kkH.title" = "光标隐藏时避免重绘，以减少滚动时的闪烁";
+
+/* Class = "NSTabViewItem"; label = "Dimming"; ObjectID = "erX-Qj-Ist"; */
+"erX-Qj-Ist.label" = "变暗";
+
+/* Class = "NSTabViewItem"; label = "Web"; ObjectID = "euE-Xk-BXP"; */
+"euE-Xk-BXP.label" = "Web";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This dims all colors except that of the cursor. A pure white cursor with Smart Cursor Color off is recommended when using cursor boost."; ObjectID = "evF-qt-9wo"; */
+"evF-qt-9wo.ibShadowedToolTip" = "这会变暗除光标外的所有颜色。使用光标增强时，推荐使用纯白光标并关闭智能光标颜色。";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "exa-qU-whv"; */
+"exa-qU-whv.title" = "项目 3";
+
+/* Class = "NSButtonCell"; title = "Remember the position of previously closed windows and use size from profile"; ObjectID = "eyh-Oh-a4E"; */
+"eyh-Oh-a4E.title" = "记住先前关闭窗口的位置，并使用配置文件中的大小";
+
+/* Class = "NSTextFieldCell"; title = "Focus:"; ObjectID = "f01-4b-exO"; */
+"f01-4b-exO.title" = "焦点：";
+
+/* Class = "NSMenuItem"; title = "DeepSeek"; ObjectID = "f0W-tr-DW1"; */
+"f0W-tr-DW1.title" = "DeepSeek";
+
+/* Class = "NSMenuItem"; title = "^ Number"; ObjectID = "f4C-Hg-4Vb"; */
+"f4C-Hg-4Vb.title" = "^ 数字";
+
+/* Class = "NSButtonCell"; title = "Respect shortcuts from System Settings > Keyboard > Keyboard Shortcuts > Keyboard"; ObjectID = "fD2-Qk-yku"; */
+"fD2-Qk-yku.title" = "遵循“系统设置 > 键盘 > 键盘快捷键 > 键盘”中的快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Requires tmux 2.9 or later."; ObjectID = "fKK-ZX-n3u"; */
+"fKK-ZX-n3u.title" = "需要 tmux 2.9 或更高版本。";
+
+/* Class = "NSMenuItem"; title = "Esc+"; ObjectID = "fQ9-zC-Tvv"; */
+"fQ9-zC-Tvv.title" = "Esc+";
+
+/* Class = "NSButton"; ibShadowedToolTip = "You probably don't want this; most systems use ^? (ASCII 127) for backspace. Changing this setting affects the key mappings in the table above."; ObjectID = "fRb-hJ-joB"; */
+"fRb-hJ-joB.ibShadowedToolTip" = "你可能不想要这个；大多数系统使用 ^? (ASCII 127) 作为退格。更改此设置会影响上方表格中的按键映射。";
+
+/* Class = "NSButtonCell"; title = "Automatically enter copy mode on Shift+Arrow key with selection"; ObjectID = "fXR-fI-xdt"; */
+"fXR-fI-xdt.title" = "有所选内容时按 Shift+方向键自动进入拷贝模式";
+
+/* Class = "NSTextFieldCell"; title = "Disabled by “⌘-Click Opens Filename/URL” setting in Pointer settings"; ObjectID = "fXe-U0-Ddw"; */
+"fXe-U0-Ddw.title" = "已被指针设置中的“⌘-点按打开文件名/URL”设置停用";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tab Title (Interpolated String)"; ObjectID = "fYP-lq-POn"; */
+"fYP-lq-POn.placeholderString" = "标签页标题（插值字符串）";
+
+/* Class = "NSTextFieldCell"; title = "(recommended for this font)"; ObjectID = "fZK-Jv-MhF"; */
+"fZK-Jv-MhF.title" = "（推荐用于此字体）";
+
+/* Class = "NSButtonCell"; title = "Actions…"; ObjectID = "faj-zb-sOk"; */
+"faj-zb-sOk.title" = "操作…";
+
+/* Class = "NSMenuItem"; title = "Dark (High Contrast)"; ObjectID = "fm1-QT-Lct"; */
+"fm1-QT-Lct.title" = "深色（高对比度）";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Allow control sequences to enable or disable cursor blink?"; ObjectID = "fwC-LQ-VKF"; */
+"fwC-LQ-VKF.ibShadowedToolTip" = "允许控制序列启用或停用光标闪烁？";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey window:"; ObjectID = "fwE-Hx-zKG"; */
+"fwE-Hx-zKG.title" = "热键窗口：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable this to make non-default background colors always opaque. This is useful when using Powerline in a translucent window."; ObjectID = "fwj-4Y-nja"; */
+"fwj-4Y-nja.ibShadowedToolTip" = "启用此项可让非默认背景颜色始终不透明。在半透明窗口中使用 Powerline 时很有用。";
+
+/* Class = "NSMenuItem"; title = "If there are jobs besides:"; ObjectID = "fxv-W6-20A"; */
+"fxv-W6-20A.title" = "如果存在以下之外的作业：";
+
+/* Class = "NSButtonCell"; title = "Show line under title bar when the tab bar is not visible"; ObjectID = "fyA-Fd-O2Q"; */
+"fyA-Fd-O2Q.title" = "标签栏不可见时在标题栏下方显示分隔线";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "fzr-Q4-IF8"; */
+"fzr-Q4-IF8.title" = "每次询问";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "gJM-qv-k6Z"; */
+"gJM-qv-k6Z.title" = "⌃ 右 Control";
+
+/* Class = "NSMenuItem"; title = "Hyper"; ObjectID = "gKi-h2-ijV"; */
+"gKi-h2-ijV.title" = "Hyper";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "gKz-gb-gTr"; */
+"gKz-gb-gTr.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Automatic Profile Switching:"; ObjectID = "gUo-d2-CFJ"; */
+"gUo-d2-CFJ.title" = "自动配置文件切换：";
+
+/* Class = "NSTextFieldCell"; title = "No data is sent to third parties without your explicit permission."; ObjectID = "gXM-xm-pfL"; */
+"gXM-xm-pfL.title" = "未经你明确许可，不会向第三方发送任何数据。";
+
+/* Class = "NSMenuItem"; title = "Esc+"; ObjectID = "gfz-EO-6ti"; */
+"gfz-EO-6ti.title" = "Esc+";
+
+/* Class = "NSTextFieldCell"; title = "Window restoration policy:"; ObjectID = "ggI-iG-lBw"; */
+"ggI-iG-lBw.title" = "窗口恢复策略：";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "gob-59-oeV"; */
+"gob-59-oeV.title" = "⌃ 右 Control";
+
+/* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "gtg-rw-6h8"; */
+"gtg-rw-6h8.label" = "高级";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "gtg-rw-6h8"; */
+"gtg-rw-6h8.paletteLabel" = "高级";
+
+/* Class = "NSMenuItem"; title = "Bottom of Screen"; ObjectID = "gu9-sV-Xji"; */
+"gu9-sV-Xji.title" = "屏幕底部";
+
+/* Class = "NSButtonCell"; title = "⚠️"; ObjectID = "guj-u2-dA0"; */
+"guj-u2-dA0.title" = "⚠️";
+
+/* Class = "NSButtonCell"; title = "Disable all confirmations on system shutdown, restart, and log out"; ObjectID = "h9O-XG-Evs"; */
+"h9O-XG-Evs.title" = "在系统关机、重启和注销时停用所有确认";
+
+/* Class = "NSMenuItem"; title = "⌃ Right Control"; ObjectID = "hE3-Xl-6lX"; */
+"hE3-Xl-6lX.title" = "⌃ 右 Control";
+
+/* Class = "NSButtonCell"; title = "Enabled in interactive apps"; ObjectID = "hKR-7a-ChZ"; */
+"hKR-7a-ChZ.title" = "在交互式应用中启用";
+
+/* Class = "NSTextFieldCell"; title = "Write to Clipboard"; ObjectID = "hPs-QF-O4D"; */
+"hPs-QF-O4D.title" = "写入剪贴板";
+
+/* Class = "NSTextFieldCell"; title = "Consent:"; ObjectID = "hTD-Zl-uNo"; */
+"hTD-Zl-uNo.title" = "同意：";
+
+/* Class = "NSButtonCell"; title = "Mouse reporting supports horizontal scrolling"; ObjectID = "hWJ-Ek-z7b"; */
+"hWJ-Ek-z7b.title" = "鼠标报告支持水平滚动";
+
+/* Class = "NSMenuItem"; title = "Profile & Session Name"; ObjectID = "hlq-lI-UJc"; */
+"hlq-lI-UJc.title" = "配置文件与会话名称";
+
+/* Class = "NSButtonCell"; title = "Let macOS decide the position of new windows and use size from profile"; ObjectID = "hpW-Cl-kBV"; */
+"hpW-Cl-kBV.title" = "让 macOS 决定新窗口的位置，并使用配置文件中的大小";
+
+/* Class = "NSButtonCell"; title = "Open toolbelt"; ObjectID = "hr1-3l-FQW"; */
+"hr1-3l-FQW.title" = "打开工具带";
+
+/* Class = "NSTextFieldCell"; title = "Your AI provider may charge for each token used."; ObjectID = "hvf-jg-Y9k"; */
+"hvf-jg-Y9k.title" = "你的 AI 提供商可能会按使用的每个 token 收费。";
+
+/* Class = "NSTextFieldCell"; title = "Image"; ObjectID = "hxE-2N-hxp"; */
+"hxE-2N-hxp.title" = "图像";
+
+/* Class = "NSTabViewItem"; label = "Software Update"; ObjectID = "hxz-xY-wbF"; */
+"hxz-xY-wbF.label" = "软件更新";
+
+/* Class = "NSTextFieldCell"; title = "Color Scheme:"; ObjectID = "hzS-a0-x6g"; */
+"hzS-a0-x6g.title" = "配色方案：";
+
+/* Class = "NSMenuItem"; title = "Profile Name"; ObjectID = "i36-jp-Kj1"; */
+"i36-jp-Kj1.title" = "配置文件名称";
+
+/* Class = "NSTextFieldCell"; title = "Timestamps:"; ObjectID = "i6e-If-drd"; */
+"i6e-If-drd.title" = "时间戳：";
+
+/* Class = "NSButtonCell"; title = "Right click reported to apps, does not open menu"; ObjectID = "iBA-fC-cDp"; */
+"iBA-fC-cDp.title" = "右键点按报告给应用，不打开菜单";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "iIL-r5-b59"; */
+"iIL-r5-b59.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Type for You"; ObjectID = "iQz-CE-sUw"; */
+"iQz-CE-sUw.title" = "为你键入";
+
+/* Class = "NSTextFieldCell"; title = "Badge:"; ObjectID = "iUy-lI-rM5"; */
+"iUy-lI-rM5.title" = "标记：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Available for zsh, fish, and bash. This is an alternative to installing shell integration via other methods (such as the iTerm2 > Install Shell Integration menu item)."; ObjectID = "iWk-HJ-EKg"; */
+"iWk-HJ-EKg.ibShadowedToolTip" = "适用于 zsh、fish 和 bash。这是通过其他方法（如 iTerm2 > 安装 Shell 集成菜单项）安装 Shell 集成的替代方案。";
+
+/* Class = "NSTextFieldCell"; title = "Prompt before closing?"; ObjectID = "iZE-xA-Mxl"; */
+"iZE-xA-Mxl.title" = "关闭前提示？";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When locked, the terminal cannot change the title with a control sequence. This prevents changes you make in Session Name from being overridden."; ObjectID = "imM-Ma-mjV"; */
+"imM-Ma-mjV.ibShadowedToolTip" = "锁定后，终端无法用控制序列更改标题。这可防止你在会话名称中所做的更改被覆盖。";
+
+/* Class = "NSTextFieldCell"; title = "Reason this is diabled goes here"; ObjectID = "imk-Sy-j9X"; */
+"imk-Sy-j9X.title" = "此项被停用的原因写在这里";
+
+/* Class = "NSButtonCell"; title = "Status bar shows tmux status bar content, not native components"; ObjectID = "ioA-Y9-Zb4"; */
+"ioA-Y9-Zb4.title" = "状态栏显示 tmux 状态栏内容，而非原生组件";
+
+/* Class = "NSMenuItem"; title = "Force Touch"; ObjectID = "izN-Gg-6lB"; */
+"izN-Gg-6lB.title" = "用力按";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "j3Z-6L-rIU"; */
+"j3Z-6L-rIU.title" = "fn 功能键";
+
+/* Class = "NSTextFieldCell"; title = "View Manpages"; ObjectID = "jBZ-iu-RRM"; */
+"jBZ-iu-RRM.title" = "查看手册页";
+
+/* Class = "NSMenuItem"; title = "Meta"; ObjectID = "jJk-bh-fZb"; */
+"jJk-bh-fZb.title" = "Meta";
+
+/* Class = "NSButtonCell"; title = "Hosted Web Search"; ObjectID = "jMH-4z-ANd"; */
+"jMH-4z-ANd.title" = "托管的 Web 搜索";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "jN9-Kg-e2W"; */
+"jN9-Kg-e2W.title" = "好";
+
+/* Class = "NSTextFieldCell"; title = "Model:"; ObjectID = "jNc-ho-tDq"; */
+"jNc-ho-tDq.title" = "模型：";
+
+/* Class = "NSButtonCell"; title = "Manage Special Exceptions…"; ObjectID = "jSW-U8-dGZ"; */
+"jSW-U8-dGZ.title" = "管理特殊例外…";
+
+/* Class = "NSButtonCell"; title = "Use transparency"; ObjectID = "jbe-Pv-UBX"; */
+"jbe-Pv-UBX.title" = "使用透明度";
+
+/* Class = "NSButtonCell"; title = "Load shell integration automatically"; ObjectID = "jcT-vU-VZU"; */
+"jcT-vU-VZU.title" = "自动加载 Shell 集成";
+
+/* Class = "NSButtonCell"; title = "Streaming Responses"; ObjectID = "jcb-qx-RXO"; */
+"jcb-qx-RXO.title" = "流式响应";
+
+/* Class = "NSMenuItem"; title = "Hyper"; ObjectID = "jfj-Xm-lfK"; */
+"jfj-Xm-lfK.title" = "Hyper";
+
+/* Class = "NSMenuItem"; title = "Chat Completions"; ObjectID = "jg5-db-05n"; */
+"jg5-db-05n.title" = "聊天补全";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Apps (such as your shell or your editor) expect each character to have a particular “width,” between 0 and 2 cells. If the app and the terminal emulator have different width tables, rendering problems ensue. Notably, Unicode 8 defines most Emoji to be 1 cell wide. Most fonts render them as two cells wide. Unicode 9 fixes this. If your apps have been updated for Unicode 9, you should enable this."; ObjectID = "jlZ-SF-XtE"; */
+"jlZ-SF-XtE.ibShadowedToolTip" = "应用（如你的 shell 或编辑器）期望每个字符具有特定的“宽度”，介于 0 到 2 个单元格之间。如果应用和终端模拟器的宽度表不同，就会出现渲染问题。值得注意的是，Unicode 8 将大多数 Emoji 定义为 1 个单元格宽，而大多数字体将其渲染为 2 个单元格宽。Unicode 9 修正了这一点。如果你的应用已为 Unicode 9 更新，你应启用此项。";
+
+/* Class = "NSTextFieldCell"; title = "Tab bar location:"; ObjectID = "jnA-10-c4D"; */
+"jnA-10-c4D.title" = "标签栏位置：";
+
+/* Class = "NSTextFieldCell"; title = "Jump to this session by pressing a global hotkey:"; ObjectID = "joc-ie-rOS"; */
+"joc-ie-rOS.title" = "通过按全局热键跳转到此会话：";
+
+/* Class = "NSTextFieldCell"; title = "Foreground"; ObjectID = "jqY-on-ozT"; */
+"jqY-on-ozT.title" = "前景";
+
+/* Class = "NSTextFieldCell"; title = "Status bar location:"; ObjectID = "jtG-zd-rvL"; */
+"jtG-zd-rvL.title" = "状态栏位置：";
+
+/* Class = "NSMenuItem"; title = "Dark"; ObjectID = "jvn-mf-Qsy"; */
+"jvn-mf-Qsy.title" = "深色";
+
+/* Class = "NSButtonCell"; title = "Ignore non-critical shell integration updates"; ObjectID = "jvo-OV-rbu"; */
+"jvo-OV-rbu.title" = "忽略非关键的 Shell 集成更新";
+
+/* Class = "NSButtonCell"; title = "Use custom tab color"; ObjectID = "k6J-9z-fqf"; */
+"k6J-9z-fqf.title" = "使用自定标签页颜色";
+
+/* Class = "NSTextFieldCell"; title = "AI Completion:"; ObjectID = "k7A-lj-Upu"; */
+"k7A-lj-Upu.title" = "AI 补全：";
+
+/* Class = "NSMenuItem"; title = "Meta"; ObjectID = "kAZ-OL-AQ5"; */
+"kAZ-OL-AQ5.title" = "Meta";
+
+/* Class = "NSMenuItem"; title = "⌥ Number"; ObjectID = "kEx-j4-xkm"; */
+"kEx-j4-xkm.title" = "⌥ 数字";
+
+/* Class = "NSTextFieldCell"; title = "Click on text in playground to test rules"; ObjectID = "kIH-dP-J5x"; */
+"kIH-dP-J5x.title" = "点按测试区中的文本以测试规则";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "kSp-wU-Ebo"; */
+"kSp-wU-Ebo.title" = "fn 功能键";
+
+/* Class = "NSTextFieldCell"; title = "Emulation features:"; ObjectID = "kSx-zn-JDX"; */
+"kSx-zn-JDX.title" = "模拟功能：";
+
+/* Class = "NSMenuItem"; title = "Use custom locale…"; ObjectID = "kUA-h2-qDj"; */
+"kUA-h2-qDj.title" = "使用自定区域设置…";
+
+/* Class = "NSButtonCell"; title = "Restrict mouse reporting to alternate screen mode"; ObjectID = "kWZ-q8-lOb"; */
+"kWZ-q8-lOb.title" = "将鼠标报告限制在备用屏幕模式";
+
+/* Class = "NSTextFieldCell"; title = "Title bar:"; ObjectID = "kZS-nY-CH8"; */
+"kZS-nY-CH8.title" = "标题栏：";
+
+/* Class = "NSMenuItem"; title = "Ask Each Time"; ObjectID = "kcW-k6-mbq"; */
+"kcW-k6-mbq.title" = "每次询问";
+
+/* Class = "NSMenuItem"; title = "When Quitting"; ObjectID = "khz-Qu-w2v"; */
+"khz-Qu-w2v.title" = "退出时";
+
+/* Class = "NSMenuItem"; title = "Bottom"; ObjectID = "kqT-50-xBs"; */
+"kqT-50-xBs.title" = "底部";
+
+/* Class = "NSButtonCell"; title = "Hosted File Search"; ObjectID = "ktC-gx-aSW"; */
+"ktC-gx-aSW.title" = "托管的文件搜索";
+
+/* Class = "NSButtonCell"; title = "Function Calling"; ObjectID = "kz2-kq-iLy"; */
+"kz2-kq-iLy.title" = "函数调用";
+
+/* Class = "NSMenuItem"; title = "Super"; ObjectID = "kzp-uI-s1F"; */
+"kzp-uI-s1F.title" = "Super";
+
+/* Class = "NSButtonCell"; title = "Click on a path in a shell prompt to open Navigator"; ObjectID = "l1H-Xh-EAu"; */
+"l1H-Xh-EAu.title" = "点按 shell 提示符中的路径以打开导航器";
+
+/* Class = "NSMenuItem"; title = "Session Name"; ObjectID = "lG4-94-9cF"; */
+"lG4-94-9cF.title" = "会话名称";
+
+/* Class = "NSButtonCell"; title = "Use /dev/null mode (no history, cookies, or other data saved)"; ObjectID = "lJx-wQ-cSk"; */
+"lJx-wQ-cSk.title" = "使用 /dev/null 模式（不保存历史、Cookie 或其他数据）";
+
+/* Class = "NSTextFieldCell"; title = "Normalization:"; ObjectID = "lS7-WI-sn5"; */
+"lS7-WI-sn5.title" = "规范化：";
+
+/* Class = "NSButtonCell"; title = "Import All Settings and Data…"; ObjectID = "lVc-Bf-xne"; */
+"lVc-Bf-xne.title" = "导入所有设置和数据…";
+
+/* Class = "NSTextFieldCell"; placeholderString = "AI Server URL"; ObjectID = "la8-b2-QoV"; */
+"la8-b2-QoV.placeholderString" = "AI 服务器 URL";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ This may reduce performance"; ObjectID = "lb0-FE-0Pi"; */
+"lb0-FE-0Pi.title" = "⚠️ 这可能降低性能";
+
+/* Class = "NSMenuItem"; title = "SSH"; ObjectID = "lh1-TY-qbn"; */
+"lh1-TY-qbn.title" = "SSH";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "m0f-x6-kjR"; */
+"m0f-x6-kjR.title" = "项目 1";
+
+/* Class = "NSTextFieldCell"; title = "Remap fn key to:"; ObjectID = "mBL-Vc-973"; */
+"mBL-Vc-973.title" = "将 fn 键重映射为：";
+
+/* Class = "NSTextFieldCell"; title = "Selection:"; ObjectID = "mBl-f5-7kB"; */
+"mBl-f5-7kB.title" = "所选内容：";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "mLJ-2p-cRL"; */
+"mLJ-2p-cRL.title" = "从不允许";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "This boosts the contrast of text when its color is close to that of the background color by moving the text color towards black or white."; ObjectID = "mOt-Fp-WpW"; */
+"mOt-Fp-WpW.ibShadowedToolTip" = "当文本颜色与背景颜色接近时，通过将文本颜色推向黑色或白色来增强对比度。";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "maq-kg-hPh"; */
+"maq-kg-hPh.title" = "浏览";
+
+/* Class = "NSTabViewItem"; label = "Tabs"; ObjectID = "med-Jd-f8A"; */
+"med-Jd-f8A.label" = "标签页";
+
+/* Class = "NSTextFieldCell"; title = "Side margins:"; ObjectID = "mgo-bS-seC"; */
+"mgo-bS-seC.title" = "两侧边距：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Use ligatures for ASCII text"; ObjectID = "mlk-a6-xcL"; */
+"mlk-a6-xcL.ibExternalAccessibilityDescription" = "对 ASCII 文本使用连字";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If you turn this on, optional ligatures in this font will be enabled. It forces iTerm2 to use a slower text rendering algorithm."; ObjectID = "mlk-a6-xcL"; */
+"mlk-a6-xcL.ibShadowedToolTip" = "如果启用此项，将启用此字体中的可选连字。这会迫使 iTerm2 使用较慢的文本渲染算法。";
+
+/* Class = "NSTextFieldCell"; title = "Top & bottom margins:"; ObjectID = "moN-8d-dZd"; */
+"moN-8d-dZd.title" = "上下边距：";
+
+/* Class = "NSMenuItem"; title = "Open Default Window Arrangement"; ObjectID = "nMp-ky-1KX"; */
+"nMp-ky-1KX.title" = "打开默认窗口排列";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Alternate Mouse Scroll is a feature that sends arrow keys in response to scroll wheel/scroll gestures. Enable this if you always want it on in alternate screen mode."; ObjectID = "nN3-pV-Hlq"; */
+"nN3-pV-Hlq.ibShadowedToolTip" = "备用鼠标滚动是一项响应滚轮/滚动手势发送方向键的功能。如果你希望在备用屏幕模式下始终启用它，请启用此项。";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard History:"; ObjectID = "nXL-fH-ZgA"; */
+"nXL-fH-ZgA.title" = "剪贴板历史：";
+
+/* Class = "NSButtonCell"; title = "Report mouse clicks & drags"; ObjectID = "nd6-iP-ZjG"; */
+"nd6-iP-ZjG.title" = "报告鼠标点按和拖移";
+
+/* Class = "NSTextFieldCell"; title = "Run Commands"; ObjectID = "neH-ds-871"; */
+"neH-ds-871.title" = "运行命令";
+
+/* Class = "NSTextFieldCell"; title = "New window placement:"; ObjectID = "ntr-oS-YE8"; */
+"ntr-oS-YE8.title" = "新窗口布局：";
+
+/* Class = "NSTextFieldCell"; title = "English (US) UTF-8"; ObjectID = "o2f-OF-qHo"; */
+"o2f-OF-qHo.title" = "English (US) UTF-8";
+
+/* Class = "NSMenuItem"; title = "Llama (Local)"; ObjectID = "o4c-ta-j5S"; */
+"o4c-ta-j5S.title" = "Llama（本地）";
+
+/* Class = "NSTextFieldCell"; title = "seconds to catch up"; ObjectID = "o8o-oc-4bB"; */
+"o8o-oc-4bB.title" = "秒以赶上";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "oDc-dV-6wC"; */
+"oDc-dV-6wC.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "⌘ Number"; ObjectID = "oGG-n4-dNs"; */
+"oGG-n4-dNs.title" = "⌘ 数字";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "oLe-Mh-QIW"; */
+"oLe-Mh-QIW.title" = "项目 2";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interpolated string. If empty, use session title."; ObjectID = "oZc-l2-yBR"; */
+"oZc-l2-yBR.placeholderString" = "插值字符串。如果为空，使用会话标题。";
+
+/* Class = "NSMenuItem"; title = "Columns × Rows"; ObjectID = "ogQ-h8-deW"; */
+"ogQ-h8-deW.title" = "列 × 行";
+
+/* Class = "NSButtonCell"; title = "Warn about short-lived sessions"; ObjectID = "ols-UC-d82"; */
+"ols-UC-d82.title" = "警告短暂会话";
+
+/* Class = "NSMenuItem"; title = "Top of Screen"; ObjectID = "onX-9F-jq7"; */
+"onX-9F-jq7.title" = "屏幕顶部";
+
+/* Class = "NSMenuItem"; title = "Never Allow"; ObjectID = "ouG-qF-5tB"; */
+"ouG-qF-5tB.title" = "从不允许";
+
+/* Class = "NSMenuItem"; title = "Meta"; ObjectID = "oyU-HC-L0R"; */
+"oyU-HC-L0R.title" = "Meta";
+
+/* Class = "NSMenuItem"; title = "⌘ Right Command"; ObjectID = "pDl-DD-S1H"; */
+"pDl-DD-S1H.title" = "⌘ 右 Command";
+
+/* Class = "NSButtonCell"; title = "Separate status bars per pane"; ObjectID = "pMF-0o-f7A"; */
+"pMF-0o-f7A.title" = "每个窗格使用单独的状态栏";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "pPf-Li-ioo"; */
+"pPf-Li-ioo.title" = "普通";
+
+/* Class = "NSMenuItem"; title = "asciinema"; ObjectID = "pg7-Cq-vKP"; */
+"pg7-Cq-vKP.title" = "asciinema";
+
+/* Class = "NSTextFieldCell"; title = "Status Bar:"; ObjectID = "phV-NB-35W"; */
+"phV-NB-35W.title" = "状态栏：";
+
+/* Class = "NSTextFieldCell"; title = "Token Limit:"; ObjectID = "pss-P2-pda"; */
+"pss-P2-pda.title" = "Token 上限：";
+
+/* Class = "NSMenuItem"; title = "Minimal"; ObjectID = "pzb-ff-PHK"; */
+"pzb-ff-PHK.title" = "简约";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Can the session title be changed by control sequence? Note that this is only enabled if Session or Profile & Session are selected in the title menu above."; ObjectID = "q57-nJ-Jbz"; */
+"q57-nJ-Jbz.ibShadowedToolTip" = "会话标题能否由控制序列更改？请注意，仅当上方标题菜单中选择了“会话”或“配置文件与会话”时才启用此项。";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "qE5-4Z-I6F"; */
+"qE5-4Z-I6F.title" = "URL：";
+
+/* Class = "NSMenuItem"; title = "Maximized"; ObjectID = "qHO-yY-EJE"; */
+"qHO-yY-EJE.title" = "最大化";
+
+/* Class = "NSButtonCell"; title = "↻"; ObjectID = "qJO-qz-VoT"; */
+"qJO-qz-VoT.title" = "↻";
+
+/* Class = "NSTextFieldCell"; title = "Right command (⌘) key:"; ObjectID = "qLh-uF-nSW"; */
+"qLh-uF-nSW.title" = "右 Command (⌘) 键：";
+
+/* Class = "NSTextFieldCell"; title = "Pasting:"; ObjectID = "qjH-lF-RBX"; */
+"qjH-lF-RBX.title" = "粘贴：";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "qwL-LP-uKq"; */
+"qwL-LP-uKq.title" = "从不";
+
+/* Class = "NSButtonCell"; title = "Install…"; ObjectID = "r1I-I1-Z6i"; */
+"r1I-I1-Z6i.title" = "安装…";
+
+/* Class = "NSButtonCell"; title = "Drag-to-scroll disabled in alternate screen mode"; ObjectID = "r21-na-g8s"; */
+"r21-na-g8s.title" = "在备用屏幕模式下停用拖移滚动";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "r2j-sf-PTh"; */
+"r2j-sf-PTh.title" = "⌃ 左 Control";
+
+/* Class = "NSMenuItem"; title = "Centered"; ObjectID = "r5u-Qn-ncn"; */
+"r5u-Qn-ncn.title" = "居中";
+
+/* Class = "NSTextFieldCell"; title = "Titles:"; ObjectID = "rU4-oy-yre"; */
+"rU4-oy-yre.title" = "标题：";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Window Title (Interpolated String)"; ObjectID = "rgM-zZ-fDd"; */
+"rgM-zZ-fDd.placeholderString" = "窗口标题（插值字符串）";
+
+/* Class = "NSMenuItem"; title = "Tabs in the attaching window"; ObjectID = "rh8-sm-6ap"; */
+"rh8-sm-6ap.title" = "连接窗口中的标签页";
+
+/* Class = "NSButtonCell"; title = "Even if there are no windows"; ObjectID = "riN-eN-PZd"; */
+"riN-eN-PZd.title" = "即使没有窗口";
+
+/* Class = "NSButtonCell"; title = "Send \\n rather than \\r to terminate commands"; ObjectID = "rqn-Ng-qvq"; */
+"rqn-Ng-qvq.title" = "发送 \n 而非 \r 来终止命令";
+
+/* Class = "NSButtonCell"; title = "Terminal may enable paste bracketing"; ObjectID = "s2Z-za-TW8"; */
+"s2Z-za-TW8.title" = "终端可启用粘贴括号化";
+
+/* Class = "NSTextFieldCell"; title = "After a session ends:"; ObjectID = "s5V-Jn-CdV"; */
+"s5V-Jn-CdV.title" = "会话结束后：";
+
+/* Class = "NSTabViewItem"; label = "Navigation Shortcuts"; ObjectID = "s7u-CX-vLY"; */
+"s7u-CX-vLY.label" = "导航快捷键";
+
+/* Class = "NSTextFieldCell"; title = "Scaling mode:"; ObjectID = "s9c-jd-9Oz"; */
+"s9c-jd-9Oz.title" = "缩放模式：";
+
+/* Class = "NSButtonCell"; title = "Keep background colors opaque"; ObjectID = "sBm-XA-tIi"; */
+"sBm-XA-tIi.title" = "保持背景颜色不透明";
+
+/* Class = "NSTabViewItem"; label = "System"; ObjectID = "sCx-if-Q7U"; */
+"sCx-if-Q7U.label" = "系统";
+
+/* Class = "NSButtonCell"; title = "Enable Tall Tab Bar"; ObjectID = "sHg-rp-Tp0"; */
+"sHg-rp-Tp0.title" = "启用高标签栏";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The badge is text that appears in the top right of a session."; ObjectID = "sa9-oD-SMc"; */
+"sa9-oD-SMc.ibShadowedToolTip" = "标记是显示在会话右上角的文本。";
+
+/* Class = "NSMenuItem"; title = "Super"; ObjectID = "scF-hN-8Nt"; */
+"scF-hN-8Nt.title" = "Super";
+
+/* Class = "NSTextFieldCell"; title = "Non-ASCII Font:"; ObjectID = "scV-SI-GHS"; */
+"scV-SI-GHS.title" = "非 ASCII 字体：";
+
+/* Class = "NSTextFieldCell"; title = "View History"; ObjectID = "sd1-n2-A2O"; */
+"sd1-n2-A2O.title" = "查看历史";
+
+/* Class = "NSMenuItem"; title = "Chat Completions (Early O1)"; ObjectID = "sir-EW-B2Q"; */
+"sir-EW-B2Q.title" = "聊天补全（早期 O1）";
+
+/* Class = "NSTextFieldCell"; title = "Transparent"; ObjectID = "smP-gu-029"; */
+"smP-gu-029.title" = "透明";
+
+/* Class = "NSTabViewItem"; label = "Features"; ObjectID = "ssX-TY-DPs"; */
+"ssX-TY-DPs.label" = "功能";
+
+/* Class = "NSButtonCell"; title = "Open Regular Expression Visualizer"; ObjectID = "suE-7b-47n"; */
+"suE-7b-47n.title" = "打开正则表达式可视化工具";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "szs-Zj-Wom"; */
+"szs-Zj-Wom.title" = "fn 功能键";
+
+/* Class = "NSTextFieldCell"; title = "points high"; ObjectID = "t7k-rQ-bX5"; */
+"t7k-rQ-bX5.title" = "点高";
+
+/* Class = "NSButtonCell"; title = "Configure…"; ObjectID = "tEq-8C-H4O"; */
+"tEq-8C-H4O.title" = "配置…";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "tFH-ae-Zo0"; */
+"tFH-ae-Zo0.title" = "标题：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The OSC 0 and OSC 2 control sequences set the window title. This setting controls whether such a control sequence changes the window title associated with all sessions in the window, or only with the one in which it was received. The window title is derived from the window title associated with the currently active session in that window."; ObjectID = "tVY-OD-hsd"; */
+"tVY-OD-hsd.ibShadowedToolTip" = "OSC 0 和 OSC 2 控制序列用于设置窗口标题。此设置控制此类控制序列是更改窗口中所有会话关联的窗口标题，还是仅更改接收到它的那个会话的标题。窗口标题取自该窗口中当前活动会话关联的窗口标题。";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "td0-LJ-Zf9"; */
+"td0-LJ-Zf9.title" = "无";
+
+/* Class = "NSButtonCell"; title = "Advanced GPU Settings…"; ObjectID = "tof-yo-OcS"; */
+"tof-yo-OcS.title" = "高级 GPU 设置…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Apps can change left option key"; ObjectID = "ttF-JA-0vc"; */
+"ttF-JA-0vc.ibExternalAccessibilityDescription" = "应用可更改左 Option 键";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, apps can cause this option key to send Esc+ using DECSET 1036. Note that on some external keyboards left and right option keys are swapped."; ObjectID = "ttF-JA-0vc"; */
+"ttF-JA-0vc.ibShadowedToolTip" = "启用后，应用可使用 DECSET 1036 让此 Option 键发送 Esc+。注意，某些外接键盘上左右 Option 键是互换的。";
+
+/* Class = "NSTextFieldCell"; title = "Access:"; ObjectID = "twu-ZL-q1e"; */
+"twu-ZL-q1e.title" = "访问：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "If this is on then transparency can be toggled window-by-window under View>Use Transparency"; ObjectID = "tyx-QN-l9J"; */
+"tyx-QN-l9J.ibShadowedToolTip" = "如果启用此项，则可在“显示 > 使用透明度”下按窗口切换透明度";
+
+/* Class = "NSMenuItem"; title = "Import JSON Profiles…"; ObjectID = "tzJ-Nr-kZY"; */
+"tzJ-Nr-kZY.title" = "导入 JSON 配置文件…";
+
+/* Class = "NSWindow"; title = "Filter Alerts"; ObjectID = "u39-OD-7hu"; */
+"u39-OD-7hu.title" = "过滤提醒";
+
+/* Class = "NSMenuItem"; title = "Very Low"; ObjectID = "u5D-lb-bb8"; */
+"u5D-lb-bb8.title" = "非常低";
+
+/* Class = "NSTextFieldCell"; title = "Features:"; ObjectID = "u6g-s7-Aas"; */
+"u6g-s7-Aas.title" = "功能：";
+
+/* Class = "NSButtonCell"; title = "Tags >"; ObjectID = "u6m-pp-fub"; */
+"u6m-pp-fub.title" = "标签 >";
+
+/* Class = "NSButtonCell"; title = "Show mark indicators"; ObjectID = "uCi-Qa-X8t"; */
+"uCi-Qa-X8t.title" = "显示标记指示器";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "uVw-1o-Ei4"; */
+"uVw-1o-Ei4.title" = "高度：";
+
+/* Class = "NSTextFieldCell"; title = "Theme:"; ObjectID = "uhj-9S-l8R"; */
+"uhj-9S-l8R.title" = "主题：";
+
+/* Class = "NSTextFieldCell"; title = "Shell Integration:"; ObjectID = "ujU-dw-TmB"; */
+"ujU-dw-TmB.title" = "Shell 集成：";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "A session may cause the window to resize even if it is in an unselected tab/pane"; ObjectID = "upX-YT-gci"; */
+"upX-YT-gci.ibExternalAccessibilityDescription" = "即使会话位于未选中的标签页/窗格中，也可调整窗口大小";
+
+/* Class = "NSButtonCell"; title = "Use Unicode version 9+ widths"; ObjectID = "usB-uD-pmw"; */
+"usB-uD-pmw.title" = "使用 Unicode 9+ 版本的宽度";
+
+/* Class = "NSMenuItem"; title = "Command"; ObjectID = "uua-tF-2uE"; */
+"uua-tF-2uE.title" = "命令";
+
+/* Class = "NSTextFieldCell"; title = "Session Title:"; ObjectID = "v5v-p4-3ab"; */
+"v5v-p4-3ab.title" = "会话标题：";
+
+/* Class = "NSMenuItem"; title = "⌃ Left Control"; ObjectID = "v6H-Ww-jJc"; */
+"v6H-Ww-jJc.title" = "⌃ 左 Control";
+
+/* Class = "NSTextFieldCell"; title = "Full screen:"; ObjectID = "v6I-Em-QcO"; */
+"v6I-Em-QcO.title" = "全屏：";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "v9Q-KQ-omE"; */
+"v9Q-KQ-omE.title" = "外观：";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "vAf-1d-Q8A"; */
+"vAf-1d-Q8A.title" = "允许而不询问";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "vCA-Gp-FvI"; */
+"vCA-Gp-FvI.title" = "秒";
+
+/* Class = "NSButton"; ibShadowedToolTip = "The non-ASCII font affects all characters above code point 127."; ObjectID = "vNf-D5-cU4"; */
+"vNf-D5-cU4.ibShadowedToolTip" = "非 ASCII 字体影响码点 127 以上的所有字符。";
+
+/* Class = "NSButtonCell"; title = "Restrict alternate mouse scroll to vertical scrolling"; ObjectID = "vTm-IT-1wG"; */
+"vTm-IT-1wG.title" = "将备用鼠标滚动限制为垂直滚动";
+
+/* Class = "NSMenuItem"; title = "^ Number"; ObjectID = "vVr-Bk-IXn"; */
+"vVr-Bk-IXn.title" = "^ 数字";
+
+/* Class = "NSMenuItem"; title = "Allow Without Asking"; ObjectID = "vZs-cl-mQP"; */
+"vZs-cl-mQP.title" = "允许而不询问";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled, the size and location of terminal windows are recorded when windows are closed. Later, when creating a new window, the recorded geometry is used instead of the size specified in the profile."; ObjectID = "vhk-ek-NHd"; */
+"vhk-ek-NHd.ibShadowedToolTip" = "启用后，关闭窗口时会记录终端窗口的大小和位置。之后创建新窗口时，会使用记录的几何信息而非配置文件中指定的大小。";
+
+/* Class = "NSMenuItem"; title = "⌥ Number"; ObjectID = "vlQ-02-Vie"; */
+"vlQ-02-Vie.title" = "⌥ 数字";
+
+/* Class = "NSTextFieldCell"; title = "⚠️ This may reduce performance"; ObjectID = "voP-Nf-qdo"; */
+"voP-Nf-qdo.title" = "⚠️ 这可能降低性能";
+
+/* Class = "NSMenuItem"; title = "Meta"; ObjectID = "vxF-Ba-JVb"; */
+"vxF-Ba-JVb.title" = "Meta";
+
+/* Class = "NSMenuItem"; title = "Host"; ObjectID = "w6i-sK-DQu"; */
+"w6i-sK-DQu.title" = "主机";
+
+/* Class = "NSMenuItem"; title = "Over contents"; ObjectID = "wMW-cd-tme"; */
+"wMW-cd-tme.title" = "在内容上方";
+
+/* Class = "NSTableColumn"; headerCell.title = "Setting"; ObjectID = "wQ6-7Q-vbc"; */
+"wQ6-7Q-vbc.headerCell.title" = "设置";
+
+/* Class = "NSButtonCell"; title = "Maximize throughput at the cost of higher latency"; ObjectID = "wTp-Qf-YIk"; */
+"wTp-Qf-YIk.title" = "以更高延迟为代价最大化吞吐量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "When this option is off, double click selects a word as defined by “characters considered part of word for selection” in the General tab. When this option is on, double click uses smart selection to select file names, URLs, etc., using regular expressions defined in Profiles>Advanced>Smart Selection."; ObjectID = "wgv-Ah-fFr"; */
+"wgv-Ah-fFr.ibShadowedToolTip" = "当此选项关闭时，双击会按“通用”标签页中“视为单词组成部分的字符”定义来选择单词。当此选项开启时，双击会使用智能选择，通过“配置文件 > 高级 > 智能选择”中定义的正则表达式来选择文件名、URL 等。";
+
+/* Class = "NSButtonCell"; title = "Reset to Defaults"; ObjectID = "wh0-TX-q91"; */
+"wh0-TX-q91.title" = "重置为默认值";
+
+/* Class = "NSTextFieldCell"; title = "Precision"; ObjectID = "wiB-Dv-JI2"; */
+"wiB-Dv-JI2.title" = "精度";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Exclude from Dock only if all windows are hotkey windows"; ObjectID = "wjs-vG-qf2"; */
+"wjs-vG-qf2.ibExternalAccessibilityDescription" = "仅当所有窗口都是热键窗口时才从 Dock 中排除";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This is useful if you only use iTerm2 with a hotkey window. The preference is disabled if no dedicated hotkey window is defined since it would be impossible to get to iTerm2 when it has no windows and no hotkey is defined."; ObjectID = "wjs-vG-qf2"; */
+"wjs-vG-qf2.ibShadowedToolTip" = "如果你只用热键窗口使用 iTerm2，这会很有用。如果未定义专用热键窗口，此偏好设置会被停用，因为当 iTerm2 没有窗口且未定义热键时将无法访问它。";
+
+/* Class = "NSTextFieldCell"; title = "Environment:"; ObjectID = "wlk-QX-Gn5"; */
+"wlk-QX-Gn5.title" = "环境：";
+
+/* Class = "NSTextFieldCell"; title = "Shortcut to choose a split pane:"; ObjectID = "wrs-RL-mgS"; */
+"wrs-RL-mgS.title" = "选择分隔窗格的快捷键：";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "wt3-Hu-DaR"; */
+"wt3-Hu-DaR.label" = "通用";
+
+/* Class = "NSButtonCell"; title = "Show only non-default values"; ObjectID = "x0T-MM-6tL"; */
+"x0T-MM-6tL.title" = "仅显示非默认值";
+
+/* Class = "NSMenuItem"; title = "TTY"; ObjectID = "xEH-Wz-NWS"; */
+"xEH-Wz-NWS.title" = "TTY";
+
+/* Class = "NSMenuItem"; title = "Light Mode"; ObjectID = "xFU-tm-alS"; */
+"xFU-tm-alS.title" = "浅色模式";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "A session may cause the window to resize even if it is in an unselected tab or split pane"; ObjectID = "xLu-6A-YiV"; */
+"xLu-6A-YiV.ibExternalAccessibilityDescription" = "即使会话位于未选中的标签页或分隔窗格中，也可调整窗口大小";
+
+/* Class = "NSButtonCell"; title = "…even if it is in an unselected tab or split pane"; ObjectID = "xLu-6A-YiV"; */
+"xLu-6A-YiV.title" = "…即使它位于未选中的标签页或分隔窗格中";
+
+/* Class = "NSMenuItem"; title = "PWD"; ObjectID = "xPf-Vv-eGl"; */
+"xPf-Vv-eGl.title" = "PWD";
+
+/* Class = "NSMenuItem"; title = "fn Function"; ObjectID = "xeh-uE-u2r"; */
+"xeh-uE-u2r.title" = "fn 功能键";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "xnO-o6-bxw"; */
+"xnO-o6-bxw.title" = "项目 1";
+
+/* Class = "NSTextFieldCell"; title = "These settings define the default permissions for new chats."; ObjectID = "xtn-fq-1gQ"; */
+"xtn-fq-1gQ.title" = "这些设置定义新聊天的默认权限。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Paste bracketing tells compatible apps that text was inserted by a paste operation rather than typing. Some programs use this to treat pastes specially, such as by not auto-indenting it."; ObjectID = "xxq-Mn-NRG"; */
+"xxq-Mn-NRG.ibShadowedToolTip" = "粘贴括号化会告诉兼容的应用，文本是通过粘贴操作插入的，而非键入。某些程序会借此对粘贴进行特殊处理，例如不自动缩进。";
+
+/* Class = "NSButtonCell"; title = "Applications in terminal may change the title"; ObjectID = "yFQ-IJ-IID"; */
+"yFQ-IJ-IID.title" = "终端中的应用可更改标题";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "yIW-q3-V16"; */
+"yIW-q3-V16.title" = "始终";
+
+/* Class = "NSMenuItem"; title = "OpenAI"; ObjectID = "yOB-bP-Cn8"; */
+"yOB-bP-Cn8.title" = "OpenAI";
+
+/* Class = "NSTextFieldCell"; title = "Parameter:"; ObjectID = "yOZ-ww-9Dz"; */
+"yOZ-ww-9Dz.title" = "参数：";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Shows a configurable status bar at the top of each session."; ObjectID = "yTV-fG-vVx"; */
+"yTV-fG-vVx.ibShadowedToolTip" = "在每个会话顶部显示可配置的状态栏。";
+
+/* Class = "NSButtonCell"; title = "When pasting a dropped filename, wrap it in double quotes"; ObjectID = "ydH-wX-BJI"; */
+"ydH-wX-BJI.title" = "粘贴拖入的文件名时，用双引号将其括起";
+
+/* Class = "NSTextFieldCell"; title = "Resizing:"; ObjectID = "yre-4a-e3D"; */
+"yre-4a-e3D.title" = "调整大小：";
+
+/* Class = "NSTextFieldCell"; title = "Regular expression"; ObjectID = "yyK-z1-ogF"; */
+"yyK-z1-ogF.title" = "正则表达式";
+
+/* Class = "NSMenuItem"; title = "AI Chat + Full Terminal Access"; ObjectID = "zAd-tH-AVH"; */
+"zAd-tH-AVH.title" = "AI 聊天 + 完整终端访问";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "zNI-8R-j0Y"; */
+"zNI-8R-j0Y.title" = "项目 3";
+
+/* Class = "NSTextFieldCell"; title = "⚠️"; ObjectID = "zNa-1V-sCK"; */
+"zNa-1V-sCK.title" = "⚠️";
+
+/* Class = "NSTextFieldCell"; title = "Underlines:"; ObjectID = "zRi-ET-r9F"; */
+"zRi-ET-r9F.title" = "下划线：";
+
+/* Class = "NSMenuItem"; title = "Responses"; ObjectID = "zSI-kN-4Cj"; */
+"zSI-kN-4Cj.title" = "响应";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "zTX-dI-C4f"; */
+"zTX-dI-C4f.title" = "OtherViews";
+
+/* Class = "NSButton"; ibShadowedToolTip = "This is useful if you only use iTerm2 with a hotkey window. The preference is disabled if no dedicated hotkey window is defined since it would be impossible to get to iTerm2 when it has no windows and no hotkey is defined."; ObjectID = "zde-kb-c7t"; */
+"zde-kb-c7t.ibShadowedToolTip" = "如果你只用热键窗口使用 iTerm2，这会很有用。如果未定义专用热键窗口，此偏好设置会被停用，因为当 iTerm2 没有窗口且未定义热键时将无法访问它。";
+
+/* Class = "NSTextFieldCell"; title = "Reason this is useful goes here"; ObjectID = "zhD-Mp-msg"; */
+"zhD-Mp-msg.title" = "此项有用的原因写在这里";
+
+/* Class = "NSTabViewItem"; label = "Panes"; ObjectID = "zjb-6I-dDc"; */
+"zjb-6I-dDc.label" = "窗格";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Interpolated String"; ObjectID = "zrh-qF-3Iv"; */
+"zrh-qF-3Iv.placeholderString" = "插值字符串";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "ztD-z6-FaU"; */
+"ztD-z6-FaU.title" = "文件夹：";
+
+/* Class = "NSTextFieldCell"; title = "Modes:"; ObjectID = "zwF-JP-GLA"; */
+"zwF-JP-GLA.title" = "模式：";

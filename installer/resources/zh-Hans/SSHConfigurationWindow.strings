@@ -1,0 +1,45 @@
+﻿
+/* Class = "NSTextFieldCell"; title = "Path to SSH:"; ObjectID = "5Ya-mQ-QY5"; */
+"5Ya-mQ-QY5.title" = "SSH 路径:";
+
+/* Class = "NSTextFieldCell"; title = "Files to Copy to Remote Host:"; ObjectID = "BeO-Rn-T4R"; */
+"BeO-Rn-T4R.title" = "要拷贝到远程主机的文件:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "D3c-WR-X8U"; */
+"D3c-WR-X8U.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Fmg-GQ-fHY"; */
+"Fmg-GQ-fHY.title" = "好";
+
+/* Class = "NSTextFieldCell"; placeholderString = "/usr/bin/ssh"; ObjectID = "IPF-xv-FWE"; */
+"IPF-xv-FWE.placeholderString" = "/usr/bin/ssh";
+
+/* Class = "NSTableColumn"; headerCell.title = "File or Folder"; ObjectID = "N76-mg-r19"; */
+"N76-mg-r19.headerCell.title" = "文件或文件夹";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "SSH Integration"; ObjectID = "SOh-zL-23F"; */
+"SOh-zL-23F.title" = "SSH 集成";
+
+/* Class = "NSTextFieldCell"; title = "Environment Variables to Copy to Remote Host:"; ObjectID = "UXs-4L-PQD"; */
+"UXs-4L-PQD.title" = "要拷贝到远程主机的环境变量:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Destination"; ObjectID = "cb2-6S-OCc"; */
+"cb2-6S-OCc.headerCell.title" = "目的位置";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "f6s-hL-IhT"; */
+"f6s-hL-IhT.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iuf-2U-R7w"; */
+"iuf-2U-R7w.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "ium-gO-F7S"; */
+"ium-gO-F7S.title" = "浏览";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "l94-S7-arn"; */
+"l94-S7-arn.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "nyT-vq-R0T"; */
+"nyT-vq-R0T.title" = "表格视图单元格";

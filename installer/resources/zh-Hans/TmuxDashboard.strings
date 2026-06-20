@@ -1,0 +1,48 @@
+﻿
+/* Class = "NSWindow"; title = "tmux Dashboard"; ObjectID = "1"; */
+"1.title" = "tmux 仪表盘";
+
+/* Class = "NSTableColumn"; headerCell.title = "Session"; ObjectID = "8"; */
+"8.headerCell.title" = "会话";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Attach"; ObjectID = "29"; */
+"29.title" = "附加";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search Windows"; ObjectID = "31"; */
+"31.placeholderString" = "搜索窗口";
+
+/* Class = "NSTableColumn"; headerCell.title = "Window"; ObjectID = "38"; */
+"38.headerCell.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "39"; */
+"39.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "75"; */
+"75.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Open in Windows"; ObjectID = "87"; */
+"87.title" = "在窗口中打开";
+
+/* Class = "NSButtonCell"; title = "Hide"; ObjectID = "97"; */
+"97.title" = "隐藏";
+
+/* Class = "NSButtonCell"; title = "Open in Windows"; ObjectID = "98"; */
+"98.title" = "在窗口中打开";
+
+/* Class = "NSButtonCell"; title = "Open in Tabs"; ObjectID = "99"; */
+"99.title" = "在标签页中打开";
+
+/* Class = "NSButtonCell"; title = "Detach"; ObjectID = "103"; */
+"103.title" = "分离";
+
+/* Class = "NSButtonCell"; title = "Open dashboard when attaching if there are hidden windows"; ObjectID = "El0-Wa-qm5"; */
+"El0-Wa-qm5.title" = "附加时如果有隐藏窗口则打开仪表盘";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Zbp-7h-4Gi"; */
+"Zbp-7h-4Gi.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Don’t open windows when attaching if there are at least this many windows:"; ObjectID = "wIU-qt-nuF"; */
+"wIU-qt-nuF.title" = "附加时如果窗口数量达到此值,则不打开窗口:";
